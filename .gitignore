@@ -1,7 +1,13 @@
 # Custom
+clean_data/
 original_data/
-data/
+processed_data/
 temp/
+us_data/
+
+# Backup data
+_us/
+_international/
 
 ### Python
 # Byte-compiled / optimized / DLL files

@@ -1,80 +1,72 @@
 """
-
+Retrieve and process data from PRB — https://www.prb.org/
 """
-# Standard library imports
-import argparse
+# Third-party library imports
+# pylint: disable=no-value-for-parameter
+import click
 
 # Local imports
 from helpers.helpers import (
     _start_from_scratch,
+    delete_empty_rows,
     do_maintenance,
-    download_dataset,
+    download_data,
     execute_on_all,
+    location_is_US,
     trim_file_header,
 )
 
-# Quick settings
-SETTINGS = {"download": False}
-
-# Extracted from HTML source at https://www.prb.org/international/ with Neovim
-DATASETS = [
-    "population",
-    "population-2035",
-    "population-2050",
-    "births",
-    "deaths",
-    "rate-natural-increase",
-    "infant-mortality",
-    "fertility",
-    "gross-national-income",
-    "urban",
-    "fp-all",
-    "fp-total-modern",
-    "hiv-rate-male",
-    "hiv-rate-female",
-    "life-expectancy-birth-male",
-    "life-expectancy-birth-female",
-    "age15",
-    "age65",
-    "hh-size-av",
-    "hh-one-person",
-    "fp-unmet-total",
-    "fp-demand-satisfied-married",
-    "fp-demand-satisfied-15-24",
-]
+# Main entry point on top of which other commands are created
+@click.group()
+def ccli():
+    "Retrieve and process data from PRB — https://www.prb.org/"
+    pass
 
 
-@do_maintenance
-def run() -> None:
-    """Main function to run the script. The action happens here."""
-    execute_on_all(DATASETS, download_dataset, SETTINGS)
-    execute_on_all(DATASETS, trim_file_header)
+@click.command()
+def run():
+    """Retrieve and process data from PRB — https://www.prb.org/"""
+    click.secho(
+        "You are about to download and process your data.",
+        fg="blue",
+        bold=True,
+    )
+    if click.confirm(
+        "Are you sure you want to continue?",
+        default=False,
+        abort=True,
+        prompt_suffix=": ",
+        show_default=True,
+        err=False,
+    ):
+        pass
+
+@ccli.command()
+@click.argument("location", type=click.Choice(["us", "international"]))
+def delempty(location):
+    """Delete empty rows in CSV files."""
+    execute_on_all(location, delete_empty_rows)
+
+@ccli.command()
+@click.argument("location", type=click.Choice(["us", "international"]))
+def download(location):
+    """Retrieve data from source."""
+    execute_on_all(location, download_data)
+
+
+@ccli.command()
+def reset():
+    """Delete all data and start from a clean slate."""
+    _start_from_scratch()
+
+
+@ccli.command()
+@click.argument("location", type=click.Choice(["us", "international"]))
+def trimheaders(location):
+    """Remove superfluous header lines in CSV files."""
+    execute_on_all(location, trim_file_header)
+    pass
 
 
 if __name__ == "__main__":
-    # initiate the parser
-    PARSER = argparse.ArgumentParser()
-    PARSER.add_argument(
-        "-d",
-        "--download",
-        help="Force download of datasets",
-        action="store_true",
-    )
-    PARSER.add_argument(
-        "-r",
-        "--reset",
-        help="Start from scratch: delete everything",
-        action="store_true",
-    )
-
-    # read arguments from the command line
-    ARGUMENTS = PARSER.parse_args()
-
-    # check for --reset or -r, script ends here if condition is true
-    if ARGUMENTS.reset:
-        _start_from_scratch()  # script exits here
-
-    if ARGUMENTS.download:
-        SETTINGS["download"] = True
-
-    run()
+    ccli()
