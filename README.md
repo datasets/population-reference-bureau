@@ -1,6 +1,6 @@
-# awesome-data-prb
+# Population Reference Bureau
 
-Curate available data from the [Population Reference Bureau](https://www.prb.org/data/).
+Curated data available from the [Population Reference Bureau](https://www.prb.org/data/).
 
 ## Table of contents
 <!-- vim-markdown-toc GFM -->
@@ -61,12 +61,12 @@ There will be quite a bit of output to the terminal. The final statement should 
 
     > Your Data Package is valid!
 
-The clean data that's useful for distribution in the end is located under the `clean_data` directory like so:
+The clean data that's useful for distribution in the end is located under the `population_reference_bureau` directory like so:
 
     .
-    ├── clean_data
+    ├── population_reference_bureau
     │   ├── datapackage.json
     │   ├── inter
     │   │   ├── ...
     │   └── us
-    │       ├── ...
+    │       └── ...

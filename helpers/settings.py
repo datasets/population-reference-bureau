@@ -2,9 +2,9 @@
 Quick settings to modify, if needed.
 """
 SETTINGS = {
-    "clean_data": "clean_data",
-    "clean_data_inter": "clean_data/inter",
-    "clean_data_us": "clean_data/us",
+    "clean_data": "population_reference_bureau",
+    "clean_data_inter": "population_reference_bureau/inter",
+    "clean_data_us": "population_reference_bureau/us",
     "original_data": "original_data",
     "original_data_inter": "original_data/inter",
     "original_data_us": "original_data/us",

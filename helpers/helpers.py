@@ -207,7 +207,7 @@ def location_is_US(source_name: str) -> bool:
 
 
 def package_data() -> None:
-    """Create datapackage.json in clean_data/ folder."""
+    """Create datapackage.json in population_reference_bureau/ folder."""
     # Run `data init``in truncate_data dir
     subprocess.run(["data", "init", SETTINGS["truncate_data"]], check=True)
 
@@ -217,7 +217,7 @@ def package_data() -> None:
     # Make quick passes through datapackage.json for easy substitution
     with fileinput.FileInput(datapackage, inplace=True) as filename:
         for line in filename:
-            print(line.replace("truncate_data", "clean_data"), end="")
+            print(line.replace("truncate_data", "population_reference_bureau"), end="")
     with fileinput.FileInput(datapackage, inplace=True) as filename:
         for line in filename:
             print(
@@ -226,7 +226,7 @@ def package_data() -> None:
             )
     with fileinput.FileInput(datapackage, inplace=True) as filename:
         for line in filename:
-            print(line.replace("clean_data/", ""), end="")
+            print(line.replace("population_reference_bureau/", ""), end="")
 
     os.replace(datapackage, dst_package)
 

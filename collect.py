@@ -54,7 +54,7 @@ def everything(reset):
 
 @ccli.command()
 def package():
-    """Create datapackage.json in clean_data/."""
+    """Create datapackage.json in population_reference_bureau/."""
     package_data()
 
 
