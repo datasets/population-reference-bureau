@@ -13,7 +13,6 @@ from helpers.helpers import (
     do_everything,
     download_data,
     execute_on_all,
-    location_is_US,
     package_data,
     trim_file_header,
     truncate_csvs,
@@ -54,6 +53,12 @@ def everything(reset):
 
 
 @ccli.command()
+def package():
+    """Create datapackage.json in clean_data/."""
+    package_data()
+
+
+@ccli.command()
 def reset():
     """Delete all data and start from a clean slate."""
     _start_from_scratch()
@@ -78,12 +83,6 @@ def trimheaders(location):
 def truncate(location):
     """Keep first 20 lines of clean CSV files."""
     truncate_csvs(location)
-
-
-@ccli.command()
-def package():
-    """Create datapackage.json in clean_data/."""
-    package_data()
 
 
 if __name__ == "__main__":

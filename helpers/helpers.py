@@ -26,15 +26,15 @@ from .settings import (
 )
 
 
-def _start_from_scratch(exit=True) -> None:
+def _start_from_scratch(exit_script=True) -> None:
     """Delete all data and start from a clean slate."""
     if click.confirm(
-        "Do you want to delete all data and start from scratch?",
-        default=False,
-        abort=True,
-        prompt_suffix=": ",
-        show_default=True,
-        err=False,
+            "Do you want to delete all data and start from scratch?",
+            default=False,
+            abort=True,
+            prompt_suffix=": ",
+            show_default=True,
+            err=False,
     ):
         for directory in FOLDERS_TO_CLEAN:
             shutil.rmtree(directory, ignore_errors=True)
@@ -42,7 +42,7 @@ def _start_from_scratch(exit=True) -> None:
     else:
         sys.exit(0)
 
-    if exit:
+    if exit_script:
         sys.exit(0)
 
 
@@ -68,18 +68,20 @@ def do_maintenance(func, *args, **kwargs):
 
 
 def clean_data(filename: str, location: str) -> None:
+    """Use Pandas to clean data. Replace NA values, sort, combine columns,
+    reset index to new combined column."""
     clean_directory, _, processing_directory = set_location_dirs(location)
     na_vals = ["n/a"]
     df = pd.read_csv(
-        f"{processing_directory}/{filename}.csv",
-        index_col="Name",
-        na_values=na_vals,
+        f"{processing_directory}/{filename}.csv", na_values=na_vals,
     )
     df.sort_values(by=["Name", "TimeFrame"], inplace=True)
-    df["FIPS"] = df["FIPS"].astype(str)
 
     # Remove leading zeros in column FIPS to convert to valid integers
-    df["FIPS"] = df["FIPS"].apply(lambda x: x.lstrip("0"))
+    df["NameFIPS"] = df["Name"] + " - " + df["FIPS"]
+    df.set_index("NameFIPS", inplace=True)
+    df.drop(columns=["FIPS", "Name"], inplace=True)
+
     exported_file = f"{clean_directory}/{filename}.csv"
     df.to_csv(exported_file)
     click.echo(
@@ -88,7 +90,7 @@ def clean_data(filename: str, location: str) -> None:
     )
 
 
-def delete_empty_rows(filename: str, location: str):
+def delete_empty_rows(filename: str, location: str) -> None:
     """Delete empty lines in file located at `filepath`."""
     _, _, processing_directory = set_location_dirs(location)
     filepath = f"{processing_directory}/{filename}.csv"
@@ -108,7 +110,7 @@ def delete_empty_rows(filename: str, location: str):
 def do_everything(reset: str) -> None:
     """Delete old data. Retrieve and clean everything in one go."""
     if reset == "reset":
-        _start_from_scratch(exit=False)
+        _start_from_scratch(exit_script=False)
     for location in LOCATIONS:
         click.secho(
             f"\n\nWorking with {location.upper()} data...\n",
@@ -120,6 +122,8 @@ def do_everything(reset: str) -> None:
         execute_on_all(location, delete_empty_rows)
         execute_on_all(location, clean_data)
         truncate_csvs(location)
+
+    package_data()
 
 
 def download_data(filename: str, url_bit: str) -> None:
@@ -193,42 +197,45 @@ def execute_on_all(location: str, func) -> None:
 
 
 def folder_is_empty(folder_name: str) -> bool:
+    """Return bool as to whether `folder_name` is empty."""
     return os.listdir(SETTINGS[folder_name]) == []
 
 
 def location_is_US(source_name: str) -> bool:
+    """Return bool as to whether `source_name` equals "us" or not."""
     return source_name == "us"
 
 
 def package_data() -> None:
     """Create datapackage.json in clean_data/ folder."""
     # Run `data init``in truncate_data dir
-    subprocess.run(["data", "init", SETTINGS["truncate_data"]])
+    subprocess.run(["data", "init", SETTINGS["truncate_data"]], check=True)
 
     datapackage = f"{SETTINGS['truncate_data']}/datapackage.json"
     dst_package = f"{SETTINGS['clean_data']}/datapackage.json"
 
     # Make quick passes through datapackage.json for easy substitution
     with fileinput.FileInput(datapackage, inplace=True) as filename:
-        for index, line in enumerate(filename):
+        for line in filename:
             print(line.replace("truncate_data", "clean_data"), end="")
     with fileinput.FileInput(datapackage, inplace=True) as filename:
-        for index, line in enumerate(filename):
+        for line in filename:
             print(
                 line.replace("Truncate_data", "Population-Reference-Bureau"),
                 end="",
             )
     with fileinput.FileInput(datapackage, inplace=True) as filename:
-        for index, line in enumerate(filename):
+        for line in filename:
             print(line.replace("clean_data/", ""), end="")
 
     os.replace(datapackage, dst_package)
 
     # Validate datapackage
-    subprocess.run(["data", "validate", SETTINGS["clean_data"]])
+    subprocess.run(["data", "validate", SETTINGS["clean_data"]], check=True)
 
 
 def set_location_dirs(location: str) -> tuple:
+    """Return a tuple containing directory settings for a given `location`."""
     if location_is_US(location):
         clean_directory = SETTINGS["clean_data_us"]
         original_directory = SETTINGS["original_data_us"]
@@ -243,14 +250,14 @@ def set_location_dirs(location: str) -> tuple:
 def trim_file_header(filename: str, location: str, lines: int = 4) -> None:
     """Remove the first `lines` in `filename` for `location`."""
     (
-        clean_directory,
+        _,
         original_directory,
         processing_directory,
     ) = set_location_dirs(location)
     try:
         trimmed = False
         with open(f"{original_directory}/{filename}.csv") as input_file, open(
-            f"{SETTINGS['temp_dir']}/{filename}.csv", "w"
+                f"{SETTINGS['temp_dir']}/{filename}.csv", "w"
         ) as output_file:
             first_line = input_file.readline()
             print(f"[Removing header] '{filename}'...", end=" ")
@@ -273,7 +280,7 @@ def trim_file_header(filename: str, location: str, lines: int = 4) -> None:
         print(f"[Removing header] '{filename}.csv' not found. Next.")
 
 
-def truncate_csvs(location: str, lines: int = 20) -> str:
+def truncate_csvs(location: str, lines: int = 20) -> None:
     """Truncate a CSV file to retain only the first `lines` of each file.
     Return a str of affected directory for further processing."""
     if location_is_US(location):
