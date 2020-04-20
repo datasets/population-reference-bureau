@@ -1,0 +1,105 @@
+NameFIPS,Type,TimeFrame,Data
+Alabama - 01,State,2006-2010,47.0
+Alabama - 01,State,2013-2017,47.76
+Alaska - 02,State,2006-2010,41.2
+Alaska - 02,State,2013-2017,41.8
+Arizona - 04,State,2006-2010,45.3
+Arizona - 04,State,2013-2017,46.9
+Arkansas - 05,State,2006-2010,45.9
+Arkansas - 05,State,2013-2017,47.32
+California - 06,State,2006-2010,46.9
+California - 06,State,2013-2017,48.89
+Colorado - 08,State,2006-2010,45.5
+Colorado - 08,State,2013-2017,45.89
+Connecticut - 09,State,2006-2010,48.2
+Connecticut - 09,State,2013-2017,49.5
+Delaware - 10,State,2006-2010,43.6
+Delaware - 10,State,2013-2017,45.7
+District of Columbia - 11,State,2006-2010,53.5
+District of Columbia - 11,State,2013-2017,53.14
+Florida - 12,State,2006-2010,47.1
+Florida - 12,State,2013-2017,48.58
+Georgia - 13,State,2006-2010,46.5
+Georgia - 13,State,2013-2017,48.21
+Hawaii - 15,State,2006-2010,43.0
+Hawaii - 15,State,2013-2017,44.04
+Idaho - 16,State,2006-2010,42.9
+Idaho - 16,State,2013-2017,44.78
+Illinois - 17,State,2006-2010,46.5
+Illinois - 17,State,2013-2017,48.09
+Indiana - 18,State,2006-2010,43.4
+Indiana - 18,State,2013-2017,45.05
+Iowa - 19,State,2006-2010,42.7
+Iowa - 19,State,2013-2017,44.27
+Kansas - 20,State,2006-2010,44.4
+Kansas - 20,State,2013-2017,45.6
+Kentucky - 21,State,2006-2010,46.4
+Kentucky - 21,State,2013-2017,47.62
+Louisiana - 22,State,2006-2010,47.5
+Louisiana - 22,State,2013-2017,49.1
+Maine - 23,State,2006-2010,43.4
+Maine - 23,State,2013-2017,45.29
+Maryland - 24,State,2006-2010,44.1
+Maryland - 24,State,2013-2017,45.2
+Massachusetts - 25,State,2006-2010,46.9
+Massachusetts - 25,State,2013-2017,48.31
+Michigan - 26,State,2006-2010,44.9
+Michigan - 26,State,2013-2017,46.56
+Minnesota - 27,State,2006-2010,43.8
+Minnesota - 27,State,2013-2017,45.01
+Mississippi - 28,State,2006-2010,47.4
+Mississippi - 28,State,2013-2017,47.81
+Missouri - 29,State,2006-2010,45.0
+Missouri - 29,State,2013-2017,46.3
+Montana - 30,State,2006-2010,43.7
+Montana - 30,State,2013-2017,46.07
+Nebraska - 31,State,2006-2010,43.2
+Nebraska - 31,State,2013-2017,44.27
+Nevada - 32,State,2006-2010,43.7
+Nevada - 32,State,2013-2017,45.28
+New Hampshire - 33,State,2006-2010,42.1
+New Hampshire - 33,State,2013-2017,43.54
+New Jersey - 34,State,2006-2010,46.3
+New Jersey - 34,State,2013-2017,48.02
+New Mexico - 35,State,2006-2010,45.9
+New Mexico - 35,State,2013-2017,47.64
+New York - 36,State,2006-2010,49.8
+New York - 36,State,2013-2017,51.29
+North Carolina - 37,State,2006-2010,46.3
+North Carolina - 37,State,2013-2017,47.61
+North Dakota - 38,State,2006-2010,44.4
+North Dakota - 38,State,2013-2017,45.89
+Ohio - 39,State,2006-2010,45.0
+Ohio - 39,State,2013-2017,46.44
+Oklahoma - 40,State,2006-2010,45.9
+Oklahoma - 40,State,2013-2017,46.54
+Oregon - 41,State,2006-2010,44.6
+Oregon - 41,State,2013-2017,46.15
+Pennsylvania - 42,State,2006-2010,45.8
+Pennsylvania - 42,State,2013-2017,47.05
+Rhode Island - 44,State,2006-2010,45.6
+Rhode Island - 44,State,2013-2017,47.48
+South Carolina - 45,State,2006-2010,46.1
+South Carolina - 45,State,2013-2017,47.06
+South Dakota - 46,State,2006-2010,44.0
+South Dakota - 46,State,2013-2017,44.62
+Tennessee - 47,State,2006-2010,46.9
+Tennessee - 47,State,2013-2017,48.01
+Texas - 48,State,2006-2010,47.2
+Texas - 48,State,2013-2017,48.03
+United States - US,Country,2006-2010,46.7
+United States - US,Country,2013-2017,48.15
+Utah - 49,State,2006-2010,41.3
+Utah - 49,State,2013-2017,42.61
+Vermont - 50,State,2006-2010,43.2
+Vermont - 50,State,2013-2017,44.68
+Virginia - 51,State,2006-2010,45.7
+Virginia - 51,State,2013-2017,46.66
+Washington - 53,State,2006-2010,44.1
+Washington - 53,State,2013-2017,45.69
+West Virginia - 54,State,2006-2010,45.4
+West Virginia - 54,State,2013-2017,46.2
+Wisconsin - 55,State,2006-2010,42.9
+Wisconsin - 55,State,2013-2017,44.41
+Wyoming - 56,State,2006-2010,42.5
+Wyoming - 56,State,2013-2017,42.93
