@@ -4,12 +4,15 @@ Helper functions to go with collect.py
 # Standard library imports
 from pathlib import Path
 import csv
+import fileinput
 import os
 import shutil
+import subprocess
 import sys
 
 # Third-party library imports
 import click
+import pandas as pd
 import requests
 
 # Local imports
@@ -23,23 +26,7 @@ from .settings import (
 )
 
 
-def delete_empty_rows(filename: str, location: str):
-    """Delete empty lines in file located at `filepath`."""
-    _, processing_directory = set_location_dirs(location)
-    filepath = f"{processing_directory}/{filename}.csv"
-    temp_file = f"{SETTINGS['temp_dir']}/{filename}.csv"
-    try:
-        with open(filepath) as in_file, open(temp_file, "w") as out_file:
-            writer = csv.writer(out_file)
-            for row in csv.reader(in_file):
-                if row:
-                    writer.writerow(row)
-        os.replace(temp_file, filepath)
-    except FileNotFoundError:
-        print(f"[Deleting empty lines] '{filepath}' not found. Next.")
-
-
-def _start_from_scratch() -> None:
+def _start_from_scratch(exit=True) -> None:
     """Delete all data and start from a clean slate."""
     if click.confirm(
         "Do you want to delete all data and start from scratch?",
@@ -52,7 +39,11 @@ def _start_from_scratch() -> None:
         for directory in FOLDERS_TO_CLEAN:
             shutil.rmtree(directory, ignore_errors=True)
         click.secho("Everything is clean now.", fg="green", bold="True")
-    sys.exit(0)
+    else:
+        sys.exit(0)
+
+    if exit:
+        sys.exit(0)
 
 
 def do_maintenance(func, *args, **kwargs):
@@ -74,6 +65,61 @@ def do_maintenance(func, *args, **kwargs):
         shutil.rmtree(SETTINGS["temp_dir"], ignore_errors=True)
 
     return cleaner_wrapper
+
+
+def clean_data(filename: str, location: str) -> None:
+    clean_directory, _, processing_directory = set_location_dirs(location)
+    na_vals = ["n/a"]
+    df = pd.read_csv(
+        f"{processing_directory}/{filename}.csv",
+        index_col="Name",
+        na_values=na_vals,
+    )
+    df.sort_values(by=["Name", "TimeFrame"], inplace=True)
+    df["FIPS"] = df["FIPS"].astype(str)
+
+    # Remove leading zeros in column FIPS to convert to valid integers
+    df["FIPS"] = df["FIPS"].apply(lambda x: x.lstrip("0"))
+    exported_file = f"{clean_directory}/{filename}.csv"
+    df.to_csv(exported_file)
+    click.echo(
+        click.style("Exported ", fg="blue")
+        + click.style(exported_file, fg="green")
+    )
+
+
+def delete_empty_rows(filename: str, location: str):
+    """Delete empty lines in file located at `filepath`."""
+    _, _, processing_directory = set_location_dirs(location)
+    filepath = f"{processing_directory}/{filename}.csv"
+    temp_file = f"{SETTINGS['temp_dir']}/{filename}.csv"
+    try:
+        with open(filepath) as in_file, open(temp_file, "w") as out_file:
+            writer = csv.writer(out_file)
+            for row in csv.reader(in_file):
+                if row:
+                    writer.writerow(row)
+        os.replace(temp_file, filepath)
+    except FileNotFoundError:
+        print(f"[Deleting empty lines] '{filepath}' not found. Next.")
+
+
+@do_maintenance
+def do_everything(reset: str) -> None:
+    """Delete old data. Retrieve and clean everything in one go."""
+    if reset == "reset":
+        _start_from_scratch(exit=False)
+    for location in LOCATIONS:
+        click.secho(
+            f"\n\nWorking with {location.upper()} data...\n",
+            fg="green",
+            bold="True",
+        )
+        execute_on_all(location, download_data)
+        execute_on_all(location, trim_file_header)
+        execute_on_all(location, delete_empty_rows)
+        execute_on_all(location, clean_data)
+        truncate_csvs(location)
 
 
 def download_data(filename: str, url_bit: str) -> None:
@@ -146,19 +192,61 @@ def execute_on_all(location: str, func) -> None:
         func(item, func_arg)
 
 
+def folder_is_empty(folder_name: str) -> bool:
+    return os.listdir(SETTINGS[folder_name]) == []
+
+
+def location_is_US(source_name: str) -> bool:
+    return source_name == "us"
+
+
+def package_data() -> None:
+    """Create datapackage.json in clean_data/ folder."""
+    # Run `data init``in truncate_data dir
+    subprocess.run(["data", "init", SETTINGS["truncate_data"]])
+
+    datapackage = f"{SETTINGS['truncate_data']}/datapackage.json"
+    dst_package = f"{SETTINGS['clean_data']}/datapackage.json"
+
+    # Make quick passes through datapackage.json for easy substitution
+    with fileinput.FileInput(datapackage, inplace=True) as filename:
+        for index, line in enumerate(filename):
+            print(line.replace("truncate_data", "clean_data"), end="")
+    with fileinput.FileInput(datapackage, inplace=True) as filename:
+        for index, line in enumerate(filename):
+            print(
+                line.replace("Truncate_data", "Population-Reference-Bureau"),
+                end="",
+            )
+    with fileinput.FileInput(datapackage, inplace=True) as filename:
+        for index, line in enumerate(filename):
+            print(line.replace("clean_data/", ""), end="")
+
+    os.replace(datapackage, dst_package)
+
+    # Validate datapackage
+    subprocess.run(["data", "validate", SETTINGS["clean_data"]])
+
+
 def set_location_dirs(location: str) -> tuple:
     if location_is_US(location):
+        clean_directory = SETTINGS["clean_data_us"]
         original_directory = SETTINGS["original_data_us"]
         processing_directory = SETTINGS["processed_data_us"]
     else:
+        clean_directory = SETTINGS["clean_data_inter"]
         original_directory = SETTINGS["original_data_inter"]
         processing_directory = SETTINGS["processed_data_inter"]
-    return (original_directory, processing_directory)
+    return (clean_directory, original_directory, processing_directory)
 
 
 def trim_file_header(filename: str, location: str, lines: int = 4) -> None:
     """Remove the first `lines` in `filename` for `location`."""
-    original_directory, processing_directory = set_location_dirs(location)
+    (
+        clean_directory,
+        original_directory,
+        processing_directory,
+    ) = set_location_dirs(location)
     try:
         trimmed = False
         with open(f"{original_directory}/{filename}.csv") as input_file, open(
@@ -185,9 +273,37 @@ def trim_file_header(filename: str, location: str, lines: int = 4) -> None:
         print(f"[Removing header] '{filename}.csv' not found. Next.")
 
 
-def location_is_US(source_name: str) -> bool:
-    return source_name == "us"
+def truncate_csvs(location: str, lines: int = 20) -> str:
+    """Truncate a CSV file to retain only the first `lines` of each file.
+    Return a str of affected directory for further processing."""
+    if location_is_US(location):
+        clean_directory = "clean_data_us"
+        truncate_dir = "truncate_data_us"
+        save_dir = SETTINGS[truncate_dir]
+    else:
+        clean_directory = "clean_data_inter"
+        truncate_dir = "truncate_data_inter"
+        save_dir = SETTINGS[truncate_dir]
 
+    if folder_is_empty(clean_directory):
+        print(f"[Truncating {location}] No clean data found.")
+        sys.exit(0)
 
-def folder_is_empty(folder_name: str) -> bool:
-    return os.listdir(SETTINGS[folder_name]) == []
+    for file in os.listdir(SETTINGS[clean_directory]):
+        filename = os.fsdecode(file)
+        if filename.endswith(".csv"):
+            filepath = f"{SETTINGS[clean_directory]}/{filename}"
+            save_file = f"{save_dir}/{filename}"
+            try:
+                os.mkdir(SETTINGS["truncate_data"])
+            except FileExistsError:
+                pass
+            try:
+                os.mkdir(save_dir)
+            except FileExistsError:
+                pass
+            with open(filepath) as in_file, open(save_file, "w") as out_file:
+                writer = csv.writer(out_file)
+                for index, row in enumerate(csv.reader(in_file)):
+                    if row and index < lines:
+                        writer.writerow(row)

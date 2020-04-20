@@ -2,8 +2,8 @@
 clean_data/
 original_data/
 processed_data/
+truncate_data/
 temp/
-us_data/
 
 # Backup data
 _us/

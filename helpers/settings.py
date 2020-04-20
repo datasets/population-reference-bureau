@@ -11,10 +11,12 @@ SETTINGS = {
     "processed_data": "processed_data",
     "processed_data_inter": "processed_data/inter",
     "processed_data_us": "processed_data/us",
+    "truncate_data": "truncate_data",
+    "truncate_data_inter": "truncate_data/inter",
+    "truncate_data_us": "truncate_data/us",
     "temp_dir": "temp",
 }
 
-# Everything that can be deleted to start from scratch
 FOLDERS_TO_CLEAN = [
     "__pycache__",
     "helpers/__pycache__",
@@ -28,6 +30,9 @@ FOLDERS_TO_CLEAN = [
     SETTINGS["processed_data"],
     SETTINGS["processed_data_inter"],
     SETTINGS["processed_data_us"],
+    SETTINGS["truncate_data"],
+    SETTINGS["truncate_data_inter"],
+    SETTINGS["truncate_data_us"],
 ]
 
 # Needed for script to work fully
@@ -42,6 +47,9 @@ FOLDERS_TO_CREATE = [
     SETTINGS["processed_data"],
     SETTINGS["processed_data_inter"],
     SETTINGS["processed_data_us"],
+    SETTINGS["truncate_data"],
+    SETTINGS["truncate_data_inter"],
+    SETTINGS["truncate_data_us"],
 ]
 
 # Data extracted from HTML source at https://www.prb.org/international/
