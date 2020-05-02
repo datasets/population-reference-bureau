@@ -1,0 +1,105 @@
+FIPS,Name,Type,TimeFrame,Data
+01,Alabama,State,2006-2010,25.5
+01,Alabama,State,2013-2017,26.4
+02,Alaska,State,2006-2010,24.8
+02,Alaska,State,2013-2017,26
+04,Arizona,State,2006-2010,25.6
+04,Arizona,State,2013-2017,27.5
+05,Arkansas,State,2006-2010,24.5
+05,Arkansas,State,2013-2017,25.5
+06,California,State,2006-2010,26.9
+06,California,State,2013-2017,28.6
+08,Colorado,State,2006-2010,25.7
+08,Colorado,State,2013-2017,27.3
+09,Connecticut,State,2006-2010,27.6
+09,Connecticut,State,2013-2017,29.3
+10,Delaware,State,2006-2010,26.4
+10,Delaware,State,2013-2017,28.7
+11,District of Columbia,State,2006-2010,29.6
+11,District of Columbia,State,2013-2017,30.4
+12,Florida,State,2006-2010,26.6
+12,Florida,State,2013-2017,28.5
+13,Georgia,State,2006-2010,25.9
+13,Georgia,State,2013-2017,27.4
+15,Hawaii,State,2006-2010,27
+15,Hawaii,State,2013-2017,27.6
+16,Idaho,State,2006-2010,23.3
+16,Idaho,State,2013-2017,25.1
+17,Illinois,State,2006-2010,27.1
+17,Illinois,State,2013-2017,28.5
+18,Indiana,State,2006-2010,25.9
+18,Indiana,State,2013-2017,26.8
+19,Iowa,State,2006-2010,25.5
+19,Iowa,State,2013-2017,26.3
+20,Kansas,State,2006-2010,25.1
+20,Kansas,State,2013-2017,25.8
+21,Kentucky,State,2006-2010,25
+21,Kentucky,State,2013-2017,26.1
+22,Louisiana,State,2006-2010,26.2
+22,Louisiana,State,2013-2017,27.6
+23,Maine,State,2006-2010,26.5
+23,Maine,State,2013-2017,27.2
+24,Maryland,State,2006-2010,27.4
+24,Maryland,State,2013-2017,28.7
+25,Massachusetts,State,2006-2010,28.5
+25,Massachusetts,State,2013-2017,29.7
+26,Michigan,State,2006-2010,26.6
+26,Michigan,State,2013-2017,27.8
+27,Minnesota,State,2006-2010,26.3
+27,Minnesota,State,2013-2017,27.4
+28,Mississippi,State,2006-2010,25.9
+28,Mississippi,State,2013-2017,26.7
+29,Missouri,State,2006-2010,25.8
+29,Missouri,State,2013-2017,26.9
+30,Montana,State,2006-2010,25.4
+30,Montana,State,2013-2017,26.3
+31,Nebraska,State,2006-2010,25.5
+31,Nebraska,State,2013-2017,26.2
+32,Nevada,State,2006-2010,25.7
+32,Nevada,State,2013-2017,27.2
+33,New Hampshire,State,2006-2010,26.8
+33,New Hampshire,State,2013-2017,28.2
+34,New Jersey,State,2006-2010,27.8
+34,New Jersey,State,2013-2017,29.1
+35,New Mexico,State,2006-2010,25.9
+35,New Mexico,State,2013-2017,27.6
+36,New York,State,2006-2010,28.3
+36,New York,State,2013-2017,29.5
+37,North Carolina,State,2006-2010,25.9
+37,North Carolina,State,2013-2017,27.2
+38,North Dakota,State,2006-2010,25.7
+38,North Dakota,State,2013-2017,26
+39,Ohio,State,2006-2010,26.3
+39,Ohio,State,2013-2017,27.5
+40,Oklahoma,State,2006-2010,24.5
+40,Oklahoma,State,2013-2017,25.6
+41,Oregon,State,2006-2010,26.1
+41,Oregon,State,2013-2017,27.6
+42,Pennsylvania,State,2006-2010,27.2
+42,Pennsylvania,State,2013-2017,28.5
+44,Rhode Island,State,2006-2010,27.9
+44,Rhode Island,State,2013-2017,29.2
+45,South Carolina,State,2006-2010,26.4
+45,South Carolina,State,2013-2017,27.6
+46,South Dakota,State,2006-2010,25.5
+46,South Dakota,State,2013-2017,26
+47,Tennessee,State,2006-2010,25.4
+47,Tennessee,State,2013-2017,26.6
+48,Texas,State,2006-2010,25.3
+48,Texas,State,2013-2017,26.6
+49,Utah,State,2006-2010,23
+49,Utah,State,2013-2017,24.2
+50,Vermont,State,2006-2010,27
+50,Vermont,State,2013-2017,28.1
+51,Virginia,State,2006-2010,26.5
+51,Virginia,State,2013-2017,27.4
+53,Washington,State,2006-2010,25.8
+53,Washington,State,2013-2017,26.9
+54,West Virginia,State,2006-2010,25.4
+54,West Virginia,State,2013-2017,26.4
+55,Wisconsin,State,2006-2010,26.4
+55,Wisconsin,State,2013-2017,27.5
+56,Wyoming,State,2006-2010,24.2
+56,Wyoming,State,2013-2017,25.6
+US,United States,Country,2006-2010,26.3
+US,United States,Country,2013-2017,27.7

@@ -1,0 +1,937 @@
+FIPS,Name,Type,TimeFrame,Data
+01,Alabama,State,2000,63299
+01,Alabama,State,2001,60454
+01,Alabama,State,2002,58967
+01,Alabama,State,2003,59552
+01,Alabama,State,2004,59510
+01,Alabama,State,2005,60453
+01,Alabama,State,2006,63232
+01,Alabama,State,2007,64804
+01,Alabama,State,2008,64546
+01,Alabama,State,2009,62475
+01,Alabama,State,2010,60050
+01,Alabama,State,2011,59354
+01,Alabama,State,2012,58448
+01,Alabama,State,2013,58167
+01,Alabama,State,2014,59422
+01,Alabama,State,2015,59657
+01,Alabama,State,2016,59151
+01,Alabama,State,2017,58941
+02,Alaska,State,2000,9974
+02,Alaska,State,2001,10003
+02,Alaska,State,2002,9938
+02,Alaska,State,2003,10086
+02,Alaska,State,2004,10338
+02,Alaska,State,2005,10459
+02,Alaska,State,2006,10996
+02,Alaska,State,2007,11052
+02,Alaska,State,2008,11442
+02,Alaska,State,2009,11324
+02,Alaska,State,2010,11471
+02,Alaska,State,2011,11456
+02,Alaska,State,2012,11187
+02,Alaska,State,2013,11446
+02,Alaska,State,2014,11392
+02,Alaska,State,2015,11282
+02,Alaska,State,2016,11209
+02,Alaska,State,2017,10445
+04,Arizona,State,2000,85273
+04,Arizona,State,2001,85597
+04,Arizona,State,2002,87837
+04,Arizona,State,2003,90967
+04,Arizona,State,2004,93663
+04,Arizona,State,2005,96199
+04,Arizona,State,2006,102429
+04,Arizona,State,2007,102981
+04,Arizona,State,2008,99442
+04,Arizona,State,2009,92798
+04,Arizona,State,2010,87477
+04,Arizona,State,2011,85543
+04,Arizona,State,2012,86441
+04,Arizona,State,2013,85600
+04,Arizona,State,2014,86887
+04,Arizona,State,2015,85351
+04,Arizona,State,2016,84520
+04,Arizona,State,2017,81872
+05,Arkansas,State,2000,37783
+05,Arkansas,State,2001,37010
+05,Arkansas,State,2002,37437
+05,Arkansas,State,2003,37784
+05,Arkansas,State,2004,38573
+05,Arkansas,State,2005,39208
+05,Arkansas,State,2006,40961
+05,Arkansas,State,2007,41378
+05,Arkansas,State,2008,40669
+05,Arkansas,State,2009,39808
+05,Arkansas,State,2010,38540
+05,Arkansas,State,2011,38715
+05,Arkansas,State,2012,38347
+05,Arkansas,State,2013,37832
+05,Arkansas,State,2014,38511
+05,Arkansas,State,2015,38886
+05,Arkansas,State,2016,38274
+05,Arkansas,State,2017,37520
+06,California,State,2000,531959
+06,California,State,2001,527759
+06,California,State,2002,529357
+06,California,State,2003,540997
+06,California,State,2004,544843
+06,California,State,2005,548882
+06,California,State,2006,562440
+06,California,State,2007,566414
+06,California,State,2008,551779
+06,California,State,2009,527020
+06,California,State,2010,510198
+06,California,State,2011,502120
+06,California,State,2012,503755
+06,California,State,2013,494705
+06,California,State,2014,502879
+06,California,State,2015,491748
+06,California,State,2016,488827
+06,California,State,2017,471658
+08,Colorado,State,2000,65438
+08,Colorado,State,2001,67007
+08,Colorado,State,2002,68418
+08,Colorado,State,2003,69339
+08,Colorado,State,2004,68503
+08,Colorado,State,2005,68944
+08,Colorado,State,2006,70751
+08,Colorado,State,2007,70809
+08,Colorado,State,2008,70031
+08,Colorado,State,2009,68628
+08,Colorado,State,2010,66355
+08,Colorado,State,2011,65055
+08,Colorado,State,2012,65187
+08,Colorado,State,2013,65007
+08,Colorado,State,2014,65830
+08,Colorado,State,2015,66581
+08,Colorado,State,2016,66613
+08,Colorado,State,2017,64382
+09,Connecticut,State,2000,43026
+09,Connecticut,State,2001,42648
+09,Connecticut,State,2002,42001
+09,Connecticut,State,2003,42873
+09,Connecticut,State,2004,42095
+09,Connecticut,State,2005,41718
+09,Connecticut,State,2006,41820
+09,Connecticut,State,2007,41660
+09,Connecticut,State,2008,40399
+09,Connecticut,State,2009,38896
+09,Connecticut,State,2010,37708
+09,Connecticut,State,2011,37281
+09,Connecticut,State,2012,36539
+09,Connecticut,State,2013,36085
+09,Connecticut,State,2014,36285
+09,Connecticut,State,2015,35746
+09,Connecticut,State,2016,36015
+09,Connecticut,State,2017,35221
+10,Delaware,State,2000,11051
+10,Delaware,State,2001,10749
+10,Delaware,State,2002,11090
+10,Delaware,State,2003,11329
+10,Delaware,State,2004,11369
+10,Delaware,State,2005,11643
+10,Delaware,State,2006,11989
+10,Delaware,State,2007,12170
+10,Delaware,State,2008,12090
+10,Delaware,State,2009,11559
+10,Delaware,State,2010,11364
+10,Delaware,State,2011,11257
+10,Delaware,State,2012,11023
+10,Delaware,State,2013,10831
+10,Delaware,State,2014,10972
+10,Delaware,State,2015,11166
+10,Delaware,State,2016,10992
+10,Delaware,State,2017,10855
+11,District of Columbia,State,2000,7666
+11,District of Columbia,State,2001,7625
+11,District of Columbia,State,2002,7498
+11,District of Columbia,State,2003,7619
+11,District of Columbia,State,2004,7933
+11,District of Columbia,State,2005,7971
+11,District of Columbia,State,2006,8523
+11,District of Columbia,State,2007,8864
+11,District of Columbia,State,2008,9130
+11,District of Columbia,State,2009,9040
+11,District of Columbia,State,2010,9165
+11,District of Columbia,State,2011,9295
+11,District of Columbia,State,2012,9399
+11,District of Columbia,State,2013,9288
+11,District of Columbia,State,2014,9509
+11,District of Columbia,State,2015,9578
+11,District of Columbia,State,2016,9858
+11,District of Columbia,State,2017,9560
+12,Florida,State,2000,204125
+12,Florida,State,2001,205793
+12,Florida,State,2002,205579
+12,Florida,State,2003,212250
+12,Florida,State,2004,218053
+12,Florida,State,2005,226240
+12,Florida,State,2006,236802
+12,Florida,State,2007,239165
+12,Florida,State,2008,231445
+12,Florida,State,2009,221394
+12,Florida,State,2010,214590
+12,Florida,State,2011,213414
+12,Florida,State,2012,213148
+12,Florida,State,2013,215407
+12,Florida,State,2014,219991
+12,Florida,State,2015,224269
+12,Florida,State,2016,225022
+12,Florida,State,2017,223630
+13,Georgia,State,2000,132644
+13,Georgia,State,2001,133526
+13,Georgia,State,2002,133300
+13,Georgia,State,2003,135979
+13,Georgia,State,2004,138849
+13,Georgia,State,2005,142200
+13,Georgia,State,2006,148633
+13,Georgia,State,2007,151137
+13,Georgia,State,2008,146603
+13,Georgia,State,2009,141377
+13,Georgia,State,2010,133947
+13,Georgia,State,2011,132409
+13,Georgia,State,2012,130280
+13,Georgia,State,2013,128748
+13,Georgia,State,2014,130946
+13,Georgia,State,2015,131404
+13,Georgia,State,2016,130042
+13,Georgia,State,2017,129243
+15,Hawaii,State,2000,17551
+15,Hawaii,State,2001,17072
+15,Hawaii,State,2002,17477
+15,Hawaii,State,2003,18100
+15,Hawaii,State,2004,18281
+15,Hawaii,State,2005,17924
+15,Hawaii,State,2006,18982
+15,Hawaii,State,2007,19134
+15,Hawaii,State,2008,19484
+15,Hawaii,State,2009,18887
+15,Hawaii,State,2010,18988
+15,Hawaii,State,2011,18956
+15,Hawaii,State,2012,18980
+15,Hawaii,State,2013,18987
+15,Hawaii,State,2014,18550
+15,Hawaii,State,2015,18420
+15,Hawaii,State,2016,18059
+15,Hawaii,State,2017,17517
+16,Idaho,State,2000,20366
+16,Idaho,State,2001,20688
+16,Idaho,State,2002,20970
+16,Idaho,State,2003,21800
+16,Idaho,State,2004,22532
+16,Idaho,State,2005,23062
+16,Idaho,State,2006,24184
+16,Idaho,State,2007,25019
+16,Idaho,State,2008,25149
+16,Idaho,State,2009,23737
+16,Idaho,State,2010,23198
+16,Idaho,State,2011,22305
+16,Idaho,State,2012,22963
+16,Idaho,State,2013,22383
+16,Idaho,State,2014,22876
+16,Idaho,State,2015,22827
+16,Idaho,State,2016,22482
+16,Idaho,State,2017,22181
+17,Illinois,State,2000,185036
+17,Illinois,State,2001,184064
+17,Illinois,State,2002,180622
+17,Illinois,State,2003,182495
+17,Illinois,State,2004,180778
+17,Illinois,State,2005,179020
+17,Illinois,State,2006,180572
+17,Illinois,State,2007,180836
+17,Illinois,State,2008,176795
+17,Illinois,State,2009,171163
+17,Illinois,State,2010,165200
+17,Illinois,State,2011,161312
+17,Illinois,State,2012,159160
+17,Illinois,State,2013,156931
+17,Illinois,State,2014,158556
+17,Illinois,State,2015,158116
+17,Illinois,State,2016,154445
+17,Illinois,State,2017,149390
+18,Indiana,State,2000,87699
+18,Indiana,State,2001,86459
+18,Indiana,State,2002,85081
+18,Indiana,State,2003,86434
+18,Indiana,State,2004,87142
+18,Indiana,State,2005,87193
+18,Indiana,State,2006,88631
+18,Indiana,State,2007,89864
+18,Indiana,State,2008,88742
+18,Indiana,State,2009,86673
+18,Indiana,State,2010,83940
+18,Indiana,State,2011,83701
+18,Indiana,State,2012,83227
+18,Indiana,State,2013,83102
+18,Indiana,State,2014,84080
+18,Indiana,State,2015,84040
+18,Indiana,State,2016,83091
+18,Indiana,State,2017,82170
+19,Iowa,State,2000,38266
+19,Iowa,State,2001,37619
+19,Iowa,State,2002,37559
+19,Iowa,State,2003,38174
+19,Iowa,State,2004,38438
+19,Iowa,State,2005,39311
+19,Iowa,State,2006,40607
+19,Iowa,State,2007,40886
+19,Iowa,State,2008,40224
+19,Iowa,State,2009,39701
+19,Iowa,State,2010,38719
+19,Iowa,State,2011,38214
+19,Iowa,State,2012,38702
+19,Iowa,State,2013,39094
+19,Iowa,State,2014,39687
+19,Iowa,State,2015,39482
+19,Iowa,State,2016,39403
+19,Iowa,State,2017,38430
+20,Kansas,State,2000,39666
+20,Kansas,State,2001,38869
+20,Kansas,State,2002,39412
+20,Kansas,State,2003,39476
+20,Kansas,State,2004,39669
+20,Kansas,State,2005,39888
+20,Kansas,State,2006,40968
+20,Kansas,State,2007,42004
+20,Kansas,State,2008,41833
+20,Kansas,State,2009,41396
+20,Kansas,State,2010,40649
+20,Kansas,State,2011,39642
+20,Kansas,State,2012,40341
+20,Kansas,State,2013,38839
+20,Kansas,State,2014,39223
+20,Kansas,State,2015,39154
+20,Kansas,State,2016,38053
+20,Kansas,State,2017,36519
+21,Kentucky,State,2000,56029
+21,Kentucky,State,2001,54658
+21,Kentucky,State,2002,54233
+21,Kentucky,State,2003,55236
+21,Kentucky,State,2004,55720
+21,Kentucky,State,2005,56444
+21,Kentucky,State,2006,58250
+21,Kentucky,State,2007,59368
+21,Kentucky,State,2008,58375
+21,Kentucky,State,2009,57551
+21,Kentucky,State,2010,55784
+21,Kentucky,State,2011,55370
+21,Kentucky,State,2012,55758
+21,Kentucky,State,2013,55686
+21,Kentucky,State,2014,56170
+21,Kentucky,State,2015,55971
+21,Kentucky,State,2016,55449
+21,Kentucky,State,2017,54752
+22,Louisiana,State,2000,67898
+22,Louisiana,State,2001,65352
+22,Louisiana,State,2002,64872
+22,Louisiana,State,2003,65040
+22,Louisiana,State,2004,65369
+22,Louisiana,State,2005,60937
+22,Louisiana,State,2006,63376
+22,Louisiana,State,2007,66301
+22,Louisiana,State,2008,65268
+22,Louisiana,State,2009,64973
+22,Louisiana,State,2010,62379
+22,Louisiana,State,2011,61888
+22,Louisiana,State,2012,62642
+22,Louisiana,State,2013,63201
+22,Louisiana,State,2014,64497
+22,Louisiana,State,2015,64692
+22,Louisiana,State,2016,63178
+22,Louisiana,State,2017,61018
+23,Maine,State,2000,13603
+23,Maine,State,2001,13759
+23,Maine,State,2002,13559
+23,Maine,State,2003,13855
+23,Maine,State,2004,13944
+23,Maine,State,2005,14112
+23,Maine,State,2006,14151
+23,Maine,State,2007,14120
+23,Maine,State,2008,13609
+23,Maine,State,2009,13470
+23,Maine,State,2010,12970
+23,Maine,State,2011,12704
+23,Maine,State,2012,12798
+23,Maine,State,2013,12776
+23,Maine,State,2014,12698
+23,Maine,State,2015,12607
+23,Maine,State,2016,12705
+23,Maine,State,2017,12298
+24,Maryland,State,2000,74316
+24,Maryland,State,2001,73218
+24,Maryland,State,2002,73323
+24,Maryland,State,2003,74930
+24,Maryland,State,2004,74628
+24,Maryland,State,2005,74980
+24,Maryland,State,2006,77494
+24,Maryland,State,2007,78095
+24,Maryland,State,2008,77289
+24,Maryland,State,2009,75059
+24,Maryland,State,2010,73801
+24,Maryland,State,2011,73093
+24,Maryland,State,2012,72883
+24,Maryland,State,2013,71953
+24,Maryland,State,2014,73921
+24,Maryland,State,2015,73616
+24,Maryland,State,2016,73136
+24,Maryland,State,2017,71641
+25,Massachusetts,State,2000,81614
+25,Massachusetts,State,2001,81077
+25,Massachusetts,State,2002,80645
+25,Massachusetts,State,2003,80184
+25,Massachusetts,State,2004,78484
+25,Massachusetts,State,2005,76865
+25,Massachusetts,State,2006,77676
+25,Massachusetts,State,2007,77967
+25,Massachusetts,State,2008,77022
+25,Massachusetts,State,2009,75016
+25,Massachusetts,State,2010,72865
+25,Massachusetts,State,2011,73166
+25,Massachusetts,State,2012,72439
+25,Massachusetts,State,2013,71788
+25,Massachusetts,State,2014,71908
+25,Massachusetts,State,2015,71492
+25,Massachusetts,State,2016,71317
+25,Massachusetts,State,2017,70702
+26,Michigan,State,2000,136171
+26,Michigan,State,2001,133427
+26,Michigan,State,2002,129967
+26,Michigan,State,2003,131094
+26,Michigan,State,2004,129776
+26,Michigan,State,2005,127706
+26,Michigan,State,2006,127483
+26,Michigan,State,2007,125261
+26,Michigan,State,2008,121127
+26,Michigan,State,2009,117294
+26,Michigan,State,2010,114531
+26,Michigan,State,2011,114008
+26,Michigan,State,2012,113091
+26,Michigan,State,2013,113489
+26,Michigan,State,2014,114375
+26,Michigan,State,2015,113312
+26,Michigan,State,2016,113315
+26,Michigan,State,2017,111426
+27,Minnesota,State,2000,67604
+27,Minnesota,State,2001,67562
+27,Minnesota,State,2002,68025
+27,Minnesota,State,2003,70050
+27,Minnesota,State,2004,70624
+27,Minnesota,State,2005,70919
+27,Minnesota,State,2006,73525
+27,Minnesota,State,2007,73735
+27,Minnesota,State,2008,72421
+27,Minnesota,State,2009,70646
+27,Minnesota,State,2010,68610
+27,Minnesota,State,2011,68409
+27,Minnesota,State,2012,68772
+27,Minnesota,State,2013,69159
+27,Minnesota,State,2014,69904
+27,Minnesota,State,2015,69834
+27,Minnesota,State,2016,69749
+27,Minnesota,State,2017,68595
+28,Mississippi,State,2000,44075
+28,Mississippi,State,2001,42282
+28,Mississippi,State,2002,41518
+28,Mississippi,State,2003,42380
+28,Mississippi,State,2004,42827
+28,Mississippi,State,2005,42395
+28,Mississippi,State,2006,46056
+28,Mississippi,State,2007,46491
+28,Mississippi,State,2008,44947
+28,Mississippi,State,2009,42901
+28,Mississippi,State,2010,40036
+28,Mississippi,State,2011,39860
+28,Mississippi,State,2012,38669
+28,Mississippi,State,2013,38634
+28,Mississippi,State,2014,38736
+28,Mississippi,State,2015,38394
+28,Mississippi,State,2016,37928
+28,Mississippi,State,2017,37357
+29,Missouri,State,2000,76463
+29,Missouri,State,2001,75464
+29,Missouri,State,2002,75251
+29,Missouri,State,2003,77045
+29,Missouri,State,2004,77765
+29,Missouri,State,2005,78618
+29,Missouri,State,2006,81385
+29,Missouri,State,2007,81930
+29,Missouri,State,2008,80963
+29,Missouri,State,2009,78905
+29,Missouri,State,2010,76759
+29,Missouri,State,2011,76117
+29,Missouri,State,2012,75446
+29,Missouri,State,2013,75296
+29,Missouri,State,2014,75360
+29,Missouri,State,2015,75061
+29,Missouri,State,2016,74705
+29,Missouri,State,2017,73034
+30,Montana,State,2000,10957
+30,Montana,State,2001,10970
+30,Montana,State,2002,11049
+30,Montana,State,2003,11422
+30,Montana,State,2004,11519
+30,Montana,State,2005,11583
+30,Montana,State,2006,12508
+30,Montana,State,2007,12439
+30,Montana,State,2008,12594
+30,Montana,State,2009,12257
+30,Montana,State,2010,12060
+30,Montana,State,2011,12069
+30,Montana,State,2012,12118
+30,Montana,State,2013,12377
+30,Montana,State,2014,12432
+30,Montana,State,2015,12583
+30,Montana,State,2016,12282
+30,Montana,State,2017,11799
+31,Nebraska,State,2000,24646
+31,Nebraska,State,2001,24820
+31,Nebraska,State,2002,25383
+31,Nebraska,State,2003,25917
+31,Nebraska,State,2004,26332
+31,Nebraska,State,2005,26145
+31,Nebraska,State,2006,26727
+31,Nebraska,State,2007,26934
+31,Nebraska,State,2008,26989
+31,Nebraska,State,2009,26936
+31,Nebraska,State,2010,25918
+31,Nebraska,State,2011,25720
+31,Nebraska,State,2012,25942
+31,Nebraska,State,2013,26095
+31,Nebraska,State,2014,26794
+31,Nebraska,State,2015,26679
+31,Nebraska,State,2016,26589
+31,Nebraska,State,2017,25821
+32,Nevada,State,2000,30829
+32,Nevada,State,2001,31382
+32,Nevada,State,2002,32571
+32,Nevada,State,2003,33647
+32,Nevada,State,2004,35200
+32,Nevada,State,2005,37268
+32,Nevada,State,2006,40027
+32,Nevada,State,2007,41181
+32,Nevada,State,2008,39506
+32,Nevada,State,2009,37612
+32,Nevada,State,2010,35934
+32,Nevada,State,2011,35296
+32,Nevada,State,2012,34911
+32,Nevada,State,2013,35030
+32,Nevada,State,2014,35861
+32,Nevada,State,2015,36298
+32,Nevada,State,2016,36260
+32,Nevada,State,2017,35756
+33,New Hampshire,State,2000,14609
+33,New Hampshire,State,2001,14656
+33,New Hampshire,State,2002,14442
+33,New Hampshire,State,2003,14393
+33,New Hampshire,State,2004,14565
+33,New Hampshire,State,2005,14420
+33,New Hampshire,State,2006,14378
+33,New Hampshire,State,2007,14168
+33,New Hampshire,State,2008,13683
+33,New Hampshire,State,2009,13377
+33,New Hampshire,State,2010,12874
+33,New Hampshire,State,2011,12851
+33,New Hampshire,State,2012,12352
+33,New Hampshire,State,2013,12396
+33,New Hampshire,State,2014,12302
+33,New Hampshire,State,2015,12433
+33,New Hampshire,State,2016,12267
+33,New Hampshire,State,2017,12116
+34,New Jersey,State,2000,115632
+34,New Jersey,State,2001,115795
+34,New Jersey,State,2002,114751
+34,New Jersey,State,2003,116983
+34,New Jersey,State,2004,115253
+34,New Jersey,State,2005,113776
+34,New Jersey,State,2006,115020
+34,New Jersey,State,2007,116063
+34,New Jersey,State,2008,112710
+34,New Jersey,State,2009,110331
+34,New Jersey,State,2010,106922
+34,New Jersey,State,2011,105883
+34,New Jersey,State,2012,104230
+34,New Jersey,State,2013,102575
+34,New Jersey,State,2014,103305
+34,New Jersey,State,2015,103127
+34,New Jersey,State,2016,102647
+34,New Jersey,State,2017,101250
+35,New Mexico,State,2000,27223
+35,New Mexico,State,2001,27128
+35,New Mexico,State,2002,27753
+35,New Mexico,State,2003,27821
+35,New Mexico,State,2004,28384
+35,New Mexico,State,2005,28835
+35,New Mexico,State,2006,29936
+35,New Mexico,State,2007,30616
+35,New Mexico,State,2008,30173
+35,New Mexico,State,2009,29000
+35,New Mexico,State,2010,27850
+35,New Mexico,State,2011,27289
+35,New Mexico,State,2012,27068
+35,New Mexico,State,2013,26354
+35,New Mexico,State,2014,26052
+35,New Mexico,State,2015,25816
+35,New Mexico,State,2016,24692
+35,New Mexico,State,2017,23767
+36,New York,State,2000,258737
+36,New York,State,2001,254026
+36,New York,State,2002,251415
+36,New York,State,2003,253714
+36,New York,State,2004,249947
+36,New York,State,2005,246351
+36,New York,State,2006,250104
+36,New York,State,2007,253451
+36,New York,State,2008,250383
+36,New York,State,2009,248110
+36,New York,State,2010,244375
+36,New York,State,2011,241312
+36,New York,State,2012,240916
+36,New York,State,2013,236980
+36,New York,State,2014,238773
+36,New York,State,2015,237274
+36,New York,State,2016,234283
+36,New York,State,2017,229737
+37,North Carolina,State,2000,120311
+37,North Carolina,State,2001,118185
+37,North Carolina,State,2002,117335
+37,North Carolina,State,2003,118323
+37,North Carolina,State,2004,119847
+37,North Carolina,State,2005,123096
+37,North Carolina,State,2006,127859
+37,North Carolina,State,2007,131037
+37,North Carolina,State,2008,130839
+37,North Carolina,State,2009,126845
+37,North Carolina,State,2010,122350
+37,North Carolina,State,2011,120389
+37,North Carolina,State,2012,119831
+37,North Carolina,State,2013,119002
+37,North Carolina,State,2014,120975
+37,North Carolina,State,2015,120843
+37,North Carolina,State,2016,120779
+37,North Carolina,State,2017,120125
+38,North Dakota,State,2000,7676
+38,North Dakota,State,2001,7629
+38,North Dakota,State,2002,7757
+38,North Dakota,State,2003,7972
+38,North Dakota,State,2004,8189
+38,North Dakota,State,2005,8390
+38,North Dakota,State,2006,8621
+38,North Dakota,State,2007,8840
+38,North Dakota,State,2008,8938
+38,North Dakota,State,2009,9001
+38,North Dakota,State,2010,9104
+38,North Dakota,State,2011,9527
+38,North Dakota,State,2012,10106
+38,North Dakota,State,2013,10599
+38,North Dakota,State,2014,11359
+38,North Dakota,State,2015,11314
+38,North Dakota,State,2016,11383
+38,North Dakota,State,2017,10737
+39,Ohio,State,2000,155472
+39,Ohio,State,2001,151570
+39,Ohio,State,2002,148720
+39,Ohio,State,2003,149679
+39,Ohio,State,2004,148954
+39,Ohio,State,2005,148388
+39,Ohio,State,2006,150593
+39,Ohio,State,2007,150879
+39,Ohio,State,2008,148821
+39,Ohio,State,2009,144841
+39,Ohio,State,2010,139128
+39,Ohio,State,2011,137918
+39,Ohio,State,2012,138483
+39,Ohio,State,2013,138936
+39,Ohio,State,2014,139467
+39,Ohio,State,2015,139264
+39,Ohio,State,2016,138085
+39,Ohio,State,2017,136832
+40,Oklahoma,State,2000,49782
+40,Oklahoma,State,2001,50118
+40,Oklahoma,State,2002,50387
+40,Oklahoma,State,2003,50981
+40,Oklahoma,State,2004,51306
+40,Oklahoma,State,2005,51801
+40,Oklahoma,State,2006,54016
+40,Oklahoma,State,2007,55065
+40,Oklahoma,State,2008,54781
+40,Oklahoma,State,2009,54553
+40,Oklahoma,State,2010,53238
+40,Oklahoma,State,2011,52272
+40,Oklahoma,State,2012,52751
+40,Oklahoma,State,2013,53369
+40,Oklahoma,State,2014,53339
+40,Oklahoma,State,2015,53122
+40,Oklahoma,State,2016,52592
+40,Oklahoma,State,2017,50214
+41,Oregon,State,2000,45804
+41,Oregon,State,2001,45322
+41,Oregon,State,2002,45192
+41,Oregon,State,2003,45953
+41,Oregon,State,2004,45678
+41,Oregon,State,2005,45922
+41,Oregon,State,2006,48689
+41,Oregon,State,2007,49378
+41,Oregon,State,2008,49096
+41,Oregon,State,2009,47132
+41,Oregon,State,2010,45540
+41,Oregon,State,2011,45155
+41,Oregon,State,2012,45067
+41,Oregon,State,2013,45155
+41,Oregon,State,2014,45556
+41,Oregon,State,2015,45655
+41,Oregon,State,2016,45535
+41,Oregon,State,2017,43631
+42,Pennsylvania,State,2000,146281
+42,Pennsylvania,State,2001,143495
+42,Pennsylvania,State,2002,142850
+42,Pennsylvania,State,2003,145959
+42,Pennsylvania,State,2004,144748
+42,Pennsylvania,State,2005,145383
+42,Pennsylvania,State,2006,149090
+42,Pennsylvania,State,2007,150713
+42,Pennsylvania,State,2008,149273
+42,Pennsylvania,State,2009,146434
+42,Pennsylvania,State,2010,143321
+42,Pennsylvania,State,2011,143178
+42,Pennsylvania,State,2012,142514
+42,Pennsylvania,State,2013,140921
+42,Pennsylvania,State,2014,142268
+42,Pennsylvania,State,2015,141047
+42,Pennsylvania,State,2016,139409
+42,Pennsylvania,State,2017,137745
+44,Rhode Island,State,2000,12505
+44,Rhode Island,State,2001,12713
+44,Rhode Island,State,2002,12894
+44,Rhode Island,State,2003,13209
+44,Rhode Island,State,2004,12779
+44,Rhode Island,State,2005,12697
+44,Rhode Island,State,2006,12372
+44,Rhode Island,State,2007,12376
+44,Rhode Island,State,2008,12048
+44,Rhode Island,State,2009,11442
+44,Rhode Island,State,2010,11177
+44,Rhode Island,State,2011,10960
+44,Rhode Island,State,2012,10926
+44,Rhode Island,State,2013,10809
+44,Rhode Island,State,2014,10823
+44,Rhode Island,State,2015,10993
+44,Rhode Island,State,2016,10798
+44,Rhode Island,State,2017,10638
+45,South Carolina,State,2000,56114
+45,South Carolina,State,2001,55756
+45,South Carolina,State,2002,54570
+45,South Carolina,State,2003,55649
+45,South Carolina,State,2004,56590
+45,South Carolina,State,2005,57711
+45,South Carolina,State,2006,62171
+45,South Carolina,State,2007,62875
+45,South Carolina,State,2008,63071
+45,South Carolina,State,2009,60620
+45,South Carolina,State,2010,58342
+45,South Carolina,State,2011,57393
+45,South Carolina,State,2012,57155
+45,South Carolina,State,2013,56795
+45,South Carolina,State,2014,57627
+45,South Carolina,State,2015,58139
+45,South Carolina,State,2016,57342
+45,South Carolina,State,2017,57029
+46,South Dakota,State,2000,10345
+46,South Dakota,State,2001,10483
+46,South Dakota,State,2002,10698
+46,South Dakota,State,2003,11027
+46,South Dakota,State,2004,11338
+46,South Dakota,State,2005,11462
+46,South Dakota,State,2006,11919
+46,South Dakota,State,2007,12261
+46,South Dakota,State,2008,12071
+46,South Dakota,State,2009,11934
+46,South Dakota,State,2010,11811
+46,South Dakota,State,2011,11846
+46,South Dakota,State,2012,12104
+46,South Dakota,State,2013,12248
+46,South Dakota,State,2014,12283
+46,South Dakota,State,2015,12336
+46,South Dakota,State,2016,12275
+46,South Dakota,State,2017,12134
+47,Tennessee,State,2000,79611
+47,Tennessee,State,2001,78340
+47,Tennessee,State,2002,77482
+47,Tennessee,State,2003,78890
+47,Tennessee,State,2004,79642
+47,Tennessee,State,2005,81747
+47,Tennessee,State,2006,84355
+47,Tennessee,State,2007,86711
+47,Tennessee,State,2008,85560
+47,Tennessee,State,2009,82211
+47,Tennessee,State,2010,79495
+47,Tennessee,State,2011,79588
+47,Tennessee,State,2012,80371
+47,Tennessee,State,2013,79992
+47,Tennessee,State,2014,81602
+47,Tennessee,State,2015,81685
+47,Tennessee,State,2016,80807
+47,Tennessee,State,2017,81016
+48,Texas,State,2000,363414
+48,Texas,State,2001,365410
+48,Texas,State,2002,372450
+48,Texas,State,2003,377476
+48,Texas,State,2004,381293
+48,Texas,State,2005,385915
+48,Texas,State,2006,399603
+48,Texas,State,2007,407625
+48,Texas,State,2008,405554
+48,Texas,State,2009,401977
+48,Texas,State,2010,386118
+48,Texas,State,2011,377445
+48,Texas,State,2012,382727
+48,Texas,State,2013,387340
+48,Texas,State,2014,399766
+48,Texas,State,2015,403618
+48,Texas,State,2016,398047
+48,Texas,State,2017,382050
+49,Utah,State,2000,47353
+49,Utah,State,2001,47959
+49,Utah,State,2002,49182
+49,Utah,State,2003,49860
+49,Utah,State,2004,50670
+49,Utah,State,2005,51556
+49,Utah,State,2006,53504
+49,Utah,State,2007,55130
+49,Utah,State,2008,55634
+49,Utah,State,2009,53887
+49,Utah,State,2010,52258
+49,Utah,State,2011,51223
+49,Utah,State,2012,51465
+49,Utah,State,2013,50957
+49,Utah,State,2014,51154
+49,Utah,State,2015,50778
+49,Utah,State,2016,50464
+49,Utah,State,2017,48585
+50,Vermont,State,2000,6500
+50,Vermont,State,2001,6366
+50,Vermont,State,2002,6387
+50,Vermont,State,2003,6589
+50,Vermont,State,2004,6599
+50,Vermont,State,2005,6295
+50,Vermont,State,2006,6511
+50,Vermont,State,2007,6513
+50,Vermont,State,2008,6339
+50,Vermont,State,2009,6110
+50,Vermont,State,2010,6223
+50,Vermont,State,2011,6078
+50,Vermont,State,2012,6009
+50,Vermont,State,2013,5975
+50,Vermont,State,2014,6130
+50,Vermont,State,2015,5903
+50,Vermont,State,2016,5756
+50,Vermont,State,2017,5655
+51,Virginia,State,2000,98938
+51,Virginia,State,2001,98884
+51,Virginia,State,2002,99672
+51,Virginia,State,2003,101254
+51,Virginia,State,2004,103933
+51,Virginia,State,2005,104555
+51,Virginia,State,2006,107817
+51,Virginia,State,2007,108884
+51,Virginia,State,2008,106686
+51,Virginia,State,2009,105059
+51,Virginia,State,2010,103002
+51,Virginia,State,2011,102652
+51,Virginia,State,2012,103013
+51,Virginia,State,2013,102147
+51,Virginia,State,2014,103300
+51,Virginia,State,2015,103303
+51,Virginia,State,2016,102460
+51,Virginia,State,2017,100391
+53,Washington,State,2000,81036
+53,Washington,State,2001,79570
+53,Washington,State,2002,79028
+53,Washington,State,2003,80489
+53,Washington,State,2004,81747
+53,Washington,State,2005,82703
+53,Washington,State,2006,86876
+53,Washington,State,2007,88978
+53,Washington,State,2008,90321
+53,Washington,State,2009,89313
+53,Washington,State,2010,86539
+53,Washington,State,2011,86976
+53,Washington,State,2012,87463
+53,Washington,State,2013,86577
+53,Washington,State,2014,88585
+53,Washington,State,2015,88990
+53,Washington,State,2016,90505
+53,Washington,State,2017,87562
+54,West Virginia,State,2000,20865
+54,West Virginia,State,2001,20428
+54,West Virginia,State,2002,20712
+54,West Virginia,State,2003,20935
+54,West Virginia,State,2004,20880
+54,West Virginia,State,2005,20836
+54,West Virginia,State,2006,20931
+54,West Virginia,State,2007,21994
+54,West Virginia,State,2008,21501
+54,West Virginia,State,2009,21268
+54,West Virginia,State,2010,20470
+54,West Virginia,State,2011,20717
+54,West Virginia,State,2012,20827
+54,West Virginia,State,2013,20825
+54,West Virginia,State,2014,20301
+54,West Virginia,State,2015,19805
+54,West Virginia,State,2016,19079
+54,West Virginia,State,2017,18675
+55,Wisconsin,State,2000,69326
+55,Wisconsin,State,2001,69072
+55,Wisconsin,State,2002,68560
+55,Wisconsin,State,2003,70040
+55,Wisconsin,State,2004,70146
+55,Wisconsin,State,2005,70984
+55,Wisconsin,State,2006,72340
+55,Wisconsin,State,2007,72784
+55,Wisconsin,State,2008,72261
+55,Wisconsin,State,2009,70843
+55,Wisconsin,State,2010,68487
+55,Wisconsin,State,2011,67810
+55,Wisconsin,State,2012,67295
+55,Wisconsin,State,2013,66649
+55,Wisconsin,State,2014,67161
+55,Wisconsin,State,2015,67041
+55,Wisconsin,State,2016,66615
+55,Wisconsin,State,2017,64975
+56,Wyoming,State,2000,6253
+56,Wyoming,State,2001,6115
+56,Wyoming,State,2002,6550
+56,Wyoming,State,2003,6700
+56,Wyoming,State,2004,6807
+56,Wyoming,State,2005,7239
+56,Wyoming,State,2006,7672
+56,Wyoming,State,2007,7893
+56,Wyoming,State,2008,8038
+56,Wyoming,State,2009,7881
+56,Wyoming,State,2010,7556
+56,Wyoming,State,2011,7399
+56,Wyoming,State,2012,7572
+56,Wyoming,State,2013,7644
+56,Wyoming,State,2014,7696
+56,Wyoming,State,2015,7765
+56,Wyoming,State,2016,7386
+56,Wyoming,State,2017,6903
+US,United States,Country,2000,4058814
+US,United States,Country,2001,4025933
+US,United States,Country,2002,4021726
+US,United States,Country,2003,4089950
+US,United States,Country,2004,4112052
+US,United States,Country,2005,4138349
+US,United States,Country,2006,4265555
+US,United States,Country,2007,4316233
+US,United States,Country,2008,4247694
+US,United States,Country,2009,4130665
+US,United States,Country,2010,3999386
+US,United States,Country,2011,3953590
+US,United States,Country,2012,3952841
+US,United States,Country,2013,3932181
+US,United States,Country,2014,3988076
+US,United States,Country,2015,3978497
+US,United States,Country,2016,3945875
+US,United States,Country,2017,3855500

@@ -1,0 +1,239 @@
+Percent of Population Ages 65 and Older
+Population Reference Bureau prb.org
+Sources: 2019 World Population Data Sheet
+
+FIPS,Name,Type,TimeFrame,Data
+WORLD,WORLD,World,2019,0.09
+AFRICA,AFRICA,Sub-Region,2019,0.03
+NORTHERN AFRICA,NORTHERN AFRICA,Sub-Region,2019,0.05
+DZ,Algeria,Country,2019,0.06
+EG,Egypt,Country,2019,0.04
+LY,Libya,Country,2019,0.04
+MA,Morocco,Country,2019,0.07
+SD,Sudan,Country,2019,0.04
+TN,Tunisia,Country,2019,0.08
+EH,Western Sahara,Country,2019,0.03
+WESTERN AFRICA,WESTERN AFRICA,Sub-Region,2019,0.03
+BJ,Benin,Country,2019,0.03
+BF,Burkina Faso,Country,2019,0.02
+CV,Cape Verde,Country,2019,0.05
+CI,Cote d'Ivoire,Country,2019,0.03
+GM,Gambia,Country,2019,0.03
+GH,Ghana,Country,2019,0.03
+GN,Guinea,Country,2019,0.04
+GW,Guinea-Bissau,Country,2019,0.03
+LR,Liberia,Country,2019,0.03
+ML,Mali,Country,2019,0.03
+MR,Mauritania,Country,2019,0.03
+NE,Niger,Country,2019,0.03
+NG,Nigeria,Country,2019,0.03
+SN,Senegal,Country,2019,0.03
+SL,Sierra Leone,Country,2019,0.03
+TG,Togo,Country,2019,0.03
+EASTERN AFRICA,EASTERN AFRICA,Sub-Region,2019,0.03
+BI,Burundi,Country,2019,0.02
+KM,Comoros,Country,2019,0.03
+DJ,Djibouti,Country,2019,0.04
+ER,Eritrea,Country,2019,0.04
+ET,Ethiopia,Country,2019,0.04
+KE,Kenya,Country,2019,0.02
+MG,Madagascar,Country,2019,0.03
+MW,Malawi,Country,2019,0.03
+MU,Mauritius,Country,2019,0.11
+YT,Mayotte,Country,2019,0.03
+MZ,Mozambique,Country,2019,0.03
+RE,Reunion,Country,2019,0.12
+RW,Rwanda,Country,2019,0.03
+SC,Seychelles,Country,2019,0.08
+SO,Somalia,Country,2019,0.03
+SS,South Sudan,Country,2019,0.03
+TZ,Tanzania,Country,2019,0.03
+UG,Uganda,Country,2019,0.02
+ZM,Zambia,Country,2019,0.02
+ZW,Zimbabwe,Country,2019,0.05
+MIDDLE AFRICA,MIDDLE AFRICA,Sub-Region,2019,0.03
+AO,Angola,Country,2019,0.02
+CM,Cameroon,Country,2019,0.03
+CF,Central African Republic,Country,2019,0.03
+TD,Chad,Country,2019,0.02
+CG,Congo,Country,2019,0.03
+CD,"Congo, Dem. Rep.",Country,2019,0.03
+GQ,Equatorial Guinea,Country,2019,0.03
+GA,Gabon,Country,2019,0.04
+ST,Sao Tome and Principe,Country,2019,0.03
+SOUTHERN AFRICA,SOUTHERN AFRICA,Sub-Region,2019,0.06
+BW,Botswana,Country,2019,0.05
+SZ,eSwatini,Country,2019,0.04
+LS,Lesotho,Country,2019,0.05
+NA,Namibia,Country,2019,0.04
+ZA,South Africa,Country,2019,0.06
+NORTHERN AMERICA,NORTHERN AMERICA,Sub-Region,2019,0.16
+CA,Canada,Country,2019,0.17
+US,United States,Country,2019,0.16
+LATIN AMERICA AND THE CARIBBEAN,LATIN AMERICA AND THE CARIBBEAN,Sub-Region,2019,0.08
+CENTRAL AMERICA,CENTRAL AMERICA,Sub-Region,2019,0.07
+BZ,Belize,Country,2019,0.04
+CR,Costa Rica,Country,2019,0.09
+SV,El Salvador,Country,2019,0.08
+GT,Guatemala,Country,2019,0.05
+HN,Honduras,Country,2019,0.05
+MX,Mexico,Country,2019,0.07
+NI,Nicaragua,Country,2019,0.05
+PA,Panama,Country,2019,0.08
+CARIBBEAN,CARIBBEAN,Sub-Region,2019,0.1
+AG,Antigua and Barbuda,Country,2019,0.09
+BS,Bahamas,Country,2019,0.07
+BB,Barbados,Country,2019,0.15
+CU,Cuba,Country,2019,0.14
+CW,Curacao,Country,2019,0.17
+DM,Dominica,Country,2019,0.11
+DO,Dominican Republic,Country,2019,0.06
+GD,Grenada,Country,2019,0.1
+GP,Guadeloupe,Country,2019,0.19
+HT,Haiti,Country,2019,0.05
+JM,Jamaica,Country,2019,0.09
+MQ,Martinique,Country,2019,0.21
+PR,Puerto Rico,Country,2019,0.21
+KN,St. Kitts-Nevis,Country,2019,0.09
+LC,Saint Lucia,Country,2019,0.09
+VC,St. Vincent and the Grenadines,Country,2019,0.09
+TT,Trinidad and Tobago,Country,2019,0.09
+SOUTH AMERICA,SOUTH AMERICA,Sub-Region,2019,0.09
+AR,Argentina,Country,2019,0.11
+BO,Bolivia,Country,2019,0.07
+BR,Brazil,Country,2019,0.09
+CL,Chile,Country,2019,0.12
+CO,Colombia,Country,2019,0.09
+EC,Ecuador,Country,2019,0.07
+GF,French Guiana,Country,2019,0.06
+GY,Guyana,Country,2019,0.06
+PY,Paraguay,Country,2019,0.06
+PE,Peru,Country,2019,0.08
+SR,Suriname,Country,2019,0.07
+UY,Uruguay,Country,2019,0.14
+VE,Venezuela,Country,2019,0.07
+ASIA,ASIA,Sub-Region,2019,0.09
+WESTERN ASIA,WESTERN ASIA,Sub-Region,2019,0.06
+AM,Armenia,Country,2019,0.12
+AZ,Azerbaijan,Country,2019,0.07
+BH,Bahrain,Country,2019,0.03
+CY,Cyprus,Country,2019,0.14
+GE,Georgia,Country,2019,0.15
+IQ,Iraq,Country,2019,0.03
+IL,Israel,Country,2019,0.11
+JO,Jordan,Country,2019,0.04
+KW,Kuwait,Country,2019,0.02
+LB,Lebanon,Country,2019,0.07
+OM,Oman,Country,2019,0.03
+PS,Palestinian Territory,Country,2019,0.03
+QA,Qatar,Country,2019,0.01
+SA,Saudi Arabia,Country,2019,0.03
+SY,Syria,Country,2019,0.04
+TR,Turkey,Country,2019,0.09
+AE,United Arab Emirates,Country,2019,0.01
+YE,Yemen,Country,2019,0.03
+CENTRAL ASIA,CENTRAL ASIA,Sub-Region,2019,0.05
+KZ,Kazakhstan,Country,2019,0.07
+KG,Kyrgyzstan,Country,2019,0.05
+TJ,Tajikistan,Country,2019,0.03
+TM,Turkmenistan,Country,2019,0.04
+UZ,Uzbekistan,Country,2019,0.04
+SOUTH ASIA,SOUTH ASIA,Sub-Region,2019,0.06
+AF,Afghanistan,Country,2019,0.03
+BD,Bangladesh,Country,2019,0.05
+BT,Bhutan,Country,2019,0.06
+IN,India,Country,2019,0.06
+IR,Iran,Country,2019,0.06
+MV,Maldives,Country,2019,0.04
+NP,Nepal,Country,2019,0.06
+PK,Pakistan,Country,2019,0.04
+LK,Sri Lanka,Country,2019,0.08
+SOUTHEAST ASIA,SOUTHEAST ASIA,Sub-Region,2019,0.06
+BN,Brunei,Country,2019,0.05
+KH,Cambodia,Country,2019,0.04
+ID,Indonesia,Country,2019,0.06
+LA,Laos,Country,2019,0.04
+MY,Malaysia,Country,2019,0.06
+MM,Myanmar,Country,2019,0.06
+PH,Philippines,Country,2019,0.05
+SG,Singapore,Country,2019,0.14
+TH,Thailand,Country,2019,0.11
+TL,Timor-Leste,Country,2019,0.04
+VN,Vietnam,Country,2019,0.07
+EAST ASIA,EAST ASIA,Sub-Region,2019,0.13
+CN,China,Country,2019,0.12
+HK,"China, Hong Kong SAR",Country,2019,0.16
+MO,"China, Macao SAR",Country,2019,0.11
+JP,Japan,Country,2019,0.28
+KP,"Korea, North",Country,2019,0.1
+KR,"Korea, South",Country,2019,0.15
+MN,Mongolia,Country,2019,0.04
+TW,Taiwan,Country,2019,0.14
+EUROPE,EUROPE,Sub-Region,2019,0.18
+NORTHERN EUROPE,NORTHERN EUROPE,Sub-Region,2019,0.19
+Channel Islands,Channel Islands,Sub-Region,2019,0.17
+DK,Denmark,Country,2019,0.2
+EE,Estonia,Country,2019,0.2
+FI,Finland,Country,2019,0.22
+IS,Iceland,Country,2019,0.14
+IE,Ireland,Country,2019,0.14
+LV,Latvia,Country,2019,0.2
+LT,Lithuania,Country,2019,0.2
+NO,Norway,Country,2019,0.17
+SE,Sweden,Country,2019,0.2
+GB,United Kingdom,Country,2019,0.18
+WESTERN EUROPE,WESTERN EUROPE,Sub-Region,2019,0.2
+AT,Austria,Country,2019,0.19
+BE,Belgium,Country,2019,0.19
+FR,France,Country,2019,0.2
+DE,Germany,Country,2019,0.21
+LI,Liechtenstein,Country,2019,0.17
+LU,Luxembourg,Country,2019,0.14
+MC,Monaco,Country,2019,0.26
+NL,Netherlands,Country,2019,0.19
+CH,Switzerland,Country,2019,0.18
+EASTERN EUROPE,EASTERN EUROPE,Sub-Region,2019,0.16
+BY,Belarus,Country,2019,0.15
+BG,Bulgaria,Country,2019,0.21
+CZ,Czechia,Country,2019,0.2
+HU,Hungary,Country,2019,0.19
+MD,Moldova,Country,2019,0.12
+PL,Poland,Country,2019,0.18
+RO,Romania,Country,2019,0.18
+RU,Russia,Country,2019,0.15
+SK,Slovakia,Country,2019,0.16
+UA,Ukraine,Country,2019,0.17
+SOUTHERN EUROPE,SOUTHERN EUROPE,Sub-Region,2019,0.21
+AL,Albania,Country,2019,0.14
+AD,Andorra,Country,2019,0.14
+BA,Bosnia-Herzegovina,Country,2019,0.16
+HR,Croatia,Country,2019,0.2
+GR,Greece,Country,2019,0.22
+IT,Italy,Country,2019,0.23
+KV,Kosovo,Country,2019,0.08
+MT,Malta,Country,2019,0.19
+ME,Montenegro,Country,2019,0.15
+MK,North Macedonia,Country,2019,0.14
+PT,Portugal,Country,2019,0.22
+SM,San Marino,Country,2019,0.18
+RS,Serbia,Country,2019,0.2
+SI,Slovenia,Country,2019,0.2
+ES,Spain,Country,2019,0.19
+OCEANIA,OCEANIA,Sub-Region,2019,0.12
+AU,Australia,Country,2019,0.16
+FM,Federated States of Micronesia,Country,2019,0.04
+FJ,Fiji,Country,2019,0.06
+PF,French Polynesia,Country,2019,0.08
+GU,Guam,Country,2019,0.1
+KI,Kiribati,Country,2019,0.04
+MH,Marshall Islands,Country,2019,0.03
+NR,Nauru,Country,2019,0.13
+NC,New Caledonia,Country,2019,0.09
+NZ,New Zealand,Country,2019,0.15
+PW,Palau,Country,2019,0.07
+PG,Papua New Guinea,Country,2019,0.03
+WS,Samoa,Country,2019,0.05
+SB,Solomon Islands,Country,2019,0.04
+TO,Tonga,Country,2019,0.06
+TV,Tuvalu,Country,2019,0.05
+VU,Vanuatu,Country,2019,0.04

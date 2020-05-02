@@ -1,0 +1,239 @@
+Population mid-2050
+Population Reference Bureau prb.org
+Sources: 2019 World Population Data Sheet
+
+FIPS,Name,Type,TimeFrame,Data
+WORLD,WORLD,World,2019,9854.152
+AFRICA,AFRICA,Sub-Region,2019,2514.544
+NORTHERN AFRICA,NORTHERN AFRICA,Sub-Region,2019,366.131
+DZ,Algeria,Country,2019,61.422
+EG,Egypt,Country,2019,157.848
+LY,Libya,Country,2019,8.525
+MA,Morocco,Country,2019,43.562
+SD,Sudan,Country,2019,81.193
+TN,Tunisia,Country,2019,12.679
+EH,Western Sahara,Country,2019,0.902
+WESTERN AFRICA,WESTERN AFRICA,Sub-Region,2019,805.224
+BJ,Benin,Country,2019,28.053
+BF,Burkina Faso,Country,2019,43.432
+CV,Cape Verde,Country,2019,0.68
+CI,Cote d'Ivoire,Country,2019,50.859
+GM,Gambia,Country,2019,4.882
+GH,Ghana,Country,2019,51.782
+GN,Guinea,Country,2019,27.604
+GW,Guinea-Bissau,Country,2019,4.039
+LR,Liberia,Country,2019,9.34
+ML,Mali,Country,2019,47.067
+MR,Mauritania,Country,2019,9.025
+NE,Niger,Country,2019,65.593
+NG,Nigeria,Country,2019,401.315
+SN,Senegal,Country,2019,33.187
+SL,Sierra Leone,Country,2019,12.945
+TG,Togo,Country,2019,15.416
+EASTERN AFRICA,EASTERN AFRICA,Sub-Region,2019,854.974
+BI,Burundi,Country,2019,25.325
+KM,Comoros,Country,2019,1.472
+DJ,Djibouti,Country,2019,1.295
+ER,Eritrea,Country,2019,6.006
+ET,Ethiopia,Country,2019,205.411
+KE,Kenya,Country,2019,91.575
+MG,Madagascar,Country,2019,61.309
+MW,Malawi,Country,2019,34.6
+MU,Mauritius,Country,2019,1.186
+YT,Mayotte,Country,2019,0.558
+MZ,Mozambique,Country,2019,65.313
+RE,Reunion,Country,2019,0.987
+RW,Rwanda,Country,2019,23.048
+SC,Seychelles,Country,2019,0.105
+SO,Somalia,Country,2019,34.922
+SS,South Sudan,Country,2019,19.963
+TZ,Tanzania,Country,2019,129.387
+UG,Uganda,Country,2019,89.447
+ZM,Zambia,Country,2019,39.121
+ZW,Zimbabwe,Country,2019,23.948
+MIDDLE AFRICA,MIDDLE AFRICA,Sub-Region,2019,395.334
+AO,Angola,Country,2019,82.179
+CM,Cameroon,Country,2019,54.8
+CF,Central African Republic,Country,2019,8.401
+TD,Chad,Country,2019,37.469
+CG,Congo,Country,2019,10.702
+CD,"Congo, Dem. Rep.",Country,2019,194.489
+GQ,Equatorial Guinea,Country,2019,2.821
+GA,Gabon,Country,2019,4.089
+ST,Sao Tome and Principe,Country,2019,0.385
+SOUTHERN AFRICA,SOUTHERN AFRICA,Sub-Region,2019,92.88
+BW,Botswana,Country,2019,3.201
+SZ,eSwatini,Country,2019,1.268
+LS,Lesotho,Country,2019,2.665
+NA,Namibia,Country,2019,3.981
+ZA,South Africa,Country,2019,81.765
+NORTHERN AMERICA,NORTHERN AMERICA,Sub-Region,2019,434.736
+CA,Canada,Country,2019,47.016
+US,United States,Country,2019,387.608
+LATIN AMERICA AND THE CARIBBEAN,LATIN AMERICA AND THE CARIBBEAN,Sub-Region,2019,766.791
+CENTRAL AMERICA,CENTRAL AMERICA,Sub-Region,2019,217.752
+BZ,Belize,Country,2019,0.598
+CR,Costa Rica,Country,2019,6.093
+SV,El Salvador,Country,2019,7.754
+GT,Guatemala,Country,2019,26.921
+HN,Honduras,Country,2019,13.831
+MX,Mexico,Country,2019,148.21
+NI,Nicaragua,Country,2019,8.531
+PA,Panama,Country,2019,5.815
+CARIBBEAN,CARIBBEAN,Sub-Region,2019,46.25
+AG,Antigua and Barbuda,Country,2019,0.11
+BS,Bahamas,Country,2019,0.42
+BB,Barbados,Country,2019,0.254
+CU,Cuba,Country,2019,9.94
+CW,Curacao,Country,2019,0.178
+DM,Dominica,Country,2019,0.071
+DO,Dominican Republic,Country,2019,12.542
+GD,Grenada,Country,2019,0.116
+GP,Guadeloupe,Country,2019,0.368
+HT,Haiti,Country,2019,14.878
+JM,Jamaica,Country,2019,2.319
+MQ,Martinique,Country,2019,0.32
+PR,Puerto Rico,Country,2019,2.55
+KN,St. Kitts-Nevis,Country,2019,0.056
+LC,Saint Lucia,Country,2019,0.179
+VC,St. Vincent and the Grenadines,Country,2019,0.109
+TT,Trinidad and Tobago,Country,2019,1.312
+SOUTH AMERICA,SOUTH AMERICA,Sub-Region,2019,502.789
+AR,Argentina,Country,2019,56.38
+BO,Bolivia,Country,2019,16.512
+BR,Brazil,Country,2019,232.933
+CL,Chile,Country,2019,21.626
+CO,Colombia,Country,2019,55.997
+EC,Ecuador,Country,2019,23.174
+GF,French Guiana,Country,2019,0.565
+GY,Guyana,Country,2019,0.825
+PY,Paraguay,Country,2019,9.246
+PE,Peru,Country,2019,39.469
+SR,Suriname,Country,2019,0.704
+UY,Uruguay,Country,2019,3.705
+VE,Venezuela,Country,2019,41.651
+ASIA,ASIA,Sub-Region,2019,5344.241
+WESTERN ASIA,WESTERN ASIA,Sub-Region,2019,392.739
+AM,Armenia,Country,2019,2.412
+AZ,Azerbaijan,Country,2019,11.038
+BH,Bahrain,Country,2019,1.968
+CY,Cyprus,Country,2019,1.413
+GE,Georgia,Country,2019,3.517
+IQ,Iraq,Country,2019,70.94
+IL,Israel,Country,2019,12.72
+JO,Jordan,Country,2019,13.448
+KW,Kuwait,Country,2019,5.393
+LB,Lebanon,Country,2019,6.528
+OM,Oman,Country,2019,6.983
+PS,Palestinian Territory,Country,2019,8.811
+QA,Qatar,Country,2019,3.802
+SA,Saudi Arabia,Country,2019,47.742
+SY,Syria,Country,2019,33.129
+TR,Turkey,Country,2019,104.583
+AE,United Arab Emirates,Country,2019,10.228
+YE,Yemen,Country,2019,48.08
+CENTRAL ASIA,CENTRAL ASIA,Sub-Region,2019,103.546
+KZ,Kazakhstan,Country,2019,24.732
+KG,Kyrgyzstan,Country,2019,8.29
+TJ,Tajikistan,Country,2019,16.035
+TM,Turkmenistan,Country,2019,7.949
+UZ,Uzbekistan,Country,2019,46.54
+SOUTH ASIA,SOUTH ASIA,Sub-Region,2019,2473.073
+AF,Afghanistan,Country,2019,70.7
+BD,Bangladesh,Country,2019,193.301
+BT,Bhutan,Country,2019,0.813
+IN,India,Country,2019,1669.727
+IR,Iran,Country,2019,113.347
+MV,Maldives,Country,2019,0.637
+NP,Nepal,Country,2019,35.324
+PK,Pakistan,Country,2019,368.865
+LK,Sri Lanka,Country,2019,20.36
+SOUTHEAST ASIA,SOUTHEAST ASIA,Sub-Region,2019,789.088
+BN,Brunei,Country,2019,0.486
+KH,Cambodia,Country,2019,21.861
+ID,Indonesia,Country,2019,330.905
+LA,Laos,Country,2019,9.48
+MY,Malaysia,Country,2019,40.55
+MM,Myanmar,Country,2019,62.253
+PH,Philippines,Country,2019,144.488
+SG,Singapore,Country,2019,5.961
+TH,Thailand,Country,2019,62.861
+TL,Timor-Leste,Country,2019,2.019
+VN,Vietnam,Country,2019,108.223
+EAST ASIA,EAST ASIA,Sub-Region,2019,1585.795
+CN,China,Country,2019,1367.433
+HK,"China, Hong Kong SAR",Country,2019,8.152
+MO,"China, Macao SAR",Country,2019,0.846
+JP,Japan,Country,2019,109.855
+KP,"Korea, North",Country,2019,26.562
+KR,"Korea, South",Country,2019,47.745
+MN,Mongolia,Country,2019,4.51
+TW,Taiwan,Country,2019,20.692
+EUROPE,EUROPE,Sub-Region,2019,731.156
+NORTHERN EUROPE,NORTHERN EUROPE,Sub-Region,2019,116.536
+Channel Islands,Channel Islands,Sub-Region,2019,0.197
+DK,Denmark,Country,2019,6.351
+EE,Estonia,Country,2019,1.278
+FI,Finland,Country,2019,5.532
+IS,Iceland,Country,2019,0.436
+IE,Ireland,Country,2019,6.007
+LV,Latvia,Country,2019,1.479
+LT,Lithuania,Country,2019,2.176
+NO,Norway,Country,2019,6.303
+SE,Sweden,Country,2019,11.929
+GB,United Kingdom,Country,2019,74.701
+WESTERN EUROPE,WESTERN EUROPE,Sub-Region,2019,203.393
+AT,Austria,Country,2019,9.674
+BE,Belgium,Country,2019,12.599
+FR,France,Country,2019,72.341
+DE,Germany,Country,2019,79.214
+LI,Liechtenstein,Country,2019,0.044
+LU,Luxembourg,Country,2019,0.795
+MC,Monaco,Country,2019,0.045
+NL,Netherlands,Country,2019,18.371
+CH,Switzerland,Country,2019,10.31
+EASTERN EUROPE,EASTERN EUROPE,Sub-Region,2019,264.153
+BY,Belarus,Country,2019,9.357
+BG,Bulgaria,Country,2019,5.791
+CZ,Czechia,Country,2019,10.629
+HU,Hungary,Country,2019,9.042
+MD,Moldova,Country,2019,2.944
+PL,Poland,Country,2019,33.951
+RO,Romania,Country,2019,15.087
+RU,Russia,Country,2019,138.719
+SK,Slovakia,Country,2019,4.981
+UA,Ukraine,Country,2019,33.653
+SOUTHERN EUROPE,SOUTHERN EUROPE,Sub-Region,2019,147.074
+AL,Albania,Country,2019,2.355
+AD,Andorra,Country,2019,0.079
+BA,Bosnia-Herzegovina,Country,2019,2.841
+HR,Croatia,Country,2019,3.365
+GR,Greece,Country,2019,9.029
+IT,Italy,Country,2019,58.084
+KV,Kosovo,Country,2019,1.666
+MT,Malta,Country,2019,0.513
+ME,Montenegro,Country,2019,0.673
+MK,North Macedonia,Country,2019,1.852
+PT,Portugal,Country,2019,9.365
+SM,San Marino,Country,2019,0.034
+RS,Serbia,Country,2019,5.608
+SI,Slovenia,Country,2019,1.948
+ES,Spain,Country,2019,49.627
+OCEANIA,OCEANIA,Sub-Region,2019,62.684
+AU,Australia,Country,2019,36.875
+FM,Federated States of Micronesia,Country,2019,0.109
+FJ,Fiji,Country,2019,0.925
+PF,French Polynesia,Country,2019,0.315
+GU,Guam,Country,2019,0.198
+KI,Kiribati,Country,2019,0.201
+MH,Marshall Islands,Country,2019,0.062
+NR,Nauru,Country,2019,0.014
+NC,New Caledonia,Country,2019,0.387
+NZ,New Zealand,Country,2019,6.11
+PW,Palau,Country,2019,0.017
+PG,Papua New Guinea,Country,2019,15.058
+WS,Samoa,Country,2019,0.239
+SB,Solomon Islands,Country,2019,1.352
+TO,Tonga,Country,2019,0.094
+TV,Tuvalu,Country,2019,0.011
+VU,Vanuatu,Country,2019,0.562

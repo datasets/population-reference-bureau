@@ -1,0 +1,235 @@
+FIPS,Name,Type,TimeFrame,Data
+WORLD,WORLD,World,2019,17904
+AFRICA,AFRICA,Sub-Region,2019,5186
+NORTHERN AFRICA,NORTHERN AFRICA,Sub-Region,2019,10966
+DZ,Algeria,Country,2019,15350
+EG,Egypt,Country,2019,12080
+LY,Libya,Country,2019,20990
+MA,Morocco,Country,2019,8410
+SD,Sudan,Country,2019,4420
+TN,Tunisia,Country,2019,12060
+EH,Western Sahara,Country,2019,n/a
+WESTERN AFRICA,WESTERN AFRICA,Sub-Region,2019,4293
+BJ,Benin,Country,2019,2400
+BF,Burkina Faso,Country,2019,1920
+CV,Cape Verde,Country,2019,7330
+CI,Cote d'Ivoire,Country,2019,4030
+GM,Gambia,Country,2019,1680
+GH,Ghana,Country,2019,4650
+GN,Guinea,Country,2019,2480
+GW,Guinea-Bissau,Country,2019,1790
+LR,Liberia,Country,2019,1130
+ML,Mali,Country,2019,2230
+MR,Mauritania,Country,2019,4160
+NE,Niger,Country,2019,1030
+NG,Nigeria,Country,2019,5700
+SN,Senegal,Country,2019,3670
+SL,Sierra Leone,Country,2019,1520
+TG,Togo,Country,2019,1760
+EASTERN AFRICA,EASTERN AFRICA,Sub-Region,2019,2399
+BI,Burundi,Country,2019,740
+KM,Comoros,Country,2019,2730
+DJ,Djibouti,Country,2019,n/a
+ER,Eritrea,Country,2019,2080
+ET,Ethiopia,Country,2019,2010
+KE,Kenya,Country,2019,3430
+MG,Madagascar,Country,2019,1580
+MW,Malawi,Country,2019,1310
+MU,Mauritius,Country,2019,26030
+YT,Mayotte,Country,2019,n/a
+MZ,Mozambique,Country,2019,1300
+RE,Reunion,Country,2019,n/a
+RW,Rwanda,Country,2019,2210
+SC,Seychelles,Country,2019,29070
+SO,Somalia,Country,2019,n/a
+SS,South Sudan,Country,2019,1550
+TZ,Tanzania,Country,2019,3160
+UG,Uganda,Country,2019,1970
+ZM,Zambia,Country,2019,4100
+ZW,Zimbabwe,Country,2019,3010
+MIDDLE AFRICA,MIDDLE AFRICA,Sub-Region,2019,2849
+AO,Angola,Country,2019,6150
+CM,Cameroon,Country,2019,3700
+CF,Central African Republic,Country,2019,870
+TD,Chad,Country,2019,1920
+CG,Congo,Country,2019,5050
+CD,"Congo, Dem. Rep.",Country,2019,900
+GQ,Equatorial Guinea,Country,2019,18170
+GA,Gabon,Country,2019,16580
+ST,Sao Tome and Principe,Country,2019,3430
+SOUTHERN AFRICA,SOUTHERN AFRICA,Sub-Region,2019,12957
+BW,Botswana,Country,2019,17970
+SZ,eSwatini,Country,2019,10680
+LS,Lesotho,Country,2019,3610
+NA,Namibia,Country,2019,10920
+ZA,South Africa,Country,2019,13230
+NORTHERN AMERICA,NORTHERN AMERICA,Sub-Region,2019,61747
+CA,Canada,Country,2019,47280
+US,United States,Country,2019,63390
+LATIN AMERICA AND THE CARIBBEAN,LATIN AMERICA AND THE CARIBBEAN,Sub-Region,2019,16111
+CENTRAL AMERICA,CENTRAL AMERICA,Sub-Region,2019,16570
+BZ,Belize,Country,2019,8200
+CR,Costa Rica,Country,2019,16670
+SV,El Salvador,Country,2019,7850
+GT,Guatemala,Country,2019,8310
+HN,Honduras,Country,2019,4780
+MX,Mexico,Country,2019,19440
+NI,Nicaragua,Country,2019,5390
+PA,Panama,Country,2019,23510
+CARIBBEAN,CARIBBEAN,Sub-Region,2019,n/a
+AG,Antigua and Barbuda,Country,2019,25160
+BS,Bahamas,Country,2019,30920
+BB,Barbados,Country,2019,17640
+CU,Cuba,Country,2019,n/a
+CW,Curacao,Country,2019,27820
+DM,Dominica,Country,2019,10680
+DO,Dominican Republic,Country,2019,16960
+GD,Grenada,Country,2019,14270
+GP,Guadeloupe,Country,2019,n/a
+HT,Haiti,Country,2019,1870
+JM,Jamaica,Country,2019,8930
+MQ,Martinique,Country,2019,n/a
+PR,Puerto Rico,Country,2019,26560
+KN,St. Kitts-Nevis,Country,2019,30120
+LC,Saint Lucia,Country,2019,12970
+VC,St. Vincent and the Grenadines,Country,2019,13210
+TT,Trinidad and Tobago,Country,2019,32060
+SOUTH AMERICA,SOUTH AMERICA,Sub-Region,2019,16059
+AR,Argentina,Country,2019,19820
+BO,Bolivia,Country,2019,7670
+BR,Brazil,Country,2019,15820
+CL,Chile,Country,2019,24250
+CO,Colombia,Country,2019,14490
+EC,Ecuador,Country,2019,11410
+GF,French Guiana,Country,2019,n/a
+GY,Guyana,Country,2019,8570
+PY,Paraguay,Country,2019,13180
+PE,Peru,Country,2019,13810
+SR,Suriname,Country,2019,13420
+UY,Uruguay,Country,2019,21900
+VE,Venezuela,Country,2019,17900
+ASIA,ASIA,Sub-Region,2019,14506
+WESTERN ASIA,WESTERN ASIA,Sub-Region,2019,29369
+AM,Armenia,Country,2019,10460
+AZ,Azerbaijan,Country,2019,17070
+BH,Bahrain,Country,2019,44620
+CY,Cyprus,Country,2019,35170
+GE,Georgia,Country,2019,10900
+IQ,Iraq,Country,2019,17290
+IL,Israel,Country,2019,40800
+JO,Jordan,Country,2019,9300
+KW,Kuwait,Country,2019,83390
+LB,Lebanon,Country,2019,12610
+OM,Oman,Country,2019,41230
+PS,Palestinian Territory,Country,2019,5990
+QA,Qatar,Country,2019,124130
+SA,Saudi Arabia,Country,2019,55650
+SY,Syria,Country,2019,n/a
+TR,Turkey,Country,2019,28380
+AE,United Arab Emirates,Country,2019,75300
+YE,Yemen,Country,2019,2570
+CENTRAL ASIA,CENTRAL ASIA,Sub-Region,2019,11709
+KZ,Kazakhstan,Country,2019,24230
+KG,Kyrgyzstan,Country,2019,3780
+TJ,Tajikistan,Country,2019,4040
+TM,Turkmenistan,Country,2019,18460
+UZ,Uzbekistan,Country,2019,7230
+SOUTH ASIA,SOUTH ASIA,Sub-Region,2019,7673
+AF,Afghanistan,Country,2019,1960
+BD,Bangladesh,Country,2019,4560
+BT,Bhutan,Country,2019,9680
+IN,India,Country,2019,7680
+IR,Iran,Country,2019,21050
+MV,Maldives,Country,2019,14120
+NP,Nepal,Country,2019,3090
+PK,Pakistan,Country,2019,5840
+LK,Sri Lanka,Country,2019,13090
+SOUTHEAST ASIA,SOUTHEAST ASIA,Sub-Region,2019,12928
+BN,Brunei,Country,2019,85790
+KH,Cambodia,Country,2019,4060
+ID,Indonesia,Country,2019,12650
+LA,Laos,Country,2019,7090
+MY,Malaysia,Country,2019,30600
+MM,Myanmar,Country,2019,6480
+PH,Philippines,Country,2019,10720
+SG,Singapore,Country,2019,94500
+TH,Thailand,Country,2019,18160
+TL,Timor-Leste,Country,2019,6990
+VN,Vietnam,Country,2019,7030
+EAST ASIA,EAST ASIA,Sub-Region,2019,21266
+CN,China,Country,2019,18140
+HK,"China, Hong Kong SAR",Country,2019,67700
+MO,"China, Macao SAR",Country,2019,112480
+JP,Japan,Country,2019,45000
+KP,"Korea, North",Country,2019,n/a
+KR,"Korea, South",Country,2019,40450
+MN,Mongolia,Country,2019,12220
+TW,Taiwan,Country,2019,n/a
+EUROPE,EUROPE,Sub-Region,2019,37982
+NORTHERN EUROPE,NORTHERN EUROPE,Sub-Region,2019,48537
+Channel Islands,Channel Islands,Sub-Region,2019,n/a
+DK,Denmark,Country,2019,57470
+EE,Estonia,Country,2019,35050
+FI,Finland,Country,2019,48490
+IS,Iceland,Country,2019,54140
+IE,Ireland,Country,2019,66810
+LV,Latvia,Country,2019,28170
+LT,Lithuania,Country,2019,31920
+NO,Norway,Country,2019,66390
+SE,Sweden,Country,2019,53990
+GB,United Kingdom,Country,2019,45660
+WESTERN EUROPE,WESTERN EUROPE,Sub-Region,2019,53401
+AT,Austria,Country,2019,55960
+BE,Belgium,Country,2019,51470
+FR,France,Country,2019,46900
+DE,Germany,Country,2019,55800
+LI,Liechtenstein,Country,2019,n/a
+LU,Luxembourg,Country,2019,80640
+MC,Monaco,Country,2019,n/a
+NL,Netherlands,Country,2019,57380
+CH,Switzerland,Country,2019,69220
+EASTERN EUROPE,EASTERN EUROPE,Sub-Region,2019,24607
+BY,Belarus,Country,2019,n/a
+BG,Bulgaria,Country,2019,21220
+CZ,Czechia,Country,2019,37870
+HU,Hungary,Country,2019,29790
+MD,Moldova,Country,2019,7680
+PL,Poland,Country,2019,31110
+RO,Romania,Country,2019,25940
+RU,Russia,Country,2019,26470
+SK,Slovakia,Country,2019,33600
+UA,Ukraine,Country,2019,9020
+SOUTHERN EUROPE,SOUTHERN EUROPE,Sub-Region,2019,36659
+AL,Albania,Country,2019,12960
+AD,Andorra,Country,2019,n/a
+BA,Bosnia-Herzegovina,Country,2019,13670
+HR,Croatia,Country,2019,25830
+GR,Greece,Country,2019,29600
+IT,Italy,Country,2019,42490
+KV,Kosovo,Country,2019,11580
+MT,Malta,Country,2019,37700
+ME,Montenegro,Country,2019,19750
+MK,North Macedonia,Country,2019,14690
+PT,Portugal,Country,2019,33200
+SM,San Marino,Country,2019,n/a
+RS,Serbia,Country,2019,15360
+SI,Slovenia,Country,2019,38050
+ES,Spain,Country,2019,40840
+OCEANIA,OCEANIA,Sub-Region,2019,36470
+AU,Australia,Country,2019,49930
+FM,Federated States of Micronesia,Country,2019,4160
+FJ,Fiji,Country,2019,10250
+PF,French Polynesia,Country,2019,n/a
+GU,Guam,Country,2019,n/a
+KI,Kiribati,Country,2019,4410
+MH,Marshall Islands,Country,2019,5290
+NR,Nauru,Country,2019,19480
+NC,New Caledonia,Country,2019,n/a
+NZ,New Zealand,Country,2019,40250
+PW,Palau,Country,2019,18820
+PG,Papua New Guinea,Country,2019,4150
+WS,Samoa,Country,2019,6620
+SB,Solomon Islands,Country,2019,2280
+TO,Tonga,Country,2019,6510
+TV,Tuvalu,Country,2019,6090
+VU,Vanuatu,Country,2019,3160

@@ -1,0 +1,20 @@
+NameFIPS,Type,TimeFrame,Data
+Alabama - 01,State,2006-2010,27.0
+Alabama - 01,State,2013-2017,28.1
+Alaska - 02,State,2006-2010,27.1
+Alaska - 02,State,2013-2017,28.7
+Arizona - 04,State,2006-2010,27.4
+Arizona - 04,State,2013-2017,29.5
+Arkansas - 05,State,2006-2010,25.9
+Arkansas - 05,State,2013-2017,27.3
+California - 06,State,2006-2010,29.0
+California - 06,State,2013-2017,30.5
+Colorado - 08,State,2006-2010,27.3
+Colorado - 08,State,2013-2017,29.3
+Connecticut - 09,State,2006-2010,29.4
+Connecticut - 09,State,2013-2017,30.7
+Delaware - 10,State,2006-2010,28.2
+Delaware - 10,State,2013-2017,30.2
+District of Columbia - 11,State,2006-2010,30.8
+District of Columbia - 11,State,2013-2017,30.3
+Florida - 12,State,2006-2010,28.7

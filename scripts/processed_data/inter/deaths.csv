@@ -1,0 +1,235 @@
+FIPS,Name,Type,TimeFrame,Data
+WORLD,WORLD,World,2019,7
+AFRICA,AFRICA,Sub-Region,2019,8
+NORTHERN AFRICA,NORTHERN AFRICA,Sub-Region,2019,6
+DZ,Algeria,Country,2019,5
+EG,Egypt,Country,2019,6
+LY,Libya,Country,2019,5
+MA,Morocco,Country,2019,5
+SD,Sudan,Country,2019,7
+TN,Tunisia,Country,2019,6
+EH,Western Sahara,Country,2019,5
+WESTERN AFRICA,WESTERN AFRICA,Sub-Region,2019,10
+BJ,Benin,Country,2019,9
+BF,Burkina Faso,Country,2019,8
+CV,Cape Verde,Country,2019,6
+CI,Cote d'Ivoire,Country,2019,10
+GM,Gambia,Country,2019,8
+GH,Ghana,Country,2019,7
+GN,Guinea,Country,2019,10
+GW,Guinea-Bissau,Country,2019,9
+LR,Liberia,Country,2019,8
+ML,Mali,Country,2019,10
+MR,Mauritania,Country,2019,7
+NE,Niger,Country,2019,9
+NG,Nigeria,Country,2019,12
+SN,Senegal,Country,2019,6
+SL,Sierra Leone,Country,2019,12
+TG,Togo,Country,2019,9
+EASTERN AFRICA,EASTERN AFRICA,Sub-Region,2019,7
+BI,Burundi,Country,2019,8
+KM,Comoros,Country,2019,7
+DJ,Djibouti,Country,2019,7
+ER,Eritrea,Country,2019,7
+ET,Ethiopia,Country,2019,7
+KE,Kenya,Country,2019,6
+MG,Madagascar,Country,2019,6
+MW,Malawi,Country,2019,7
+MU,Mauritius,Country,2019,9
+YT,Mayotte,Country,2019,3
+MZ,Mozambique,Country,2019,9
+RE,Reunion,Country,2019,6
+RW,Rwanda,Country,2019,5
+SC,Seychelles,Country,2019,8
+SO,Somalia,Country,2019,11
+SS,South Sudan,Country,2019,11
+TZ,Tanzania,Country,2019,7
+UG,Uganda,Country,2019,7
+ZM,Zambia,Country,2019,7
+ZW,Zimbabwe,Country,2019,10
+MIDDLE AFRICA,MIDDLE AFRICA,Sub-Region,2019,10
+AO,Angola,Country,2019,9
+CM,Cameroon,Country,2019,10
+CF,Central African Republic,Country,2019,13
+TD,Chad,Country,2019,11
+CG,Congo,Country,2019,7
+CD,"Congo, Dem. Rep.",Country,2019,10
+GQ,Equatorial Guinea,Country,2019,10
+GA,Gabon,Country,2019,6
+ST,Sao Tome and Principe,Country,2019,6
+SOUTHERN AFRICA,SOUTHERN AFRICA,Sub-Region,2019,9
+BW,Botswana,Country,2019,10
+SZ,eSwatini,Country,2019,11
+LS,Lesotho,Country,2019,15
+NA,Namibia,Country,2019,8
+ZA,South Africa,Country,2019,9
+NORTHERN AMERICA,NORTHERN AMERICA,Sub-Region,2019,9
+CA,Canada,Country,2019,8
+US,United States,Country,2019,9
+LATIN AMERICA AND THE CARIBBEAN,LATIN AMERICA AND THE CARIBBEAN,Sub-Region,2019,6
+CENTRAL AMERICA,CENTRAL AMERICA,Sub-Region,2019,6
+BZ,Belize,Country,2019,5
+CR,Costa Rica,Country,2019,5
+SV,El Salvador,Country,2019,7
+GT,Guatemala,Country,2019,5
+HN,Honduras,Country,2019,4
+MX,Mexico,Country,2019,6
+NI,Nicaragua,Country,2019,5
+PA,Panama,Country,2019,5
+CARIBBEAN,CARIBBEAN,Sub-Region,2019,8
+AG,Antigua and Barbuda,Country,2019,6
+BS,Bahamas,Country,2019,7
+BB,Barbados,Country,2019,9
+CU,Cuba,Country,2019,10
+CW,Curacao,Country,2019,9
+DM,Dominica,Country,2019,8
+DO,Dominican Republic,Country,2019,6
+GD,Grenada,Country,2019,10
+GP,Guadeloupe,Country,2019,8
+HT,Haiti,Country,2019,9
+JM,Jamaica,Country,2019,8
+MQ,Martinique,Country,2019,9
+PR,Puerto Rico,Country,2019,9
+KN,St. Kitts-Nevis,Country,2019,9
+LC,Saint Lucia,Country,2019,7
+VC,St. Vincent and the Grenadines,Country,2019,9
+TT,Trinidad and Tobago,Country,2019,8
+SOUTH AMERICA,SOUTH AMERICA,Sub-Region,2019,6
+AR,Argentina,Country,2019,8
+BO,Bolivia,Country,2019,6
+BR,Brazil,Country,2019,6
+CL,Chile,Country,2019,6
+CO,Colombia,Country,2019,6
+EC,Ecuador,Country,2019,5
+GF,French Guiana,Country,2019,3
+GY,Guyana,Country,2019,7
+PY,Paraguay,Country,2019,5
+PE,Peru,Country,2019,5
+SR,Suriname,Country,2019,6
+UY,Uruguay,Country,2019,9
+VE,Venezuela,Country,2019,7
+ASIA,ASIA,Sub-Region,2019,7
+WESTERN ASIA,WESTERN ASIA,Sub-Region,2019,5
+AM,Armenia,Country,2019,9
+AZ,Azerbaijan,Country,2019,6
+BH,Bahrain,Country,2019,2
+CY,Cyprus,Country,2019,6
+GE,Georgia,Country,2019,13
+IQ,Iraq,Country,2019,5
+IL,Israel,Country,2019,5
+JO,Jordan,Country,2019,4
+KW,Kuwait,Country,2019,2
+LB,Lebanon,Country,2019,4
+OM,Oman,Country,2019,2
+PS,Palestinian Territory,Country,2019,2
+QA,Qatar,Country,2019,1
+SA,Saudi Arabia,Country,2019,3
+SY,Syria,Country,2019,6
+TR,Turkey,Country,2019,5
+AE,United Arab Emirates,Country,2019,1
+YE,Yemen,Country,2019,6
+CENTRAL ASIA,CENTRAL ASIA,Sub-Region,2019,6
+KZ,Kazakhstan,Country,2019,7
+KG,Kyrgyzstan,Country,2019,5
+TJ,Tajikistan,Country,2019,4
+TM,Turkmenistan,Country,2019,7
+UZ,Uzbekistan,Country,2019,5
+SOUTH ASIA,SOUTH ASIA,Sub-Region,2019,6
+AF,Afghanistan,Country,2019,7
+BD,Bangladesh,Country,2019,5
+BT,Bhutan,Country,2019,7
+IN,India,Country,2019,6
+IR,Iran,Country,2019,5
+MV,Maldives,Country,2019,4
+NP,Nepal,Country,2019,6
+PK,Pakistan,Country,2019,7
+LK,Sri Lanka,Country,2019,6
+SOUTHEAST ASIA,SOUTHEAST ASIA,Sub-Region,2019,7
+BN,Brunei,Country,2019,4
+KH,Cambodia,Country,2019,6
+ID,Indonesia,Country,2019,7
+LA,Laos,Country,2019,8
+MY,Malaysia,Country,2019,5
+MM,Myanmar,Country,2019,8
+PH,Philippines,Country,2019,6
+SG,Singapore,Country,2019,5
+TH,Thailand,Country,2019,8
+TL,Timor-Leste,Country,2019,6
+VN,Vietnam,Country,2019,7
+EAST ASIA,EAST ASIA,Sub-Region,2019,7
+CN,China,Country,2019,7
+HK,"China, Hong Kong SAR",Country,2019,6
+MO,"China, Macao SAR",Country,2019,3
+JP,Japan,Country,2019,11
+KP,"Korea, North",Country,2019,9
+KR,"Korea, South",Country,2019,6
+MN,Mongolia,Country,2019,6
+TW,Taiwan,Country,2019,7
+EUROPE,EUROPE,Sub-Region,2019,11
+NORTHERN EUROPE,NORTHERN EUROPE,Sub-Region,2019,9
+Channel Islands,Channel Islands,Sub-Region,2019,8
+DK,Denmark,Country,2019,10
+EE,Estonia,Country,2019,12
+FI,Finland,Country,2019,10
+IS,Iceland,Country,2019,7
+IE,Ireland,Country,2019,6
+LV,Latvia,Country,2019,15
+LT,Lithuania,Country,2019,14
+NO,Norway,Country,2019,8
+SE,Sweden,Country,2019,9
+GB,United Kingdom,Country,2019,9
+WESTERN EUROPE,WESTERN EUROPE,Sub-Region,2019,10
+AT,Austria,Country,2019,9
+BE,Belgium,Country,2019,10
+FR,France,Country,2019,9
+DE,Germany,Country,2019,12
+LI,Liechtenstein,Country,2019,7
+LU,Luxembourg,Country,2019,7
+MC,Monaco,Country,2019,7
+NL,Netherlands,Country,2019,9
+CH,Switzerland,Country,2019,8
+EASTERN EUROPE,EASTERN EUROPE,Sub-Region,2019,12
+BY,Belarus,Country,2019,13
+BG,Bulgaria,Country,2019,15
+CZ,Czechia,Country,2019,11
+HU,Hungary,Country,2019,13
+MD,Moldova,Country,2019,10
+PL,Poland,Country,2019,11
+RO,Romania,Country,2019,12
+RU,Russia,Country,2019,13
+SK,Slovakia,Country,2019,10
+UA,Ukraine,Country,2019,14
+SOUTHERN EUROPE,SOUTHERN EUROPE,Sub-Region,2019,10
+AL,Albania,Country,2019,8
+AD,Andorra,Country,2019,4
+BA,Bosnia-Herzegovina,Country,2019,11
+HR,Croatia,Country,2019,13
+GR,Greece,Country,2019,12
+IT,Italy,Country,2019,11
+KV,Kosovo,Country,2019,5
+MT,Malta,Country,2019,8
+ME,Montenegro,Country,2019,11
+MK,North Macedonia,Country,2019,10
+PT,Portugal,Country,2019,11
+SM,San Marino,Country,2019,7
+RS,Serbia,Country,2019,15
+SI,Slovenia,Country,2019,10
+ES,Spain,Country,2019,9
+OCEANIA,OCEANIA,Sub-Region,2019,7
+AU,Australia,Country,2019,6
+FM,Federated States of Micronesia,Country,2019,5
+FJ,Fiji,Country,2019,8
+PF,French Polynesia,Country,2019,6
+GU,Guam,Country,2019,6
+KI,Kiribati,Country,2019,7
+MH,Marshall Islands,Country,2019,4
+NR,Nauru,Country,2019,8
+NC,New Caledonia,Country,2019,6
+NZ,New Zealand,Country,2019,7
+PW,Palau,Country,2019,9
+PG,Papua New Guinea,Country,2019,11
+WS,Samoa,Country,2019,5
+SB,Solomon Islands,Country,2019,5
+TO,Tonga,Country,2019,7
+TV,Tuvalu,Country,2019,9
+VU,Vanuatu,Country,2019,4
