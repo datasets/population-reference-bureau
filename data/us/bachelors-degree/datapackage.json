@@ -1,0 +1,53 @@
+{
+  "bytes": 412613,
+  "count_of_rows": 9582,
+  "hash": "7b46b99344b66ecce6206fef7bb2d0a0",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 412613,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "930c07181eb0ab223fbb71dbc9e08324",
+      "name": "us_bachelors-degree",
+      "path": "data/us_bachelors-degree.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "TimeFrame",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Data",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "NameFIPS",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

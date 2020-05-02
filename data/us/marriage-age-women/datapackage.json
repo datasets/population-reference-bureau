@@ -1,0 +1,53 @@
+{
+  "bytes": 3634,
+  "count_of_rows": 104,
+  "hash": "ebbf9a98a9462f8d9553fddf905039fc",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 3634,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "521950104580a3b91dd5fd71814fbcf2",
+      "name": "us_marriage-age-women",
+      "path": "data/us_marriage-age-women.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "TimeFrame",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Data",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "NameFIPS",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

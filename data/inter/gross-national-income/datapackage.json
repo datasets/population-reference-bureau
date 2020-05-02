@@ -1,0 +1,53 @@
+{
+  "bytes": 7985,
+  "count_of_rows": 234,
+  "hash": "2e192581244d7b9eafe0ef100e1e939a",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 7985,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "f38eedd199e0ad1dadf61418265a210b",
+      "name": "international_gross-national-income",
+      "path": "data/international_gross-national-income.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "TimeFrame",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "Data",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "NameFIPS",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

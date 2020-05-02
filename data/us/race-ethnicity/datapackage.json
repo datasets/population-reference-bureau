@@ -1,0 +1,53 @@
+{
+  "bytes": 2413326,
+  "count_of_rows": 60686,
+  "hash": "8385be9e95fb293d7fbbec746c23cecc",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 2413326,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "8fcb27db3bedb47adcd797701c1b2f40",
+      "name": "us_race-ethnicity",
+      "path": "data/us_race-ethnicity.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "TimeFrame",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "Data",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "NameFIPS",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

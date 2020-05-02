@@ -1,0 +1,53 @@
+{
+  "bytes": 3630,
+  "count_of_rows": 104,
+  "hash": "323fde0ca5832c761b90c8362c68eb50",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 3630,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "67cde6f10ee2303a68ceac82f39a3608",
+      "name": "us_marriage-age-men",
+      "path": "data/us_marriage-age-men.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "TimeFrame",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Data",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "NameFIPS",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

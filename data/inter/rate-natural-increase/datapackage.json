@@ -1,0 +1,53 @@
+{
+  "bytes": 8095,
+  "count_of_rows": 234,
+  "hash": "8d2db8b93c5e7591f484ca239bb0e0fe",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 8095,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "d05c9ad301716e184ae9a6ca41954885",
+      "name": "international_rate-natural-increase",
+      "path": "data/international_rate-natural-increase.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "TimeFrame",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "Data",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "NameFIPS",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

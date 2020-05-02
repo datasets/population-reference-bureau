@@ -1,0 +1,53 @@
+{
+  "bytes": 7861,
+  "count_of_rows": 234,
+  "hash": "301850c31778c0f1e182ee04a55bcc41",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 7861,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "2efa7b2a529d2f9fa2fce93ca5e7b10d",
+      "name": "international_age15",
+      "path": "data/international_age15.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "TimeFrame",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "Data",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "NameFIPS",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

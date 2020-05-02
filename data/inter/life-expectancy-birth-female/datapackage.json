@@ -1,0 +1,53 @@
+{
+  "bytes": 7412,
+  "count_of_rows": 234,
+  "hash": "2bffa99681280734f04c34c3fdd0b1b9",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 7412,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "0645b2bb4c8ed1b536924fc437815166",
+      "name": "international_life-expectancy-birth-female",
+      "path": "data/international_life-expectancy-birth-female.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "TimeFrame",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "Data",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "NameFIPS",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

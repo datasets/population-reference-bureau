@@ -1,0 +1,53 @@
+{
+  "bytes": 7412,
+  "count_of_rows": 234,
+  "hash": "41b3298f76b127b306c4ab33ba6358ea",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 7412,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "2931b6eb04beef132852da3d64f0cc4b",
+      "name": "international_life-expectancy-birth-male",
+      "path": "data/international_life-expectancy-birth-male.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "TimeFrame",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "Data",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "NameFIPS",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

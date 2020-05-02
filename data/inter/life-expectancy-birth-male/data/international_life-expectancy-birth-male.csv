@@ -1,0 +1,235 @@
+Type,TimeFrame,Data,NameFIPS
+World,2019,70,WORLD WORLD
+Sub-Region,2019,61,AFRICA AFRICA
+Sub-Region,2019,71,NORTHERN AFRICA NORTHERN AFRICA
+Country,2019,77,Algeria DZ
+Country,2019,71,Egypt EG
+Country,2019,70,Libya LY
+Country,2019,75,Morocco MA
+Country,2019,63,Sudan SD
+Country,2019,75,Tunisia TN
+Country,2019,68,Western Sahara EH
+Sub-Region,2019,56,WESTERN AFRICA WESTERN AFRICA
+Country,2019,60,Benin BJ
+Country,2019,60,Burkina Faso BF
+Country,2019,69,Cape Verde CV
+Country,2019,56,Cote d'Ivoire CI
+Country,2019,60,Gambia GM
+Country,2019,62,Ghana GH
+Country,2019,58,Guinea GN
+Country,2019,59,Guinea-Bissau GW
+Country,2019,62,Liberia LR
+Country,2019,58,Mali ML
+Country,2019,63,Mauritania MR
+Country,2019,60,Niger NE
+Country,2019,53,Nigeria NG
+Country,2019,65,Senegal SN
+Country,2019,53,Sierra Leone SL
+Country,2019,60,Togo TG
+Sub-Region,2019,62,EASTERN AFRICA EASTERN AFRICA
+Country,2019,59,Burundi BI
+Country,2019,62,Comoros KM
+Country,2019,64,Djibouti DJ
+Country,2019,63,Eritrea ER
+Country,2019,64,Ethiopia ET
+Country,2019,64,Kenya KE
+Country,2019,65,Madagascar MG
+Country,2019,60,Malawi MW
+Country,2019,71,Mauritius MU
+Country,2019,76,Mayotte YT
+Country,2019,57,Mozambique MZ
+Country,2019,78,Reunion RE
+Country,2019,66,Rwanda RW
+Country,2019,70,Seychelles SC
+Country,2019,55,Somalia SO
+Country,2019,56,South Sudan SS
+Country,2019,63,Tanzania TZ
+Country,2019,60,Uganda UG
+Country,2019,60,Zambia ZM
+Country,2019,58,Zimbabwe ZW
+Sub-Region,2019,58,MIDDLE AFRICA MIDDLE AFRICA
+Country,2019,58,Angola AO
+Country,2019,57,Cameroon CM
+Country,2019,50,Central African Republic CF
+Country,2019,55,Chad TD
+Country,2019,63,Congo CG
+Country,2019,59,"Congo, Dem. Rep. CD"
+Country,2019,57,Equatorial Guinea GQ
+Country,2019,66,Gabon GA
+Country,2019,65,Sao Tome and Principe ST
+Sub-Region,2019,61,SOUTHERN AFRICA SOUTHERN AFRICA
+Country,2019,61,Botswana BW
+Country,2019,54,eSwatini SZ
+Country,2019,50,Lesotho LS
+Country,2019,60,Namibia NA
+Country,2019,62,South Africa ZA
+Sub-Region,2019,76,NORTHERN AMERICA NORTHERN AMERICA
+Country,2019,80,Canada CA
+Country,2019,76,United States US
+Sub-Region,2019,72,LATIN AMERICA AND THE CARIBBEAN LATIN AMERICA AND THE CARIBBEAN
+Sub-Region,2019,72,CENTRAL AMERICA CENTRAL AMERICA
+Country,2019,71,Belize BZ
+Country,2019,78,Costa Rica CR
+Country,2019,68,El Salvador SV
+Country,2019,69,Guatemala GT
+Country,2019,73,Honduras HN
+Country,2019,72,Mexico MX
+Country,2019,71,Nicaragua NI
+Country,2019,75,Panama PA
+Sub-Region,2019,70,CARIBBEAN CARIBBEAN
+Country,2019,76,Antigua and Barbuda AG
+Country,2019,71,Bahamas BS
+Country,2019,78,Barbados BB
+Country,2019,77,Cuba CU
+Country,2019,75,Curacao CW
+Country,2019,73,Dominica DM
+Country,2019,69,Dominican Republic DO
+Country,2019,70,Grenada GD
+Country,2019,77,Guadeloupe GP
+Country,2019,61,Haiti HT
+Country,2019,72,Jamaica JM
+Country,2019,79,Martinique MQ
+Country,2019,78,Puerto Rico PR
+Country,2019,74,St. Kitts-Nevis KN
+Country,2019,75,Saint Lucia LC
+Country,2019,70,St. Vincent and the Grenadines VC
+Country,2019,71,Trinidad and Tobago TT
+Sub-Region,2019,72,SOUTH AMERICA SOUTH AMERICA
+Country,2019,74,Argentina AR
+Country,2019,69,Bolivia BO
+Country,2019,72,Brazil BR
+Country,2019,77,Chile CL
+Country,2019,73,Colombia CO
+Country,2019,74,Ecuador EC
+Country,2019,78,French Guiana GF
+Country,2019,67,Guyana GY
+Country,2019,72,Paraguay PY
+Country,2019,74,Peru PE
+Country,2019,68,Suriname SR
+Country,2019,74,Uruguay UY
+Country,2019,68,Venezuela VE
+Sub-Region,2019,71,ASIA ASIA
+Sub-Region,2019,72,WESTERN ASIA WESTERN ASIA
+Country,2019,72,Armenia AM
+Country,2019,73,Azerbaijan AZ
+Country,2019,76,Bahrain BH
+Country,2019,81,Cyprus CY
+Country,2019,70,Georgia GE
+Country,2019,68,Iraq IQ
+Country,2019,81,Israel IL
+Country,2019,73,Jordan JO
+Country,2019,75,Kuwait KW
+Country,2019,77,Lebanon LB
+Country,2019,76,Oman OM
+Country,2019,73,Palestinian Territory PS
+Country,2019,79,Qatar QA
+Country,2019,74,Saudi Arabia SA
+Country,2019,66,Syria SY
+Country,2019,76,Turkey TR
+Country,2019,77,United Arab Emirates AE
+Country,2019,64,Yemen YE
+Sub-Region,2019,70,CENTRAL ASIA CENTRAL ASIA
+Country,2019,68,Kazakhstan KZ
+Country,2019,67,Kyrgyzstan KG
+Country,2019,73,Tajikistan TJ
+Country,2019,64,Turkmenistan TM
+Country,2019,71,Uzbekistan UZ
+Sub-Region,2019,68,SOUTH ASIA SOUTH ASIA
+Country,2019,63,Afghanistan AF
+Country,2019,71,Bangladesh BD
+Country,2019,71,Bhutan BT
+Country,2019,67,India IN
+Country,2019,75,Iran IR
+Country,2019,77,Maldives MV
+Country,2019,69,Nepal NP
+Country,2019,66,Pakistan PK
+Country,2019,73,Sri Lanka LK
+Sub-Region,2019,69,SOUTHEAST ASIA SOUTHEAST ASIA
+Country,2019,75,Brunei BN
+Country,2019,69,Cambodia KH
+Country,2019,69,Indonesia ID
+Country,2019,64,Laos LA
+Country,2019,73,Malaysia MY
+Country,2019,63,Myanmar MM
+Country,2019,67,Philippines PH
+Country,2019,81,Singapore SG
+Country,2019,73,Thailand TH
+Country,2019,67,Timor-Leste TL
+Country,2019,71,Vietnam VN
+Sub-Region,2019,75,EAST ASIA EAST ASIA
+Country,2019,75,China CN
+Country,2019,82,"China, Hong Kong SAR HK"
+Country,2019,81,"China, Macao SAR MO"
+Country,2019,81,Japan JP
+Country,2019,68,"Korea, North KP"
+Country,2019,80,"Korea, South KR"
+Country,2019,66,Mongolia MN
+Country,2019,77,Taiwan TW
+Sub-Region,2019,75,EUROPE EUROPE
+Sub-Region,2019,79,NORTHERN EUROPE NORTHERN EUROPE
+Sub-Region,2019,81,Channel Islands Channel Islands
+Country,2019,79,Denmark DK
+Country,2019,74,Estonia EE
+Country,2019,79,Finland FI
+Country,2019,81,Iceland IS
+Country,2019,78,Ireland IE
+Country,2019,70,Latvia LV
+Country,2019,71,Lithuania LT
+Country,2019,81,Norway NO
+Country,2019,81,Sweden SE
+Country,2019,79,United Kingdom GB
+Sub-Region,2019,79,WESTERN EUROPE WESTERN EUROPE
+Country,2019,79,Austria AT
+Country,2019,79,Belgium BE
+Country,2019,80,France FR
+Country,2019,78,Germany DE
+Country,2019,82,Liechtenstein LI
+Country,2019,80,Luxembourg LU
+Country,2019,n/a,Monaco MC
+Country,2019,80,Netherlands NL
+Country,2019,81,Switzerland CH
+Sub-Region,2019,69,EASTERN EUROPE EASTERN EUROPE
+Country,2019,69,Belarus BY
+Country,2019,71,Bulgaria BG
+Country,2019,76,Czechia CZ
+Country,2019,72,Hungary HU
+Country,2019,69,Moldova MD
+Country,2019,74,Poland PL
+Country,2019,72,Romania RO
+Country,2019,68,Russia RU
+Country,2019,74,Slovakia SK
+Country,2019,67,Ukraine UA
+Sub-Region,2019,79,SOUTHERN EUROPE SOUTHERN EUROPE
+Country,2019,77,Albania AL
+Country,2019,n/a,Andorra AD
+Country,2019,74,Bosnia-Herzegovina BA
+Country,2019,75,Croatia HR
+Country,2019,78,Greece GR
+Country,2019,81,Italy IT
+Country,2019,74,Kosovo KV
+Country,2019,80,Malta MT
+Country,2019,75,Montenegro ME
+Country,2019,74,North Macedonia MK
+Country,2019,78,Portugal PT
+Country,2019,82,San Marino SM
+Country,2019,73,Serbia RS
+Country,2019,78,Slovenia SI
+Country,2019,80,Spain ES
+Sub-Region,2019,76,OCEANIA OCEANIA
+Country,2019,81,Australia AU
+Country,2019,69,Federated States of Micronesia FM
+Country,2019,67,Fiji FJ
+Country,2019,74,French Polynesia PF
+Country,2019,74,Guam GU
+Country,2019,59,Kiribati KI
+Country,2019,71,Marshall Islands MH
+Country,2019,57,Nauru NR
+Country,2019,74,New Caledonia NC
+Country,2019,80,New Zealand NZ
+Country,2019,68,Palau PW
+Country,2019,63,Papua New Guinea PG
+Country,2019,74,Samoa WS
+Country,2019,67,Solomon Islands SB
+Country,2019,69,Tonga TO
+Country,2019,64,Tuvalu TV
+Country,2019,70,Vanuatu VU

@@ -1,0 +1,53 @@
+{
+  "bytes": 7859,
+  "count_of_rows": 234,
+  "hash": "04d8fba452c9aa16f227ddaf6240ed10",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 7859,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "888859c31f80c4e9acf1be079ef75085",
+      "name": "international_fp-unmet-total",
+      "path": "data/international_fp-unmet-total.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "TimeFrame",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "Data",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "NameFIPS",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

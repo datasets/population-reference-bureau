@@ -1,0 +1,53 @@
+{
+  "bytes": 2286708,
+  "count_of_rows": 60686,
+  "hash": "0f9d28535cf64ab6c399847dbabbe7b0",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 2286708,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "a2a08fed162b1746f187401f13726870",
+      "name": "us_elderly-support-ratio",
+      "path": "data/us_elderly-support-ratio.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "TimeFrame",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "Data",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "NameFIPS",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

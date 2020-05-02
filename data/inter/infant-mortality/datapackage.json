@@ -1,0 +1,53 @@
+{
+  "bytes": 7431,
+  "count_of_rows": 234,
+  "hash": "d3b4dc1df24f69e24218e1dacd585e6e",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 7431,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "0118fe8018915a9fd4e67593a73cd28a",
+      "name": "international_infant-mortality",
+      "path": "data/international_infant-mortality.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "TimeFrame",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "Data",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "NameFIPS",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

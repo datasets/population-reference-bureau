@@ -1,0 +1,53 @@
+{
+  "bytes": 8236,
+  "count_of_rows": 234,
+  "hash": "476a7ad5b2b521c22f4f0509dbcdcf8a",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 8236,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "bd243c5fb9ea2793e182b4beacd088c5",
+      "name": "international_population",
+      "path": "data/international_population.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "TimeFrame",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "Data",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "NameFIPS",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

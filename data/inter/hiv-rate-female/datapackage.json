@@ -1,0 +1,53 @@
+{
+  "bytes": 7607,
+  "count_of_rows": 234,
+  "hash": "2d15dc8360c1188f0f8dbc2c83874eb0",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 7607,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "46d170e9814a80d037baf02fe1852663",
+      "name": "international_hiv-rate-female",
+      "path": "data/international_hiv-rate-female.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "TimeFrame",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "Data",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "NameFIPS",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

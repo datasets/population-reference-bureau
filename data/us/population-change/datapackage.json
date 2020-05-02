@@ -1,0 +1,53 @@
+{
+  "bytes": 275841,
+  "count_of_rows": 6388,
+  "hash": "c434aca4b811bc6dedea30db5c30650e",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 275841,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "4f51f564fc261f46fa6e44b1d5fd0a11",
+      "name": "us_population-change",
+      "path": "data/us_population-change.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "TimeFrame",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Data",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "NameFIPS",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

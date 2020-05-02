@@ -1,0 +1,53 @@
+{
+  "bytes": 7808,
+  "count_of_rows": 234,
+  "hash": "0c71a031eef7311cf5377b062268c72e",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 7808,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "295a07f28127d3e9da28f45655e50221",
+      "name": "international_fp-total-modern",
+      "path": "data/international_fp-total-modern.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "TimeFrame",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "Data",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "NameFIPS",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

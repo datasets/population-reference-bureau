@@ -1,0 +1,53 @@
+{
+  "bytes": 7860,
+  "count_of_rows": 234,
+  "hash": "de2ad1dd593e68858efa0230a120a74d",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 7860,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "96af278ec181d034ee439ab211ce8bbe",
+      "name": "international_hh-size-av",
+      "path": "data/international_hh-size-av.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "TimeFrame",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "Data",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "NameFIPS",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

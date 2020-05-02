@@ -1,0 +1,937 @@
+Type,TimeFrame,Data,NameFIPS
+State,2000,2.02,Alabama 01
+State,2001,1.94,Alabama 01
+State,2002,1.88,Alabama 01
+State,2003,1.92,Alabama 01
+State,2004,1.91,Alabama 01
+State,2005,1.93,Alabama 01
+State,2006,2.03,Alabama 01
+State,2007,2.07,Alabama 01
+State,2008,2.06,Alabama 01
+State,2009,1.96,Alabama 01
+State,2010,1.87,Alabama 01
+State,2011,1.84,Alabama 01
+State,2012,1.81,Alabama 01
+State,2013,1.79,Alabama 01
+State,2014,1.83,Alabama 01
+State,2015,1.83,Alabama 01
+State,2016,1.83,Alabama 01
+State,2017,1.82,Alabama 01
+State,2000,2.44,Alaska 02
+State,2001,2.46,Alaska 02
+State,2002,2.55,Alaska 02
+State,2003,2.37,Alaska 02
+State,2004,2.42,Alaska 02
+State,2005,2.44,Alaska 02
+State,2006,2.32,Alaska 02
+State,2007,2.32,Alaska 02
+State,2008,2.41,Alaska 02
+State,2009,2.28,Alaska 02
+State,2010,2.35,Alaska 02
+State,2011,2.28,Alaska 02
+State,2012,2.19,Alaska 02
+State,2013,2.22,Alaska 02
+State,2014,2.19,Alaska 02
+State,2015,2.17,Alaska 02
+State,2016,2.14,Alaska 02
+State,2017,2.02,Alaska 02
+State,2000,2.65,Arizona 04
+State,2001,2.64,Arizona 04
+State,2002,2.36,Arizona 04
+State,2003,2.39,Arizona 04
+State,2004,2.38,Arizona 04
+State,2005,2.37,Arizona 04
+State,2006,2.44,Arizona 04
+State,2007,2.43,Arizona 04
+State,2008,2.31,Arizona 04
+State,2009,2.12,Arizona 04
+State,2010,2.07,Arizona 04
+State,2011,2,Arizona 04
+State,2012,2,Arizona 04
+State,2013,1.97,Arizona 04
+State,2014,1.97,Arizona 04
+State,2015,1.92,Arizona 04
+State,2016,1.87,Arizona 04
+State,2017,1.79,Arizona 04
+State,2000,2.14,Arkansas 05
+State,2001,2.09,Arkansas 05
+State,2002,2.04,Arkansas 05
+State,2003,2.06,Arkansas 05
+State,2004,2.07,Arkansas 05
+State,2005,2.09,Arkansas 05
+State,2006,2.18,Arkansas 05
+State,2007,2.2,Arkansas 05
+State,2008,2.16,Arkansas 05
+State,2009,2.08,Arkansas 05
+State,2010,2,Arkansas 05
+State,2011,2,Arkansas 05
+State,2012,1.97,Arkansas 05
+State,2013,1.94,Arkansas 05
+State,2014,1.97,Arkansas 05
+State,2015,1.99,Arkansas 05
+State,2016,1.95,Arkansas 05
+State,2017,1.91,Arkansas 05
+State,2000,2.19,California 06
+State,2001,2.15,California 06
+State,2002,2.07,California 06
+State,2003,2.13,California 06
+State,2004,2.15,California 06
+State,2005,2.18,California 06
+State,2006,2.19,California 06
+State,2007,2.2,California 06
+State,2008,2.15,California 06
+State,2009,2.06,California 06
+State,2010,1.95,California 06
+State,2011,1.9,California 06
+State,2012,1.89,California 06
+State,2013,1.84,California 06
+State,2014,1.84,California 06
+State,2015,1.79,California 06
+State,2016,1.77,California 06
+State,2017,1.69,California 06
+State,2000,2.36,Colorado 08
+State,2001,2.4,Colorado 08
+State,2002,2.15,Colorado 08
+State,2003,2.12,Colorado 08
+State,2004,2.09,Colorado 08
+State,2005,2.08,Colorado 08
+State,2006,2.11,Colorado 08
+State,2007,2.1,Colorado 08
+State,2008,2.05,Colorado 08
+State,2009,1.98,Colorado 08
+State,2010,1.92,Colorado 08
+State,2011,1.85,Colorado 08
+State,2012,1.83,Colorado 08
+State,2013,1.79,Colorado 08
+State,2014,1.77,Colorado 08
+State,2015,1.75,Colorado 08
+State,2016,1.72,Colorado 08
+State,2017,1.63,Colorado 08
+State,2000,1.93,Connecticut 09
+State,2001,1.94,Connecticut 09
+State,2002,1.88,Connecticut 09
+State,2003,1.92,Connecticut 09
+State,2004,1.9,Connecticut 09
+State,2005,1.91,Connecticut 09
+State,2006,1.9,Connecticut 09
+State,2007,1.92,Connecticut 09
+State,2008,1.88,Connecticut 09
+State,2009,1.8,Connecticut 09
+State,2010,1.72,Connecticut 09
+State,2011,1.71,Connecticut 09
+State,2012,1.66,Connecticut 09
+State,2013,1.63,Connecticut 09
+State,2014,1.63,Connecticut 09
+State,2015,1.61,Connecticut 09
+State,2016,1.63,Connecticut 09
+State,2017,1.59,Connecticut 09
+State,2000,2.01,Delaware 10
+State,2001,1.96,Delaware 10
+State,2002,1.94,Delaware 10
+State,2003,2.01,Delaware 10
+State,2004,1.97,Delaware 10
+State,2005,2.01,Delaware 10
+State,2006,2.09,Delaware 10
+State,2007,2.13,Delaware 10
+State,2008,2.11,Delaware 10
+State,2009,2,Delaware 10
+State,2010,1.94,Delaware 10
+State,2011,1.9,Delaware 10
+State,2012,1.85,Delaware 10
+State,2013,1.79,Delaware 10
+State,2014,1.79,Delaware 10
+State,2015,1.81,Delaware 10
+State,2016,1.79,Delaware 10
+State,2017,1.75,Delaware 10
+State,2000,1.98,District of Columbia 11
+State,2001,1.98,District of Columbia 11
+State,2002,1.58,District of Columbia 11
+State,2003,1.59,District of Columbia 11
+State,2004,1.74,District of Columbia 11
+State,2005,1.79,District of Columbia 11
+State,2006,1.7,District of Columbia 11
+State,2007,1.75,District of Columbia 11
+State,2008,1.79,District of Columbia 11
+State,2009,1.74,District of Columbia 11
+State,2010,1.65,District of Columbia 11
+State,2011,1.64,District of Columbia 11
+State,2012,1.61,District of Columbia 11
+State,2013,1.53,District of Columbia 11
+State,2014,1.52,District of Columbia 11
+State,2015,1.48,District of Columbia 11
+State,2016,1.49,District of Columbia 11
+State,2017,1.42,District of Columbia 11
+State,2000,2.16,Florida 12
+State,2001,2.17,Florida 12
+State,2002,2,Florida 12
+State,2003,2.01,Florida 12
+State,2004,2.02,Florida 12
+State,2005,2.06,Florida 12
+State,2006,2.09,Florida 12
+State,2007,2.12,Florida 12
+State,2008,2.05,Florida 12
+State,2009,1.93,Florida 12
+State,2010,1.83,Florida 12
+State,2011,1.8,Florida 12
+State,2012,1.77,Florida 12
+State,2013,1.77,Florida 12
+State,2014,1.77,Florida 12
+State,2015,1.77,Florida 12
+State,2016,1.75,Florida 12
+State,2017,1.71,Florida 12
+State,2000,2.24,Georgia 13
+State,2001,2.23,Georgia 13
+State,2002,2.11,Georgia 13
+State,2003,2.12,Georgia 13
+State,2004,2.15,Georgia 13
+State,2005,2.14,Georgia 13
+State,2006,2.23,Georgia 13
+State,2007,2.25,Georgia 13
+State,2008,2.17,Georgia 13
+State,2009,2.05,Georgia 13
+State,2010,1.96,Georgia 13
+State,2011,1.93,Georgia 13
+State,2012,1.88,Georgia 13
+State,2013,1.86,Georgia 13
+State,2014,1.87,Georgia 13
+State,2015,1.85,Georgia 13
+State,2016,1.82,Georgia 13
+State,2017,1.79,Georgia 13
+State,2000,2.34,Hawaii 15
+State,2001,2.31,Hawaii 15
+State,2002,2.14,Hawaii 15
+State,2003,2.24,Hawaii 15
+State,2004,2.3,Hawaii 15
+State,2005,2.28,Hawaii 15
+State,2006,2.23,Hawaii 15
+State,2007,2.29,Hawaii 15
+State,2008,2.34,Hawaii 15
+State,2009,2.23,Hawaii 15
+State,2010,2.15,Hawaii 15
+State,2011,2.11,Hawaii 15
+State,2012,2.1,Hawaii 15
+State,2013,2.08,Hawaii 15
+State,2014,2,Hawaii 15
+State,2015,1.97,Hawaii 15
+State,2016,1.94,Hawaii 15
+State,2017,1.89,Hawaii 15
+State,2000,2.31,Idaho 16
+State,2001,2.3,Idaho 16
+State,2002,2.27,Idaho 16
+State,2003,2.32,Idaho 16
+State,2004,2.34,Idaho 16
+State,2005,2.32,Idaho 16
+State,2006,2.42,Idaho 16
+State,2007,2.49,Idaho 16
+State,2008,2.47,Idaho 16
+State,2009,2.27,Idaho 16
+State,2010,2.24,Idaho 16
+State,2011,2.15,Idaho 16
+State,2012,2.19,Idaho 16
+State,2013,2.13,Idaho 16
+State,2014,2.15,Idaho 16
+State,2015,2.13,Idaho 16
+State,2016,2.08,Idaho 16
+State,2017,2.01,Idaho 16
+State,2000,2.19,Illinois 17
+State,2001,2.19,Illinois 17
+State,2002,2.04,Illinois 17
+State,2003,2.05,Illinois 17
+State,2004,2.04,Illinois 17
+State,2005,2.03,Illinois 17
+State,2006,2.03,Illinois 17
+State,2007,2.04,Illinois 17
+State,2008,2,Illinois 17
+State,2009,1.94,Illinois 17
+State,2010,1.88,Illinois 17
+State,2011,1.84,Illinois 17
+State,2012,1.82,Illinois 17
+State,2013,1.79,Illinois 17
+State,2014,1.81,Illinois 17
+State,2015,1.81,Illinois 17
+State,2016,1.78,Illinois 17
+State,2017,1.73,Illinois 17
+State,2000,2.11,Indiana 18
+State,2001,2.09,Indiana 18
+State,2002,2.02,Indiana 18
+State,2003,2.05,Indiana 18
+State,2004,2.06,Indiana 18
+State,2005,2.06,Indiana 18
+State,2006,2.08,Indiana 18
+State,2007,2.12,Indiana 18
+State,2008,2.09,Indiana 18
+State,2009,2.03,Indiana 18
+State,2010,1.97,Indiana 18
+State,2011,1.95,Indiana 18
+State,2012,1.93,Indiana 18
+State,2013,1.92,Indiana 18
+State,2014,1.93,Indiana 18
+State,2015,1.93,Indiana 18
+State,2016,1.9,Indiana 18
+State,2017,1.87,Indiana 18
+State,2000,2.05,Iowa 19
+State,2001,2.04,Iowa 19
+State,2002,1.95,Iowa 19
+State,2003,1.99,Iowa 19
+State,2004,1.98,Iowa 19
+State,2005,2.01,Iowa 19
+State,2006,2.14,Iowa 19
+State,2007,2.15,Iowa 19
+State,2008,2.11,Iowa 19
+State,2009,2.07,Iowa 19
+State,2010,2.01,Iowa 19
+State,2011,1.97,Iowa 19
+State,2012,1.99,Iowa 19
+State,2013,2,Iowa 19
+State,2014,2.02,Iowa 19
+State,2015,2.01,Iowa 19
+State,2016,1.99,Iowa 19
+State,2017,1.94,Iowa 19
+State,2000,2.21,Kansas 20
+State,2001,2.17,Kansas 20
+State,2002,2.15,Kansas 20
+State,2003,2.15,Kansas 20
+State,2004,2.14,Kansas 20
+State,2005,2.14,Kansas 20
+State,2006,2.23,Kansas 20
+State,2007,2.27,Kansas 20
+State,2008,2.25,Kansas 20
+State,2009,2.19,Kansas 20
+State,2010,2.16,Kansas 20
+State,2011,2.09,Kansas 20
+State,2012,2.12,Kansas 20
+State,2013,2.04,Kansas 20
+State,2014,2.05,Kansas 20
+State,2015,2.05,Kansas 20
+State,2016,2,Kansas 20
+State,2017,1.93,Kansas 20
+State,2000,1.99,Kentucky 21
+State,2001,1.95,Kentucky 21
+State,2002,1.88,Kentucky 21
+State,2003,1.95,Kentucky 21
+State,2004,1.96,Kentucky 21
+State,2005,1.99,Kentucky 21
+State,2006,2.05,Kentucky 21
+State,2007,2.09,Kentucky 21
+State,2008,2.06,Kentucky 21
+State,2009,2,Kentucky 21
+State,2010,1.97,Kentucky 21
+State,2011,1.94,Kentucky 21
+State,2012,1.95,Kentucky 21
+State,2013,1.95,Kentucky 21
+State,2014,1.96,Kentucky 21
+State,2015,1.95,Kentucky 21
+State,2016,1.93,Kentucky 21
+State,2017,1.9,Kentucky 21
+State,2000,2.13,Louisiana 22
+State,2001,2.07,Louisiana 22
+State,2002,1.99,Louisiana 22
+State,2003,2,Louisiana 22
+State,2004,2,Louisiana 22
+State,2005,1.87,Louisiana 22
+State,2006,2.11,Louisiana 22
+State,2007,2.16,Louisiana 22
+State,2008,2.08,Louisiana 22
+State,2009,2.02,Louisiana 22
+State,2010,1.95,Louisiana 22
+State,2011,1.91,Louisiana 22
+State,2012,1.92,Louisiana 22
+State,2013,1.93,Louisiana 22
+State,2014,1.96,Louisiana 22
+State,2015,1.96,Louisiana 22
+State,2016,1.93,Louisiana 22
+State,2017,1.88,Louisiana 22
+State,2000,1.61,Maine 23
+State,2001,1.63,Maine 23
+State,2002,1.66,Maine 23
+State,2003,1.75,Maine 23
+State,2004,1.75,Maine 23
+State,2005,1.78,Maine 23
+State,2006,1.77,Maine 23
+State,2007,1.79,Maine 23
+State,2008,1.74,Maine 23
+State,2009,1.73,Maine 23
+State,2010,1.7,Maine 23
+State,2011,1.67,Maine 23
+State,2012,1.68,Maine 23
+State,2013,1.67,Maine 23
+State,2014,1.66,Maine 23
+State,2015,1.64,Maine 23
+State,2016,1.64,Maine 23
+State,2017,1.58,Maine 23
+State,2000,1.97,Maryland 24
+State,2001,1.95,Maryland 24
+State,2002,1.92,Maryland 24
+State,2003,1.98,Maryland 24
+State,2004,1.98,Maryland 24
+State,2005,2,Maryland 24
+State,2006,2.01,Maryland 24
+State,2007,2.06,Maryland 24
+State,2008,2.03,Maryland 24
+State,2009,1.96,Maryland 24
+State,2010,1.89,Maryland 24
+State,2011,1.85,Maryland 24
+State,2012,1.83,Maryland 24
+State,2013,1.79,Maryland 24
+State,2014,1.82,Maryland 24
+State,2015,1.8,Maryland 24
+State,2016,1.79,Maryland 24
+State,2017,1.75,Maryland 24
+State,2000,1.8,Massachusetts 25
+State,2001,1.81,Massachusetts 25
+State,2002,1.71,Massachusetts 25
+State,2003,1.74,Massachusetts 25
+State,2004,1.72,Massachusetts 25
+State,2005,1.71,Massachusetts 25
+State,2006,1.78,Massachusetts 25
+State,2007,1.8,Massachusetts 25
+State,2008,1.77,Massachusetts 25
+State,2009,1.71,Massachusetts 25
+State,2010,1.67,Massachusetts 25
+State,2011,1.67,Massachusetts 25
+State,2012,1.63,Massachusetts 25
+State,2013,1.6,Massachusetts 25
+State,2014,1.58,Massachusetts 25
+State,2015,1.55,Massachusetts 25
+State,2016,1.54,Massachusetts 25
+State,2017,1.51,Massachusetts 25
+State,2000,1.97,Michigan 26
+State,2001,1.94,Michigan 26
+State,2002,1.92,Michigan 26
+State,2003,1.94,Michigan 26
+State,2004,1.93,Michigan 26
+State,2005,1.91,Michigan 26
+State,2006,1.93,Michigan 26
+State,2007,1.91,Michigan 26
+State,2008,1.87,Michigan 26
+State,2009,1.85,Michigan 26
+State,2010,1.85,Michigan 26
+State,2011,1.84,Michigan 26
+State,2012,1.82,Michigan 26
+State,2013,1.83,Michigan 26
+State,2014,1.83,Michigan 26
+State,2015,1.81,Michigan 26
+State,2016,1.8,Michigan 26
+State,2017,1.76,Michigan 26
+State,2000,2.06,Minnesota 27
+State,2001,2.06,Minnesota 27
+State,2002,1.97,Minnesota 27
+State,2003,2.02,Minnesota 27
+State,2004,2.03,Minnesota 27
+State,2005,2.02,Minnesota 27
+State,2006,2.14,Minnesota 27
+State,2007,2.15,Minnesota 27
+State,2008,2.11,Minnesota 27
+State,2009,2.04,Minnesota 27
+State,2010,1.96,Minnesota 27
+State,2011,1.95,Minnesota 27
+State,2012,1.94,Minnesota 27
+State,2013,1.94,Minnesota 27
+State,2014,1.94,Minnesota 27
+State,2015,1.93,Minnesota 27
+State,2016,1.93,Minnesota 27
+State,2017,1.87,Minnesota 27
+State,2000,2.12,Mississippi 28
+State,2001,2.05,Mississippi 28
+State,2002,1.98,Mississippi 28
+State,2003,2.03,Mississippi 28
+State,2004,2.03,Mississippi 28
+State,2005,2.02,Mississippi 28
+State,2006,2.26,Mississippi 28
+State,2007,2.28,Mississippi 28
+State,2008,2.2,Mississippi 28
+State,2009,2.07,Mississippi 28
+State,2010,1.96,Mississippi 28
+State,2011,1.94,Mississippi 28
+State,2012,1.89,Mississippi 28
+State,2013,1.88,Mississippi 28
+State,2014,1.89,Mississippi 28
+State,2015,1.88,Mississippi 28
+State,2016,1.87,Mississippi 28
+State,2017,1.85,Mississippi 28
+State,2000,2.05,Missouri 29
+State,2001,2.02,Missouri 29
+State,2002,1.94,Missouri 29
+State,2003,1.99,Missouri 29
+State,2004,1.99,Missouri 29
+State,2005,1.99,Missouri 29
+State,2006,2.07,Missouri 29
+State,2007,2.08,Missouri 29
+State,2008,2.05,Missouri 29
+State,2009,1.97,Missouri 29
+State,2010,1.94,Missouri 29
+State,2011,1.92,Missouri 29
+State,2012,1.89,Missouri 29
+State,2013,1.88,Missouri 29
+State,2014,1.87,Missouri 29
+State,2015,1.86,Missouri 29
+State,2016,1.86,Missouri 29
+State,2017,1.81,Missouri 29
+State,2000,2,Montana 30
+State,2001,2,Montana 30
+State,2002,1.97,Montana 30
+State,2003,2.03,Montana 30
+State,2004,2,Montana 30
+State,2005,1.98,Montana 30
+State,2006,2.13,Montana 30
+State,2007,2.08,Montana 30
+State,2008,2.08,Montana 30
+State,2009,1.98,Montana 30
+State,2010,1.99,Montana 30
+State,2011,1.96,Montana 30
+State,2012,1.96,Montana 30
+State,2013,1.97,Montana 30
+State,2014,1.95,Montana 30
+State,2015,1.96,Montana 30
+State,2016,1.89,Montana 30
+State,2017,1.8,Montana 30
+State,2000,2.21,Nebraska 31
+State,2001,2.23,Nebraska 31
+State,2002,2.17,Nebraska 31
+State,2003,2.21,Nebraska 31
+State,2004,2.23,Nebraska 31
+State,2005,2.19,Nebraska 31
+State,2006,2.29,Nebraska 31
+State,2007,2.3,Nebraska 31
+State,2008,2.29,Nebraska 31
+State,2009,2.27,Nebraska 31
+State,2010,2.14,Nebraska 31
+State,2011,2.11,Nebraska 31
+State,2012,2.12,Nebraska 31
+State,2013,2.12,Nebraska 31
+State,2014,2.16,Nebraska 31
+State,2015,2.15,Nebraska 31
+State,2016,2.14,Nebraska 31
+State,2017,2.06,Nebraska 31
+State,2000,2.56,Nevada 32
+State,2001,2.54,Nevada 32
+State,2002,2.25,Nevada 32
+State,2003,2.21,Nevada 32
+State,2004,2.22,Nevada 32
+State,2005,2.27,Nevada 32
+State,2006,2.36,Nevada 32
+State,2007,2.42,Nevada 32
+State,2008,2.31,Nevada 32
+State,2009,2.13,Nevada 32
+State,2010,1.96,Nevada 32
+State,2011,1.91,Nevada 32
+State,2012,1.87,Nevada 32
+State,2013,1.86,Nevada 32
+State,2014,1.87,Nevada 32
+State,2015,1.86,Nevada 32
+State,2016,1.83,Nevada 32
+State,2017,1.77,Nevada 32
+State,2000,1.66,New Hampshire 33
+State,2001,1.66,New Hampshire 33
+State,2002,1.73,New Hampshire 33
+State,2003,1.77,New Hampshire 33
+State,2004,1.79,New Hampshire 33
+State,2005,1.78,New Hampshire 33
+State,2006,1.75,New Hampshire 33
+State,2007,1.76,New Hampshire 33
+State,2008,1.71,New Hampshire 33
+State,2009,1.67,New Hampshire 33
+State,2010,1.67,New Hampshire 33
+State,2011,1.67,New Hampshire 33
+State,2012,1.61,New Hampshire 33
+State,2013,1.6,New Hampshire 33
+State,2014,1.58,New Hampshire 33
+State,2015,1.59,New Hampshire 33
+State,2016,1.55,New Hampshire 33
+State,2017,1.52,New Hampshire 33
+State,2000,2.09,New Jersey 34
+State,2001,2.12,New Jersey 34
+State,2002,2.01,New Jersey 34
+State,2003,2.05,New Jersey 34
+State,2004,2.04,New Jersey 34
+State,2005,2.05,New Jersey 34
+State,2006,2.05,New Jersey 34
+State,2007,2.1,New Jersey 34
+State,2008,2.06,New Jersey 34
+State,2009,2,New Jersey 34
+State,2010,1.9,New Jersey 34
+State,2011,1.88,New Jersey 34
+State,2012,1.85,New Jersey 34
+State,2013,1.81,New Jersey 34
+State,2014,1.81,New Jersey 34
+State,2015,1.8,New Jersey 34
+State,2016,1.79,New Jersey 34
+State,2017,1.76,New Jersey 34
+State,2000,2.31,New Mexico 35
+State,2001,2.31,New Mexico 35
+State,2002,2.21,New Mexico 35
+State,2003,2.2,New Mexico 35
+State,2004,2.2,New Mexico 35
+State,2005,2.21,New Mexico 35
+State,2006,2.23,New Mexico 35
+State,2007,2.27,New Mexico 35
+State,2008,2.23,New Mexico 35
+State,2009,2.14,New Mexico 35
+State,2010,2.06,New Mexico 35
+State,2011,2,New Mexico 35
+State,2012,1.98,New Mexico 35
+State,2013,1.93,New Mexico 35
+State,2014,1.91,New Mexico 35
+State,2015,1.9,New Mexico 35
+State,2016,1.83,New Mexico 35
+State,2017,1.76,New Mexico 35
+State,2000,2.02,New York 36
+State,2001,2.01,New York 36
+State,2002,1.83,New York 36
+State,2003,1.87,New York 36
+State,2004,1.86,New York 36
+State,2005,1.86,New York 36
+State,2006,1.89,New York 36
+State,2007,1.92,New York 36
+State,2008,1.89,New York 36
+State,2009,1.87,New York 36
+State,2010,1.81,New York 36
+State,2011,1.79,New York 36
+State,2012,1.77,New York 36
+State,2013,1.73,New York 36
+State,2014,1.73,New York 36
+State,2015,1.71,New York 36
+State,2016,1.69,New York 36
+State,2017,1.65,New York 36
+State,2000,2.27,North Carolina 37
+State,2001,2.24,North Carolina 37
+State,2002,2.02,North Carolina 37
+State,2003,2.02,North Carolina 37
+State,2004,2.03,North Carolina 37
+State,2005,2.06,North Carolina 37
+State,2006,2.13,North Carolina 37
+State,2007,2.15,North Carolina 37
+State,2008,2.12,North Carolina 37
+State,2009,2.02,North Carolina 37
+State,2010,1.91,North Carolina 37
+State,2011,1.86,North Carolina 37
+State,2012,1.84,North Carolina 37
+State,2013,1.82,North Carolina 37
+State,2014,1.83,North Carolina 37
+State,2015,1.82,North Carolina 37
+State,2016,1.8,North Carolina 37
+State,2017,1.77,North Carolina 37
+State,2000,1.88,North Dakota 38
+State,2001,1.9,North Dakota 38
+State,2002,1.86,North Dakota 38
+State,2003,1.93,North Dakota 38
+State,2004,1.95,North Dakota 38
+State,2005,1.98,North Dakota 38
+State,2006,2.15,North Dakota 38
+State,2007,2.12,North Dakota 38
+State,2008,2.13,North Dakota 38
+State,2009,2.12,North Dakota 38
+State,2010,2.04,North Dakota 38
+State,2011,2.08,North Dakota 38
+State,2012,2.12,North Dakota 38
+State,2013,2.14,North Dakota 38
+State,2014,2.24,North Dakota 38
+State,2015,2.16,North Dakota 38
+State,2016,2.17,North Dakota 38
+State,2017,2.07,North Dakota 38
+State,2000,2,Ohio 39
+State,2001,1.96,Ohio 39
+State,2002,1.94,Ohio 39
+State,2003,1.96,Ohio 39
+State,2004,1.96,Ohio 39
+State,2005,1.96,Ohio 39
+State,2006,1.99,Ohio 39
+State,2007,2.01,Ohio 39
+State,2008,1.99,Ohio 39
+State,2009,1.94,Ohio 39
+State,2010,1.9,Ohio 39
+State,2011,1.88,Ohio 39
+State,2012,1.89,Ohio 39
+State,2013,1.88,Ohio 39
+State,2014,1.88,Ohio 39
+State,2015,1.87,Ohio 39
+State,2016,1.85,Ohio 39
+State,2017,1.83,Ohio 39
+State,2000,2.18,Oklahoma 40
+State,2001,2.2,Oklahoma 40
+State,2002,2.1,Oklahoma 40
+State,2003,2.11,Oklahoma 40
+State,2004,2.11,Oklahoma 40
+State,2005,2.11,Oklahoma 40
+State,2006,2.2,Oklahoma 40
+State,2007,2.22,Oklahoma 40
+State,2008,2.21,Oklahoma 40
+State,2009,2.16,Oklahoma 40
+State,2010,2.11,Oklahoma 40
+State,2011,2.04,Oklahoma 40
+State,2012,2.04,Oklahoma 40
+State,2013,2.04,Oklahoma 40
+State,2014,2.03,Oklahoma 40
+State,2015,2,Oklahoma 40
+State,2016,1.98,Oklahoma 40
+State,2017,1.9,Oklahoma 40
+State,2000,2.09,Oregon 41
+State,2001,2.06,Oregon 41
+State,2002,1.91,Oregon 41
+State,2003,1.9,Oregon 41
+State,2004,1.87,Oregon 41
+State,2005,1.85,Oregon 41
+State,2006,1.96,Oregon 41
+State,2007,1.98,Oregon 41
+State,2008,1.95,Oregon 41
+State,2009,1.85,Oregon 41
+State,2010,1.79,Oregon 41
+State,2011,1.76,Oregon 41
+State,2012,1.74,Oregon 41
+State,2013,1.73,Oregon 41
+State,2014,1.72,Oregon 41
+State,2015,1.7,Oregon 41
+State,2016,1.66,Oregon 41
+State,2017,1.56,Oregon 41
+State,2000,1.87,Pennsylvania 42
+State,2001,1.86,Pennsylvania 42
+State,2002,1.8,Pennsylvania 42
+State,2003,1.86,Pennsylvania 42
+State,2004,1.85,Pennsylvania 42
+State,2005,1.86,Pennsylvania 42
+State,2006,1.93,Pennsylvania 42
+State,2007,1.96,Pennsylvania 42
+State,2008,1.94,Pennsylvania 42
+State,2009,1.86,Pennsylvania 42
+State,2010,1.81,Pennsylvania 42
+State,2011,1.8,Pennsylvania 42
+State,2012,1.78,Pennsylvania 42
+State,2013,1.75,Pennsylvania 42
+State,2014,1.76,Pennsylvania 42
+State,2015,1.74,Pennsylvania 42
+State,2016,1.72,Pennsylvania 42
+State,2017,1.69,Pennsylvania 42
+State,2000,1.82,Rhode Island 44
+State,2001,1.87,Rhode Island 44
+State,2002,1.7,Rhode Island 44
+State,2003,1.76,Rhode Island 44
+State,2004,1.71,Rhode Island 44
+State,2005,1.73,Rhode Island 44
+State,2006,1.72,Rhode Island 44
+State,2007,1.76,Rhode Island 44
+State,2008,1.73,Rhode Island 44
+State,2009,1.67,Rhode Island 44
+State,2010,1.63,Rhode Island 44
+State,2011,1.6,Rhode Island 44
+State,2012,1.59,Rhode Island 44
+State,2013,1.57,Rhode Island 44
+State,2014,1.56,Rhode Island 44
+State,2015,1.58,Rhode Island 44
+State,2016,1.55,Rhode Island 44
+State,2017,1.51,Rhode Island 44
+State,2000,1.97,South Carolina 45
+State,2001,1.96,South Carolina 45
+State,2002,1.87,South Carolina 45
+State,2003,1.93,South Carolina 45
+State,2004,1.95,South Carolina 45
+State,2005,1.97,South Carolina 45
+State,2006,2.14,South Carolina 45
+State,2007,2.14,South Carolina 45
+State,2008,2.13,South Carolina 45
+State,2009,1.99,South Carolina 45
+State,2010,1.88,South Carolina 45
+State,2011,1.84,South Carolina 45
+State,2012,1.82,South Carolina 45
+State,2013,1.8,South Carolina 45
+State,2014,1.8,South Carolina 45
+State,2015,1.8,South Carolina 45
+State,2016,1.76,South Carolina 45
+State,2017,1.73,South Carolina 45
+State,2000,2.15,South Dakota 46
+State,2001,2.17,South Dakota 46
+State,2002,2.19,South Dakota 46
+State,2003,2.24,South Dakota 46
+State,2004,2.26,South Dakota 46
+State,2005,2.26,South Dakota 46
+State,2006,2.4,South Dakota 46
+State,2007,2.41,South Dakota 46
+State,2008,2.35,South Dakota 46
+State,2009,2.29,South Dakota 46
+State,2010,2.27,South Dakota 46
+State,2011,2.25,South Dakota 46
+State,2012,2.27,South Dakota 46
+State,2013,2.27,South Dakota 46
+State,2014,2.27,South Dakota 46
+State,2015,2.27,South Dakota 46
+State,2016,2.26,South Dakota 46
+State,2017,2.23,South Dakota 46
+State,2000,2.06,Tennessee 47
+State,2001,2.04,Tennessee 47
+State,2002,1.94,Tennessee 47
+State,2003,1.95,Tennessee 47
+State,2004,1.96,Tennessee 47
+State,2005,2,Tennessee 47
+State,2006,2.07,Tennessee 47
+State,2007,2.11,Tennessee 47
+State,2008,2.07,Tennessee 47
+State,2009,1.95,Tennessee 47
+State,2010,1.88,Tennessee 47
+State,2011,1.87,Tennessee 47
+State,2012,1.87,Tennessee 47
+State,2013,1.85,Tennessee 47
+State,2014,1.87,Tennessee 47
+State,2015,1.85,Tennessee 47
+State,2016,1.82,Tennessee 47
+State,2017,1.8,Tennessee 47
+State,2000,2.5,Texas 48
+State,2001,2.49,Texas 48
+State,2002,2.35,Texas 48
+State,2003,2.35,Texas 48
+State,2004,2.34,Texas 48
+State,2005,2.34,Texas 48
+State,2006,2.36,Texas 48
+State,2007,2.4,Texas 48
+State,2008,2.36,Texas 48
+State,2009,2.3,Texas 48
+State,2010,2.16,Texas 48
+State,2011,2.07,Texas 48
+State,2012,2.08,Texas 48
+State,2013,2.07,Texas 48
+State,2014,2.09,Texas 48
+State,2015,2.08,Texas 48
+State,2016,2.02,Texas 48
+State,2017,1.92,Texas 48
+State,2000,2.76,Utah 49
+State,2001,2.76,Utah 49
+State,2002,2.54,Utah 49
+State,2003,2.57,Utah 49
+State,2004,2.54,Utah 49
+State,2005,2.47,Utah 49
+State,2006,2.63,Utah 49
+State,2007,2.63,Utah 49
+State,2008,2.6,Utah 49
+State,2009,2.47,Utah 49
+State,2010,2.45,Utah 49
+State,2011,2.38,Utah 49
+State,2012,2.37,Utah 49
+State,2013,2.34,Utah 49
+State,2014,2.33,Utah 49
+State,2015,2.29,Utah 49
+State,2016,2.24,Utah 49
+State,2017,2.12,Utah 49
+State,2000,1.57,Vermont 50
+State,2001,1.55,Vermont 50
+State,2002,1.6,Vermont 50
+State,2003,1.68,Vermont 50
+State,2004,1.72,Vermont 50
+State,2005,1.62,Vermont 50
+State,2006,1.69,Vermont 50
+State,2007,1.72,Vermont 50
+State,2008,1.67,Vermont 50
+State,2009,1.62,Vermont 50
+State,2010,1.66,Vermont 50
+State,2011,1.63,Vermont 50
+State,2012,1.61,Vermont 50
+State,2013,1.59,Vermont 50
+State,2014,1.63,Vermont 50
+State,2015,1.58,Vermont 50
+State,2016,1.54,Vermont 50
+State,2017,1.52,Vermont 50
+State,2000,1.9,Virginia 51
+State,2001,1.89,Virginia 51
+State,2002,1.93,Virginia 51
+State,2003,1.97,Virginia 51
+State,2004,2.03,Virginia 51
+State,2005,2.03,Virginia 51
+State,2006,2.05,Virginia 51
+State,2007,2.07,Virginia 51
+State,2008,2.02,Virginia 51
+State,2009,1.95,Virginia 51
+State,2010,1.88,Virginia 51
+State,2011,1.85,Virginia 51
+State,2012,1.84,Virginia 51
+State,2013,1.81,Virginia 51
+State,2014,1.81,Virginia 51
+State,2015,1.8,Virginia 51
+State,2016,1.79,Virginia 51
+State,2017,1.75,Virginia 51
+State,2000,2.01,Washington 53
+State,2001,1.96,Washington 53
+State,2002,1.89,Washington 53
+State,2003,1.9,Washington 53
+State,2004,1.91,Washington 53
+State,2005,1.91,Washington 53
+State,2006,1.98,Washington 53
+State,2007,2.03,Washington 53
+State,2008,2.04,Washington 53
+State,2009,1.97,Washington 53
+State,2010,1.91,Washington 53
+State,2011,1.89,Washington 53
+State,2012,1.88,Washington 53
+State,2013,1.84,Washington 53
+State,2014,1.85,Washington 53
+State,2015,1.82,Washington 53
+State,2016,1.81,Washington 53
+State,2017,1.71,Washington 53
+State,2000,1.72,West Virginia 54
+State,2001,1.71,West Virginia 54
+State,2002,1.78,West Virginia 54
+State,2003,1.8,West Virginia 54
+State,2004,1.8,West Virginia 54
+State,2005,1.8,West Virginia 54
+State,2006,1.82,West Virginia 54
+State,2007,1.93,West Virginia 54
+State,2008,1.9,West Virginia 54
+State,2009,1.86,West Virginia 54
+State,2010,1.83,West Virginia 54
+State,2011,1.84,West Virginia 54
+State,2012,1.85,West Virginia 54
+State,2013,1.86,West Virginia 54
+State,2014,1.81,West Virginia 54
+State,2015,1.78,West Virginia 54
+State,2016,1.74,West Virginia 54
+State,2017,1.73,West Virginia 54
+State,2000,1.94,Wisconsin 55
+State,2001,1.94,Wisconsin 55
+State,2002,1.89,Wisconsin 55
+State,2003,1.94,Wisconsin 55
+State,2004,1.93,Wisconsin 55
+State,2005,1.94,Wisconsin 55
+State,2006,2.01,Wisconsin 55
+State,2007,2.01,Wisconsin 55
+State,2008,2,Wisconsin 55
+State,2009,1.95,Wisconsin 55
+State,2010,1.89,Wisconsin 55
+State,2011,1.87,Wisconsin 55
+State,2012,1.86,Wisconsin 55
+State,2013,1.84,Wisconsin 55
+State,2014,1.85,Wisconsin 55
+State,2015,1.85,Wisconsin 55
+State,2016,1.84,Wisconsin 55
+State,2017,1.79,Wisconsin 55
+State,2000,1.98,Wyoming 56
+State,2001,1.93,Wyoming 56
+State,2002,2.03,Wyoming 56
+State,2003,2.06,Wyoming 56
+State,2004,2.05,Wyoming 56
+State,2005,2.16,Wyoming 56
+State,2006,2.24,Wyoming 56
+State,2007,2.28,Wyoming 56
+State,2008,2.28,Wyoming 56
+State,2009,2.14,Wyoming 56
+State,2010,2.04,Wyoming 56
+State,2011,1.98,Wyoming 56
+State,2012,1.99,Wyoming 56
+State,2013,1.99,Wyoming 56
+State,2014,1.99,Wyoming 56
+State,2015,2.01,Wyoming 56
+State,2016,1.93,Wyoming 56
+State,2017,1.86,Wyoming 56
+Country,2000,2.06,United States US
+Country,2001,2.03,United States US
+Country,2002,2.02,United States US
+Country,2003,2.05,United States US
+Country,2004,2.05,United States US
+Country,2005,2.06,United States US
+Country,2006,2.11,United States US
+Country,2007,2.12,United States US
+Country,2008,2.07,United States US
+Country,2009,2,United States US
+Country,2010,1.93,United States US
+Country,2011,1.89,United States US
+Country,2012,1.88,United States US
+Country,2013,1.86,United States US
+Country,2014,1.86,United States US
+Country,2015,1.84,United States US
+Country,2016,1.82,United States US
+Country,2017,1.77,United States US

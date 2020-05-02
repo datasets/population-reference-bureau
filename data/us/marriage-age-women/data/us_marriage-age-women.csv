@@ -1,0 +1,105 @@
+Type,TimeFrame,Data,NameFIPS
+State,2006-2010,25.5,Alabama 01
+State,2013-2017,26.4,Alabama 01
+State,2006-2010,24.8,Alaska 02
+State,2013-2017,26,Alaska 02
+State,2006-2010,25.6,Arizona 04
+State,2013-2017,27.5,Arizona 04
+State,2006-2010,24.5,Arkansas 05
+State,2013-2017,25.5,Arkansas 05
+State,2006-2010,26.9,California 06
+State,2013-2017,28.6,California 06
+State,2006-2010,25.7,Colorado 08
+State,2013-2017,27.3,Colorado 08
+State,2006-2010,27.6,Connecticut 09
+State,2013-2017,29.3,Connecticut 09
+State,2006-2010,26.4,Delaware 10
+State,2013-2017,28.7,Delaware 10
+State,2006-2010,29.6,District of Columbia 11
+State,2013-2017,30.4,District of Columbia 11
+State,2006-2010,26.6,Florida 12
+State,2013-2017,28.5,Florida 12
+State,2006-2010,25.9,Georgia 13
+State,2013-2017,27.4,Georgia 13
+State,2006-2010,27,Hawaii 15
+State,2013-2017,27.6,Hawaii 15
+State,2006-2010,23.3,Idaho 16
+State,2013-2017,25.1,Idaho 16
+State,2006-2010,27.1,Illinois 17
+State,2013-2017,28.5,Illinois 17
+State,2006-2010,25.9,Indiana 18
+State,2013-2017,26.8,Indiana 18
+State,2006-2010,25.5,Iowa 19
+State,2013-2017,26.3,Iowa 19
+State,2006-2010,25.1,Kansas 20
+State,2013-2017,25.8,Kansas 20
+State,2006-2010,25,Kentucky 21
+State,2013-2017,26.1,Kentucky 21
+State,2006-2010,26.2,Louisiana 22
+State,2013-2017,27.6,Louisiana 22
+State,2006-2010,26.5,Maine 23
+State,2013-2017,27.2,Maine 23
+State,2006-2010,27.4,Maryland 24
+State,2013-2017,28.7,Maryland 24
+State,2006-2010,28.5,Massachusetts 25
+State,2013-2017,29.7,Massachusetts 25
+State,2006-2010,26.6,Michigan 26
+State,2013-2017,27.8,Michigan 26
+State,2006-2010,26.3,Minnesota 27
+State,2013-2017,27.4,Minnesota 27
+State,2006-2010,25.9,Mississippi 28
+State,2013-2017,26.7,Mississippi 28
+State,2006-2010,25.8,Missouri 29
+State,2013-2017,26.9,Missouri 29
+State,2006-2010,25.4,Montana 30
+State,2013-2017,26.3,Montana 30
+State,2006-2010,25.5,Nebraska 31
+State,2013-2017,26.2,Nebraska 31
+State,2006-2010,25.7,Nevada 32
+State,2013-2017,27.2,Nevada 32
+State,2006-2010,26.8,New Hampshire 33
+State,2013-2017,28.2,New Hampshire 33
+State,2006-2010,27.8,New Jersey 34
+State,2013-2017,29.1,New Jersey 34
+State,2006-2010,25.9,New Mexico 35
+State,2013-2017,27.6,New Mexico 35
+State,2006-2010,28.3,New York 36
+State,2013-2017,29.5,New York 36
+State,2006-2010,25.9,North Carolina 37
+State,2013-2017,27.2,North Carolina 37
+State,2006-2010,25.7,North Dakota 38
+State,2013-2017,26,North Dakota 38
+State,2006-2010,26.3,Ohio 39
+State,2013-2017,27.5,Ohio 39
+State,2006-2010,24.5,Oklahoma 40
+State,2013-2017,25.6,Oklahoma 40
+State,2006-2010,26.1,Oregon 41
+State,2013-2017,27.6,Oregon 41
+State,2006-2010,27.2,Pennsylvania 42
+State,2013-2017,28.5,Pennsylvania 42
+State,2006-2010,27.9,Rhode Island 44
+State,2013-2017,29.2,Rhode Island 44
+State,2006-2010,26.4,South Carolina 45
+State,2013-2017,27.6,South Carolina 45
+State,2006-2010,25.5,South Dakota 46
+State,2013-2017,26,South Dakota 46
+State,2006-2010,25.4,Tennessee 47
+State,2013-2017,26.6,Tennessee 47
+State,2006-2010,25.3,Texas 48
+State,2013-2017,26.6,Texas 48
+State,2006-2010,23,Utah 49
+State,2013-2017,24.2,Utah 49
+State,2006-2010,27,Vermont 50
+State,2013-2017,28.1,Vermont 50
+State,2006-2010,26.5,Virginia 51
+State,2013-2017,27.4,Virginia 51
+State,2006-2010,25.8,Washington 53
+State,2013-2017,26.9,Washington 53
+State,2006-2010,25.4,West Virginia 54
+State,2013-2017,26.4,West Virginia 54
+State,2006-2010,26.4,Wisconsin 55
+State,2013-2017,27.5,Wisconsin 55
+State,2006-2010,24.2,Wyoming 56
+State,2013-2017,25.6,Wyoming 56
+Country,2006-2010,26.3,United States US
+Country,2013-2017,27.7,United States US
