@@ -11,9 +11,6 @@ DIRS = {
     "processed_data": "scripts/processed_data",
     "processed_data_inter": "scripts/processed_data/inter",
     "processed_data_us": "scripts/processed_data/us",
-    "truncate_data": "scripts/truncate_data",
-    "truncate_data_inter": "scripts/truncate_data/inter",
-    "truncate_data_us": "scripts/truncate_data/us",
     "temp_dir": "scripts/temp",
 }
 
