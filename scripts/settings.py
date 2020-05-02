@@ -3,7 +3,7 @@ Quick settings to modify, if needed.
 """
 DIRS = {
     "clean_data": "data",
-    "clean_data_inter": "data/inter",
+    "clean_data_inter": "data/international",
     "clean_data_us": "data/us",
     "original_data": "scripts/original_data",
     "original_data_inter": "scripts/original_data/inter",
