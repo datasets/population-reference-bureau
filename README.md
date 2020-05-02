@@ -2,71 +2,30 @@
 
 Curated data available from the [Population Reference Bureau](https://www.prb.org/data/).
 
-## Table of contents
-<!-- vim-markdown-toc GFM -->
+## Requirements
 
-* [Installation](#installation)
-    * [Dependencies](#dependencies)
-        * [Python](#python)
-        * [JavaScript](#javascript)
-* [Execution](#execution)
-    * [General help](#general-help)
-    * [Quick start](#quick-start)
-
-<!-- vim-markdown-toc -->
-
----
-
-## Installation
-
-### Dependencies
-
-#### Python
+The requirements can be installed with the following command:
 
     pip install -r requirements.txt
 
-#### JavaScript
-
-**The npm package `data-cli` is required** if producing a `datapackage.json` file is desirable. If it is not available, the script will need to be run with other appropriate options (other than `package`) described when launching the script with no arguments. Install with one of the following commands:
-
-    # globally
-    npm install --global data-cli
-
-    # locally
-    npm install data-cli
-
 ## Execution
-
-### General help
 
     python collect.py
 
-This will display all available commands and options.
 
-### Quick start
+The clean data that's useful for distribution is located under the
+`data` directory like so:
 
-_Note: This requires all dependencies to be installed._
-
-    python collect.py everything reset
-
-This will do the following, in order:
-
-1. Remove all local data, if any (downloaded, processed and cleaned).
-2. Download data.
-3. Process CSV files (trim headers, delete empty rows, clean data).
-4. Generate truncated files to use with `data init` command.
-5. Generate a `datapackage.json` file and validate it.
-
-There will be quite a bit of output to the terminal. The final statement should read:
-
-    > Your Data Package is valid!
-
-The clean data that's useful for distribution in the end is located under the `population_reference_bureau` directory like so:
-
-    .
-    ├── population_reference_bureau
-    │   ├── datapackage.json
-    │   ├── inter
-    │   │   ├── ...
-    │   └── us
-    │       └── ...
+    data
+    ├── international
+    │   ├── [PACKAGE_NAME]
+    │   │   ├── data
+    │   │   │   └── international_[PACKAGE_NAME].csv
+    │   │   └── datapackage.json
+    │   ├── ... other packages ...
+    └── us
+        ├── [PACKAGE_NAME]
+        │   ├── data
+        │   │   └── us_[PACKAGE_NAME].csv
+        │   └── datapackage.json
+        └── ... other packages ...
