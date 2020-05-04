@@ -45,13 +45,13 @@ def clean_data(filename: str, location: str) -> None:
     """Clean and validate data with `dataflows`, creating data packages in the
     process, one for each file."""
     global FILE_NAME
-    FILE_NAME = f"{location}_{filename}"
+    FILE_NAME = f"{location}-{filename}"
     clean_directory, _, processing_directory = set_location_dirs(location)
     exported_file = f"{clean_directory}/{filename}"
     _ = Flow(
         load(
             f"{processing_directory}/{filename}.csv",
-            name=f"{location}_{filename}",
+            name=FILE_NAME,
         ),
         change_path,
         add_field("NameFIPS", "string"),
