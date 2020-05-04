@@ -18,14 +18,14 @@ The clean data that's useful for distribution is located under the
 
     data
     ├── international
-    │   ├── [PACKAGE_NAME]
+    │   ├── [PACKAGE-NAME]
     │   │   ├── data
-    │   │   │   └── international_[PACKAGE_NAME].csv
+    │   │   │   └── international-[PACKAGE-NAME].csv
     │   │   └── datapackage.json
     │   ├── ... other packages ...
     └── us
-        ├── [PACKAGE_NAME]
+        ├── [PACKAGE-NAME]
         │   ├── data
-        │   │   └── us_[PACKAGE_NAME].csv
+        │   │   └── us-[PACKAGE-NAME].csv
         │   └── datapackage.json
         └── ... other packages ...
