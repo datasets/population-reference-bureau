@@ -1,7 +1,7 @@
 {
   "bytes": 3681,
   "count_of_rows": 104,
-  "hash": "1d064511221bd8b5e53fc17fe0b56467",
+  "hash": "c685ecf89cdeadf84b72291f8ab788dc",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "73dbd15a08a09fc00b6dc06033a76118",
-      "name": "us_gini",
-      "path": "data/us_gini.csv",
+      "name": "us-gini",
+      "path": "data/us-gini.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

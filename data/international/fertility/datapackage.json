@@ -1,7 +1,7 @@
 {
   "bytes": 7606,
   "count_of_rows": 234,
-  "hash": "c9faac51a54eda58d4fb481ab55e4551",
+  "hash": "07c65a4ecdee62463c20d9dab8ae8952",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "1f814e30309c9cdef8fcfb94d966bbff",
-      "name": "international_fertility",
-      "path": "data/international_fertility.csv",
+      "name": "international-fertility",
+      "path": "data/international-fertility.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

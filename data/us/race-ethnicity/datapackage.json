@@ -1,7 +1,7 @@
 {
   "bytes": 2413326,
   "count_of_rows": 60686,
-  "hash": "8385be9e95fb293d7fbbec746c23cecc",
+  "hash": "7150c203ed6dd4550ee8aa948d644080",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "8fcb27db3bedb47adcd797701c1b2f40",
-      "name": "us_race-ethnicity",
-      "path": "data/us_race-ethnicity.csv",
+      "name": "us-race-ethnicity",
+      "path": "data/us-race-ethnicity.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

@@ -1,7 +1,7 @@
 {
   "bytes": 2286708,
   "count_of_rows": 60686,
-  "hash": "0f9d28535cf64ab6c399847dbabbe7b0",
+  "hash": "4367d43a605768945e21b5e8413938e9",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "a2a08fed162b1746f187401f13726870",
-      "name": "us_elderly-support-ratio",
-      "path": "data/us_elderly-support-ratio.csv",
+      "name": "us-elderly-support-ratio",
+      "path": "data/us-elderly-support-ratio.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

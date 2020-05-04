@@ -1,7 +1,7 @@
 {
   "bytes": 133837,
   "count_of_rows": 3194,
-  "hash": "236f61e79efa4e8ab8779daa567eee68",
+  "hash": "e127b79dfff0a72d61ccb052a1451d32",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "b6d6bc67923d4a8567a5d232759ecd6d",
-      "name": "us_migration",
-      "path": "data/us_migration.csv",
+      "name": "us-migration",
+      "path": "data/us-migration.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

@@ -1,7 +1,7 @@
 {
   "bytes": 3634,
   "count_of_rows": 104,
-  "hash": "ebbf9a98a9462f8d9553fddf905039fc",
+  "hash": "691c0938a80aef95a9ff2eb569e3b339",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "521950104580a3b91dd5fd71814fbcf2",
-      "name": "us_marriage-age-women",
-      "path": "data/us_marriage-age-women.csv",
+      "name": "us-marriage-age-women",
+      "path": "data/us-marriage-age-women.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

@@ -1,7 +1,7 @@
 {
   "bytes": 28836,
   "count_of_rows": 936,
-  "hash": "561b04cc062b84ff37dbbcf2ab8955bf",
+  "hash": "23dd255dd27ec731fd5e475b03b1ffea",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "d401bfa549ff0232e76f50c022470714",
-      "name": "us_deaths",
-      "path": "data/us_deaths.csv",
+      "name": "us-deaths",
+      "path": "data/us-deaths.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

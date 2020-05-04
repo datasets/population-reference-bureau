@@ -1,7 +1,7 @@
 {
   "bytes": 29031,
   "count_of_rows": 936,
-  "hash": "5d5369feb193d55cfcbaf6421dc7985d",
+  "hash": "d5da685cf28a67b5e061bc62b0b1dd78",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "f76ff799b2dfd7df67914741d4afb6b4",
-      "name": "us_births",
-      "path": "data/us_births.csv",
+      "name": "us-births",
+      "path": "data/us-births.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

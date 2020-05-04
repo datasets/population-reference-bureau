@@ -1,7 +1,7 @@
 {
   "bytes": 7412,
   "count_of_rows": 234,
-  "hash": "2bffa99681280734f04c34c3fdd0b1b9",
+  "hash": "4be688927f50fa218c6fa04b0364f43a",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "0645b2bb4c8ed1b536924fc437815166",
-      "name": "international_life-expectancy-birth-female",
-      "path": "data/international_life-expectancy-birth-female.csv",
+      "name": "international-life-expectancy-birth-female",
+      "path": "data/international-life-expectancy-birth-female.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

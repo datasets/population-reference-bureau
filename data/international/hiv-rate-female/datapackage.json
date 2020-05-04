@@ -1,7 +1,7 @@
 {
   "bytes": 7607,
   "count_of_rows": 234,
-  "hash": "2d15dc8360c1188f0f8dbc2c83874eb0",
+  "hash": "2c1f5102df591f6eb753b0fdd0e0c6a7",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "46d170e9814a80d037baf02fe1852663",
-      "name": "international_hiv-rate-female",
-      "path": "data/international_hiv-rate-female.csv",
+      "name": "international-hiv-rate-female",
+      "path": "data/international-hiv-rate-female.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

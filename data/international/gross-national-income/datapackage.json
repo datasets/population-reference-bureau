@@ -1,7 +1,7 @@
 {
   "bytes": 7985,
   "count_of_rows": 234,
-  "hash": "2e192581244d7b9eafe0ef100e1e939a",
+  "hash": "f75d0ad55b5dcbb24adbe4151b2705fe",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "f38eedd199e0ad1dadf61418265a210b",
-      "name": "international_gross-national-income",
-      "path": "data/international_gross-national-income.csv",
+      "name": "international-gross-national-income",
+      "path": "data/international-gross-national-income.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

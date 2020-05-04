@@ -1,7 +1,7 @@
 {
   "bytes": 7634,
   "count_of_rows": 234,
-  "hash": "dc0b57a8a8924b14b4d017a75908527f",
+  "hash": "3e9b4085850876eb376a31637acc5bf1",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "60e52cb9ba8683da2ccbdad18a4344f6",
-      "name": "international_hiv-rate-male",
-      "path": "data/international_hiv-rate-male.csv",
+      "name": "international-hiv-rate-male",
+      "path": "data/international-hiv-rate-male.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

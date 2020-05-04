@@ -1,7 +1,7 @@
 {
   "bytes": 8095,
   "count_of_rows": 234,
-  "hash": "8d2db8b93c5e7591f484ca239bb0e0fe",
+  "hash": "55ab50bd514f681722db14a43db8d36e",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "d05c9ad301716e184ae9a6ca41954885",
-      "name": "international_rate-natural-increase",
-      "path": "data/international_rate-natural-increase.csv",
+      "name": "international-rate-natural-increase",
+      "path": "data/international-rate-natural-increase.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

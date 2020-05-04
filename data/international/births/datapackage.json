@@ -1,7 +1,7 @@
 {
   "bytes": 7384,
   "count_of_rows": 234,
-  "hash": "3c68be64ae28bc269ad77b22a8db1054",
+  "hash": "7baf906625e3921499e20cb29c6bc572",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "126b3b4c53b3581bed43d9abd574a76a",
-      "name": "international_births",
-      "path": "data/international_births.csv",
+      "name": "international-births",
+      "path": "data/international-births.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

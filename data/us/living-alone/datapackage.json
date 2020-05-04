@@ -1,7 +1,7 @@
 {
   "bytes": 412860,
   "count_of_rows": 9582,
-  "hash": "142984c05d0e7e9189317ff7a065e5c7",
+  "hash": "a0d97c8d20de655a98015622cf2a50d2",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "60231ca0892a0b93113ffa0ba9c07f5a",
-      "name": "us_living-alone",
-      "path": "data/us_living-alone.csv",
+      "name": "us-living-alone",
+      "path": "data/us-living-alone.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

@@ -1,7 +1,7 @@
 {
   "bytes": 7803,
   "count_of_rows": 234,
-  "hash": "cd86b0bc57bc0b0d233054cf534f4d75",
+  "hash": "d63becbe5def29c432406773d246ea91",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "35965687985f3bfbd944682fa501968d",
-      "name": "international_hh-one-person",
-      "path": "data/international_hh-one-person.csv",
+      "name": "international-hh-one-person",
+      "path": "data/international-hh-one-person.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

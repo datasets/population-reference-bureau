@@ -1,7 +1,7 @@
 {
   "bytes": 2419388,
   "count_of_rows": 60686,
-  "hash": "ba69afb3bcaa6766ca4e88d8cea49fda",
+  "hash": "cdbcfcf5a2d1c468a57c912dd3e161ec",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "ffdff6f586a312c3b3b37f7a0e6249c3",
-      "name": "us_population",
-      "path": "data/us_population.csv",
+      "name": "us-population",
+      "path": "data/us-population.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

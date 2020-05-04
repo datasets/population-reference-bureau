@@ -1,7 +1,7 @@
 {
   "bytes": 7412,
   "count_of_rows": 234,
-  "hash": "41b3298f76b127b306c4ab33ba6358ea",
+  "hash": "279d400e5c4dde0de1587f3d9e15cc85",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "2931b6eb04beef132852da3d64f0cc4b",
-      "name": "international_life-expectancy-birth-male",
-      "path": "data/international_life-expectancy-birth-male.csv",
+      "name": "international-life-expectancy-birth-male",
+      "path": "data/international-life-expectancy-birth-male.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

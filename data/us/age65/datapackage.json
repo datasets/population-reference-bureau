@@ -1,7 +1,7 @@
 {
   "bytes": 2413120,
   "count_of_rows": 60686,
-  "hash": "8677b29148109efaac3e13063a65cbb0",
+  "hash": "baf55d7ac0373962f2722babe390cb35",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "8d81c692aaf00f2253ed8bfa4cbe03b7",
-      "name": "us_age65",
-      "path": "data/us_age65.csv",
+      "name": "us-age65",
+      "path": "data/us-age65.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

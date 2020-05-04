@@ -1,7 +1,7 @@
 {
   "bytes": 7832,
   "count_of_rows": 234,
-  "hash": "ac9eddd7be69eb202c1dc0b88a22e099",
+  "hash": "ce6075beade689c63467b971f46d5f74",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "8a62fad655043785a482566c38ae7c19",
-      "name": "international_urban",
-      "path": "data/international_urban.csv",
+      "name": "international-urban",
+      "path": "data/international-urban.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

@@ -1,7 +1,7 @@
 {
   "bytes": 3630,
   "count_of_rows": 104,
-  "hash": "323fde0ca5832c761b90c8362c68eb50",
+  "hash": "689946b69a5ec16b4a52efecabdff51f",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "67cde6f10ee2303a68ceac82f39a3608",
-      "name": "us_marriage-age-men",
-      "path": "data/us_marriage-age-men.csv",
+      "name": "us-marriage-age-men",
+      "path": "data/us-marriage-age-men.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

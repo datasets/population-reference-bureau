@@ -1,7 +1,7 @@
 {
   "bytes": 412830,
   "count_of_rows": 9582,
-  "hash": "65e8827f2c01ab260abbd6c610693ec0",
+  "hash": "d65a241315596a32496c8fb65870d526",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "6571e4e5b9cccc3613e77493f7ed05f5",
-      "name": "us_foreign-born",
-      "path": "data/us_foreign-born.csv",
+      "name": "us-foreign-born",
+      "path": "data/us-foreign-born.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

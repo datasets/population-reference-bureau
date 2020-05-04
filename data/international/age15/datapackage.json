@@ -1,7 +1,7 @@
 {
   "bytes": 7861,
   "count_of_rows": 234,
-  "hash": "301850c31778c0f1e182ee04a55bcc41",
+  "hash": "de4f998232efc808c04e69652d30703e",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "2efa7b2a529d2f9fa2fce93ca5e7b10d",
-      "name": "international_age15",
-      "path": "data/international_age15.csv",
+      "name": "international-age15",
+      "path": "data/international-age15.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

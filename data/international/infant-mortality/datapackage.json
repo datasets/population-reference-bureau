@@ -1,7 +1,7 @@
 {
   "bytes": 7431,
   "count_of_rows": 234,
-  "hash": "d3b4dc1df24f69e24218e1dacd585e6e",
+  "hash": "9bc3619b9a4f08880432d8a4f3d0affa",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "0118fe8018915a9fd4e67593a73cd28a",
-      "name": "international_infant-mortality",
-      "path": "data/international_infant-mortality.csv",
+      "name": "international-infant-mortality",
+      "path": "data/international-infant-mortality.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

@@ -1,7 +1,7 @@
 {
   "bytes": 8248,
   "count_of_rows": 234,
-  "hash": "5979c6f445978f3e6fab61b9551a2c6c",
+  "hash": "3ddb91d022f14790b5237f6fab499763",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "544b7c016cc969668c111bb89526ebae",
-      "name": "international_population-2035",
-      "path": "data/international_population-2035.csv",
+      "name": "international-population-2035",
+      "path": "data/international-population-2035.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

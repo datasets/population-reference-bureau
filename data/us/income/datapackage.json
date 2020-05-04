@@ -1,7 +1,7 @@
 {
   "bytes": 413402,
   "count_of_rows": 9582,
-  "hash": "4721da80fc7c76af420696fefdd7b912",
+  "hash": "3d9c0ebc873751088bbb3d98bd0513ca",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "97b77dd409e6aa7f30d062db8dbde874",
-      "name": "us_income",
-      "path": "data/us_income.csv",
+      "name": "us-income",
+      "path": "data/us-income.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

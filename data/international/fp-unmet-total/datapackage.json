@@ -1,7 +1,7 @@
 {
   "bytes": 7859,
   "count_of_rows": 234,
-  "hash": "04d8fba452c9aa16f227ddaf6240ed10",
+  "hash": "db2a030fb4d264c624140ec5301894f9",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "888859c31f80c4e9acf1be079ef75085",
-      "name": "international_fp-unmet-total",
-      "path": "data/international_fp-unmet-total.csv",
+      "name": "international-fp-unmet-total",
+      "path": "data/international-fp-unmet-total.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

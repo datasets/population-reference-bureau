@@ -1,7 +1,7 @@
 {
   "bytes": 7860,
   "count_of_rows": 234,
-  "hash": "de2ad1dd593e68858efa0230a120a74d",
+  "hash": "6a63d792bc821bd28830d7076c920170",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "96af278ec181d034ee439ab211ce8bbe",
-      "name": "international_hh-size-av",
-      "path": "data/international_hh-size-av.csv",
+      "name": "international-hh-size-av",
+      "path": "data/international-hh-size-av.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

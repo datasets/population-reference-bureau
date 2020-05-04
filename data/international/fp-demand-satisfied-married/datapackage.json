@@ -1,7 +1,7 @@
 {
   "bytes": 7864,
   "count_of_rows": 234,
-  "hash": "bf676e2f2ef1eb06d22c430c0b3c7af6",
+  "hash": "1f0530d3936cfb221eba7f8b5b3da214",
   "profile": "data-package",
   "resources": [
     {
@@ -18,8 +18,8 @@
       "encoding": "utf-8",
       "format": "csv",
       "hash": "21513e5962c741fcce32fa8155e72976",
-      "name": "international_fp-demand-satisfied-married",
-      "path": "data/international_fp-demand-satisfied-married.csv",
+      "name": "international-fp-demand-satisfied-married",
+      "path": "data/international-fp-demand-satisfied-married.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
