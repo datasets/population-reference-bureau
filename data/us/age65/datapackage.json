@@ -1,11 +1,11 @@
 {
-  "bytes": 2413120,
+  "bytes": 2413177,
   "count_of_rows": 60686,
-  "hash": "baf55d7ac0373962f2722babe390cb35",
+  "hash": "bfa7599fdd7d668be04ac73425b33592",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 2413120,
+      "bytes": 2413177,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -17,7 +17,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "8d81c692aaf00f2253ed8bfa4cbe03b7",
+      "hash": "0d39520a0958c9e408043b62196fe224",
       "name": "us-age65",
       "path": "data/us-age65.csv",
       "profile": "tabular-data-resource",

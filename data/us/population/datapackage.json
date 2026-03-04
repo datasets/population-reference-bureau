@@ -1,11 +1,11 @@
 {
-  "bytes": 2419388,
+  "bytes": 2419445,
   "count_of_rows": 60686,
-  "hash": "cdbcfcf5a2d1c468a57c912dd3e161ec",
+  "hash": "d9186bdf37e633df6d4dc41ca0ee8ffe",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 2419388,
+      "bytes": 2419445,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -17,7 +17,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "ffdff6f586a312c3b3b37f7a0e6249c3",
+      "hash": "bb345fc082a4eab8938d24dfb46d3f6e",
       "name": "us-population",
       "path": "data/us-population.csv",
       "profile": "tabular-data-resource",

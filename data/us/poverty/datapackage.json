@@ -1,11 +1,11 @@
 {
-  "bytes": 412089,
+  "bytes": 412098,
   "count_of_rows": 9582,
-  "hash": "28a2fa02d62a553d77b4ac65cabe4606",
+  "hash": "19750082297eb98c03bdbbd9f10cd508",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 412089,
+      "bytes": 412098,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -17,7 +17,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "5d49c4349e3b452d6e22928669b6ea2d",
+      "hash": "088f477f100ec1dfcf3002085bca90e7",
       "name": "us-poverty",
       "path": "data/us-poverty.csv",
       "profile": "tabular-data-resource",

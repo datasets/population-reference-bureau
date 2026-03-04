@@ -1,11 +1,11 @@
 {
-  "bytes": 275841,
+  "bytes": 275847,
   "count_of_rows": 6388,
-  "hash": "8cac3b540ae7dee5fd284b81b1758d81",
+  "hash": "43581f3c141fd59f2415abb5b5874327",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 275841,
+      "bytes": 275847,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -17,7 +17,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "4f51f564fc261f46fa6e44b1d5fd0a11",
+      "hash": "4dcd21e83d774a06ba4fee600d994ce1",
       "name": "us-population-change",
       "path": "data/us-population-change.csv",
       "profile": "tabular-data-resource",
