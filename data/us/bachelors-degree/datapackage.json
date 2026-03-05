@@ -1,11 +1,11 @@
 {
-  "bytes": 412613,
+  "bytes": 412622,
   "count_of_rows": 9582,
-  "hash": "bdd42265bed202a1a62c5d5962f57353",
+  "hash": "8a9591f7aac6cbfa891262916189eb62",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 412613,
+      "bytes": 412622,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -17,7 +17,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "930c07181eb0ab223fbb71dbc9e08324",
+      "hash": "71c884c7e53ef561328f119a92134080",
       "name": "us-bachelors-degree",
       "path": "data/us-bachelors-degree.csv",
       "profile": "tabular-data-resource",
