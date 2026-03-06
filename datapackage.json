@@ -1,0 +1,1394 @@
+{
+  "name": "population-reference-bureau",
+  "title": "Population Reference Bureau Data",
+  "description": "Curated U.S. and international demographic indicators published by the Population Reference Bureau.",
+  "profile": "data-package",
+  "licenses": [
+    {
+      "name": "ODC-PDDL-1.0",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License v1.0"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Population Reference Bureau (U.S.)",
+      "path": "https://www.prb.org/usdata/",
+      "title": "Population Reference Bureau U.S. Data Center"
+    },
+    {
+      "name": "Population Reference Bureau (International)",
+      "path": "https://www.prb.org/international/",
+      "title": "Population Reference Bureau International Data Center"
+    }
+  ],
+  "resources": [
+    {
+      "name": "international-age15",
+      "path": "data/international/age15/data/international-age15.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-age65",
+      "path": "data/international/age65/data/international-age65.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-births",
+      "path": "data/international/births/data/international-births.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-deaths",
+      "path": "data/international/deaths/data/international-deaths.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-fertility",
+      "path": "data/international/fertility/data/international-fertility.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-fp-demand-satisfied-married",
+      "path": "data/international/fp-demand-satisfied-married/data/international-fp-demand-satisfied-married.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-fp-total-modern",
+      "path": "data/international/fp-total-modern/data/international-fp-total-modern.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-fp-unmet-total",
+      "path": "data/international/fp-unmet-total/data/international-fp-unmet-total.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-gross-national-income",
+      "path": "data/international/gross-national-income/data/international-gross-national-income.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-hh-one-person",
+      "path": "data/international/hh-one-person/data/international-hh-one-person.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-hh-size-av",
+      "path": "data/international/hh-size-av/data/international-hh-size-av.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-hiv-rate-female",
+      "path": "data/international/hiv-rate-female/data/international-hiv-rate-female.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-hiv-rate-male",
+      "path": "data/international/hiv-rate-male/data/international-hiv-rate-male.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-infant-mortality",
+      "path": "data/international/infant-mortality/data/international-infant-mortality.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-life-expectancy-birth-female",
+      "path": "data/international/life-expectancy-birth-female/data/international-life-expectancy-birth-female.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-life-expectancy-birth-male",
+      "path": "data/international/life-expectancy-birth-male/data/international-life-expectancy-birth-male.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-population-2035",
+      "path": "data/international/population-2035/data/international-population-2035.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-population-2050",
+      "path": "data/international/population-2050/data/international-population-2050.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-population",
+      "path": "data/international/population/data/international-population.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-rate-natural-increase",
+      "path": "data/international/rate-natural-increase/data/international-rate-natural-increase.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "international-urban",
+      "path": "data/international/urban/data/international-urban.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "us-age18",
+      "path": "data/us/age18/data/us-age18.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "us-age65",
+      "path": "data/us/age65/data/us-age65.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "us-bachelors-degree",
+      "path": "data/us/bachelors-degree/data/us-bachelors-degree.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "us-births",
+      "path": "data/us/births/data/us-births.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "us-deaths",
+      "path": "data/us/deaths/data/us-deaths.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "us-elderly-support-ratio",
+      "path": "data/us/elderly-support-ratio/data/us-elderly-support-ratio.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "us-fertility",
+      "path": "data/us/fertility/data/us-fertility.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "us-foreign-born",
+      "path": "data/us/foreign-born/data/us-foreign-born.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "us-gini",
+      "path": "data/us/gini/data/us-gini.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "us-income",
+      "path": "data/us/income/data/us-income.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "us-living-alone",
+      "path": "data/us/living-alone/data/us-living-alone.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "us-marriage-age-men",
+      "path": "data/us/marriage-age-men/data/us-marriage-age-men.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "us-marriage-age-women",
+      "path": "data/us/marriage-age-women/data/us-marriage-age-women.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "us-migration",
+      "path": "data/us/migration/data/us-migration.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "us-population-change",
+      "path": "data/us/population-change/data/us-population-change.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "us-population",
+      "path": "data/us/population/data/us-population.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "us-poverty",
+      "path": "data/us/poverty/data/us-poverty.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "us-race-ethnicity",
+      "path": "data/us/race-ethnicity/data/us-race-ethnicity.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TimeFrame",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Data",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NameFIPS",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ],
+  "collection": "demographics",
+  "version": "0.1.0"
+}
