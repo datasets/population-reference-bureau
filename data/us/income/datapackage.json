@@ -1,11 +1,11 @@
 {
-  "bytes": 413411,
+  "bytes": 413402,
   "count_of_rows": 9582,
-  "hash": "e64dbca43bd2936719855a15f8b81cc8",
+  "hash": "3d9c0ebc873751088bbb3d98bd0513ca",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 413411,
+      "bytes": 413402,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -17,7 +17,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "37965689b9181be9934b1ee9c4088397",
+      "hash": "97b77dd409e6aa7f30d062db8dbde874",
       "name": "us-income",
       "path": "data/us-income.csv",
       "profile": "tabular-data-resource",

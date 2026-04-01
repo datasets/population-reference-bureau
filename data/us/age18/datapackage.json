@@ -1,11 +1,11 @@
 {
-  "bytes": 2413264,
+  "bytes": 2413207,
   "count_of_rows": 60686,
-  "hash": "a3d67a6a0e7c37c74e74f334ab7fc935",
+  "hash": "b793e57dfa6a1c03a4512d73f8b75f3b",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 2413264,
+      "bytes": 2413207,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -17,7 +17,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "9c6435dc86091a9cee2a820a63b9171d",
+      "hash": "b57030aeb381fa5281abff80b1e179b6",
       "name": "us-age18",
       "path": "data/us-age18.csv",
       "profile": "tabular-data-resource",

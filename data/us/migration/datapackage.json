@@ -1,11 +1,11 @@
 {
-  "bytes": 133840,
+  "bytes": 133837,
   "count_of_rows": 3194,
-  "hash": "bea970af4351e2f952659efd7d8b2fc3",
+  "hash": "e127b79dfff0a72d61ccb052a1451d32",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 133840,
+      "bytes": 133837,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -17,7 +17,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "de2d7b5b93c229d0ce33b624ab381c33",
+      "hash": "b6d6bc67923d4a8567a5d232759ecd6d",
       "name": "us-migration",
       "path": "data/us-migration.csv",
       "profile": "tabular-data-resource",
